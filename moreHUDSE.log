@@ -1,0 +1,20 @@
+[2023-01-01 01:14:18.706] [global log] [info] [main.cpp:163] moreHUD loading
+[2023-01-01 01:14:18.706] [global log] [info] [main.cpp:164] moreHUD v5.2.0.0
+[2023-01-01 01:14:18.706] [global log] [info] [main.cpp:190] registered listener
+[2023-01-01 01:14:18.706] [global log] [info] [Papyrus.cpp:13] registered papyrus PapyrusMoreHud funcs
+[2023-01-01 01:14:18.706] [global log] [info] [main.cpp:197] Installing patched
+[2023-01-01 01:14:18.707] [global log] [info] [Patches.cpp:14] Installed all patches
+[2023-01-01 01:14:18.707] [global log] [info] [main.cpp:200] Registering Callbacks
+[2023-01-01 01:14:18.707] [global log] [info] [Scaleform.cpp:312] Registered all scaleform callbacks
+[2023-01-01 01:14:18.707] [global log] [info] [main.cpp:203] moreHUD loaded
+[2023-01-01 01:15:07.184] [global log] [info] [AHZVanillaFormTable.cpp:101] Loading Vanilla ACTI Forms...
+[2023-01-01 01:15:07.184] [global log] [info] [AHZVanillaFormTable.cpp:120] Loading Vanilla VM Script Variables...
+[2023-01-01 01:15:07.184] [global log] [info] [main.cpp:41] Processing any third party .mhud files that may exist...
+[2023-01-01 01:15:07.184] [global log] [info] [AHZUtilities.cpp:11] Search the 'D:\SteamLibrary\steamapps\common\Skyrim Special Edition\Data\' directory...
+[2023-01-01 01:15:07.184] [global log] [info] [main.cpp:50] No third party .mHud files where detected.
+[2023-01-01 01:15:07.184] [global log] [info] [main.cpp:59] Third party .mHud file processing completed.
+[2023-01-01 01:15:07.184] [global log] [info] [main.cpp:61] Registering Events
+[2023-01-01 01:15:07.184] [global log] [info] [Events.cpp:105] Registered struct SKSE::CrosshairRefEvent
+[2023-01-01 01:15:07.184] [global log] [info] [Events.cpp:144] registered crosshair event
+[2023-01-01 01:15:07.184] [global log] [info] [Events.cpp:146] registered menu event
+[2023-01-01 01:15:07.184] [global log] [info] [Events.cpp:147] Installed all event sinks

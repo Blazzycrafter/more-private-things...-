@@ -1,0 +1,11 @@
+[2023-01-01 01:14:20.722] [Global] [info] [19892] [main.cpp:87] OBody 1.0.0.0 is loading...
+[2023-01-01 01:14:20.722] [Global] [info] [19892] [main.cpp:96] OBody has finished loading.
+[2023-01-01 01:14:21.616] [Global] [info] [19892] [main.cpp:66] BodyMorph Version 4
+[2023-01-01 01:14:21.621] [Global] [info] [19892] [Body.cpp:110] Female presets: 39
+[2023-01-01 01:14:21.621] [Global] [info] [19892] [Body.cpp:111] Male presets: 0
+[2023-01-01 01:19:16.715] [Global] [info] [19892] [Event.h:57] Script init Cap appeared
+[2023-01-01 01:19:18.832] [Global] [info] [19892] [Event.h:87] GameLoaded
+[2023-01-01 01:19:20.648] [Global] [info] [23244] [Event.h:124] Not equipped
+[2023-01-01 01:19:23.611] [Global] [info] [21772] [Event.h:57] Script init Mary-Jane appeared
+[2023-01-01 01:19:23.834] [Global] [info] [10220] [Event.h:124] Not equipped
+[2023-01-01 01:19:25.083] [Global] [info] [21772] [Event.h:124] Not equipped

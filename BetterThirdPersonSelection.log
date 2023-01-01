@@ -1,0 +1,30 @@
+[info] BetterThirdPersonSelection v0.5.7
+[info] BTPS applying hooks...
+[info] BTPS applying ActivateHook
+[info] BTPS applying SelectionHook
+[info] BTPS applying MainUpdateHook
+[info] BTPS applying HorseBackHook
+[info] BTPS finished applying hooks...
+[info] BTPS: successfully registered SelectionWidgetMenu
+[info] BTPS: registering DebugOverlayMenu...
+[info] BTPS: successfully registered DebugOverlayMenu
+[info] BTPS: successfully registered MenuOpenCloseEventHandler
+[info] BTPS: compat - found QuickLootEE
+[info] BTPS: compat - found TrueDirectionalMovement
+[info] BTPS: compat - found TrueHUD
+[info] BTPS: TrueHUD interface request successful - V3
+[info] BTPS: overriding QuickLootRE hooks
+[info] BTPS: Registered BetterThirdPersonSelection_MCM class
+[info] BTPS: successfully registered Papyrus data
+[error] BTPS: failed to load settings - can't open file 'Data/MCM/Settings/BetterThirdPersonSelection.ini'
+[info] BTPS: finished reading settings
+[info] BTPS: finished reading ObjectFilterList
+[info] BTPS: finished reading ObjectFilterList
+[info] BTPS: finished reading FilterPresets file
+[info] BTPS: finished reading FilterPresets file
+[info] BTPS: finished reading FilterStates.json
+[info] BTPS: successfully enabled InputHandler
+[info] BTPS: DebugAPI::CacheMenuData
+[info] BTPS: SelectionWidgetMenu loaded flash
+[info] BTPS: compat - found MoreHUD
+[info] BTPS: successfully finished InitHUDValues

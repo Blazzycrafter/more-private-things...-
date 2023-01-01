@@ -1,0 +1,26 @@
+[01:14:21:319] po3_Tweaks v1.7.5.1
+[01:14:21:319] Game version : 1-6-640-0
+[01:14:21:320] *****BEGIN PRELOAD PATCH******
+[01:14:21:614] ****BEGIN POST LOAD PATCH*****
+[01:14:21:614] ************FIXES*************
+[01:14:21:614] Installed distant ref load crash fix
+[01:14:21:614] Installed map marker placement fix
+[01:14:21:614] Installed 'Can't Be Taken' book flag fix
+[01:14:21:614] Installed projectile range fix
+[01:14:21:614] Installed combat dialogue fix
+[01:14:21:614] Installed no death dispel spell reapply fix
+[01:14:21:614] Installed IsFurnitureAnimType fix
+[01:14:21:614] Installed light attach crash fix
+[01:14:21:614] Installed effect shader z buffer fix
+[01:14:21:614] Installed toggle collision fix
+[01:14:21:614] Installed skinned decal delete fix
+[01:14:21:614] Installed jumping bonus fix
+[01:14:21:615] Installed toggle global AI fix
+[01:14:21:615] Installed use furniture in combat tweak
+[01:14:21:615] Installed offensive spell AI fix
+[01:14:21:615] Installed editorID cache
+[01:14:21:615] ************TWEAKS************
+[01:14:21:615] *********EXPERIMENTAL*********
+[01:14:50:404] **********FUNCTIONS***********
+[01:14:50:404] Registered IsTweakInstalled
+[01:15:08:255] ***BEGIN DATA LOADED PATCH****

@@ -1,0 +1,6 @@
+[01:14:21:330] RecursionFPSFix v1.1.0
+[01:14:21:330] StackFrameOverFlow hooked at address 7ff6439885ff
+[01:14:21:330] StackFrameOverFlow hooked at offset 13885ff
+[01:14:21:330] StackFrameOverFlowLog hooked at address 7ff643988efa
+[01:14:21:330] StackFrameOverFlowLog hooked at offset 1388efa
+[01:14:21:330] Loaded Plugin

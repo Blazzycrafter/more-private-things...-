@@ -1,0 +1,168 @@
+NetImmerse Override Enabled
+config path = D:\SteamLibrary\steamapps\common\Skyrim Special Edition\Data\SKSE\skse.ini
+RaceMap::CreateDefaultMap - Added default slider maps for aaaHalfDragonRaceVampire from NordRace
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleHeadArgonian on ArgonianRaceVampire[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\MaleHeadArgonianChargen.tri - 1219 | Actors\Character\Character Assets\MaleHeadCustomizations.tri - 898).
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleMouthArgonian on ArgonianRaceVampire[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthArgonianChargen.tri - 478 | Actors\Character\Character Assets\Mouth\MouthHumanChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleEyesArgonianVampire on ArgonianRaceVampire[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\EyesArgonianChargen.tri - 50 | Actors\Character\Character Assets\EyesMaleCharGen.tri - 186).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleHeadArgonian on ArgonianRaceVampire[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\FemaleHeadArgonianChargen.tri - 1219 | Actors\Character\Character Assets\FemaleHeadCharGen.tri - 996).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleMouthArgonian on ArgonianRaceVampire[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthArgonianChargen.tri - 478 | Actors\Character\Character Assets\Mouth\MouthHumanFChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleEyesArgonianVampire on ArgonianRaceVampire[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\EyesArgonianChargen.tri - 50 | Actors\Character\Character Assets\EyesFemaleChargen.tri - 176).
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleHeadArgonian on ArgonianRace[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\MaleHeadArgonianChargen.tri - 1219 | Actors\Character\Character Assets\MaleHeadCustomizations.tri - 898).
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleMouthArgonian on ArgonianRace[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthArgonianChargen.tri - 478 | Actors\Character\Character Assets\Mouth\MouthHumanChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleEyesArgonian on ArgonianRace[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\EyesArgonianChargen.tri - 50 | Actors\Character\Character Assets\EyesMaleCharGen.tri - 186).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleHeadArgonian on ArgonianRace[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\FemaleHeadArgonianChargen.tri - 1219 | Actors\Character\Character Assets\FemaleHeadCharGen.tri - 996).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleEyesArgonian on ArgonianRace[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\EyesArgonianChargen.tri - 50 | Actors\Character\Character Assets\EyesFemaleChargen.tri - 176).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleMouthArgonian on ArgonianRace[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthArgonianChargen.tri - 478 | Actors\Character\Character Assets\Mouth\MouthHumanFChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleHeadArgonian on BGSSSE018_ArgonianRaceDoppelganger[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\MaleHeadArgonianChargen.tri - 1219 | Actors\Character\Character Assets\MaleHeadCustomizations.tri - 898).
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleMouthArgonian on BGSSSE018_ArgonianRaceDoppelganger[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthArgonianChargen.tri - 478 | Actors\Character\Character Assets\Mouth\MouthHumanChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleEyesArgonian on BGSSSE018_ArgonianRaceDoppelganger[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\EyesArgonianChargen.tri - 50 | Actors\Character\Character Assets\EyesMaleCharGen.tri - 186).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleHeadArgonian on BGSSSE018_ArgonianRaceDoppelganger[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\FemaleHeadArgonianChargen.tri - 1219 | Actors\Character\Character Assets\FemaleHeadCharGen.tri - 996).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleEyesArgonian on BGSSSE018_ArgonianRaceDoppelganger[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\EyesArgonianChargen.tri - 50 | Actors\Character\Character Assets\EyesFemaleChargen.tri - 176).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleMouthArgonian on BGSSSE018_ArgonianRaceDoppelganger[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthArgonianChargen.tri - 478 | Actors\Character\Character Assets\Mouth\MouthHumanFChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for TKAAHeadArgonian on TKAAArgonianRace[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\FemaleHeadArgonianChargen.tri - 1219 | Actors\Character\Character Assets\MaleHeadCustomizations.tri - 898).
+RacePartDefaultGen::Accept - Could not bind default morphs for TKAAMouthArgonian on TKAAArgonianRace[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthArgonianChargen.tri - 478 | Actors\Character\Character Assets\Mouth\MouthHumanChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for TKAAEyesArgonian on TKAAArgonianRace[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\EyesArgonianChargen.tri - 50 | Actors\Character\Character Assets\EyesMaleCharGen.tri - 186).
+RacePartDefaultGen::Accept - Could not bind default morphs for TKAAHeadArgonian on TKAAArgonianRace[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\FemaleHeadArgonianChargen.tri - 1219 | Actors\Character\Character Assets\FemaleHeadCharGen.tri - 996).
+RacePartDefaultGen::Accept - Could not bind default morphs for TKAAEyesArgonian on TKAAArgonianRace[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\EyesArgonianChargen.tri - 50 | Actors\Character\Character Assets\EyesFemaleChargen.tri - 176).
+RacePartDefaultGen::Accept - Could not bind default morphs for TKAAMouthArgonian on TKAAArgonianRace[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthArgonianChargen.tri - 478 | Actors\Character\Character Assets\Mouth\MouthHumanFChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleHeadArgonian on HRI_Alternate_Race_ArgonianRace[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\MaleHeadArgonianChargen.tri - 1219 | Actors\Character\Character Assets\MaleHeadCustomizations.tri - 898).
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleMouthArgonian on HRI_Alternate_Race_ArgonianRace[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthArgonianChargen.tri - 478 | Actors\Character\Character Assets\Mouth\MouthHumanChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleEyesArgonian on HRI_Alternate_Race_ArgonianRace[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\EyesArgonianChargen.tri - 50 | Actors\Character\Character Assets\EyesMaleCharGen.tri - 186).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleHeadArgonian on HRI_Alternate_Race_ArgonianRace[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\FemaleHeadArgonianChargen.tri - 1219 | Actors\Character\Character Assets\FemaleHeadCharGen.tri - 996).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleEyesArgonian on HRI_Alternate_Race_ArgonianRace[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\EyesArgonianChargen.tri - 50 | Actors\Character\Character Assets\EyesFemaleChargen.tri - 176).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleMouthArgonian on HRI_Alternate_Race_ArgonianRace[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthArgonianChargen.tri - 478 | Actors\Character\Character Assets\Mouth\MouthHumanFChargen.tri - 141).
+RacePartDefaultGen::Accept - Binding default morphs for ChildMouth (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri) on BretonRaceChildVampire[0] using NordRace. (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri - 141 | Actors\Character\Character Assets\Mouth\MouthHumanChargen.tri - 141)
+RacePartDefaultGen::Accept - Binding default morphs for ChildMouth (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri) on BretonRaceChildVampire[1] using NordRace. (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri - 141 | Actors\Character\Character Assets\Mouth\MouthHumanFChargen.tri - 141)
+RacePartDefaultGen::Accept - Binding default morphs for ChildMouth (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri) on BretonRaceChild[0] using NordRace. (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri - 141 | Actors\Character\Character Assets\Mouth\MouthHumanChargen.tri - 141)
+RacePartDefaultGen::Accept - Binding default morphs for ChildMouth (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri) on BretonRaceChild[1] using NordRace. (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri - 141 | Actors\Character\Character Assets\Mouth\MouthHumanFChargen.tri - 141)
+RacePartDefaultGen::Accept - Binding default morphs for ChildMouth (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri) on zzzPOBabetteRace[0] using NordRace. (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri - 141 | Actors\Character\Character Assets\Mouth\MouthHumanChargen.tri - 141)
+RacePartDefaultGen::Accept - Binding default morphs for ChildMouth (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri) on zzzPOBabetteRace[1] using NordRace. (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri - 141 | Actors\Character\Character Assets\Mouth\MouthHumanFChargen.tri - 141)
+RaceMap::CreateDefaultMap - Added default slider maps for DA13AfflictedRace from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for TKAABretonRace from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for HRI_Alternate_Race_BretonRace from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for TKAABretonRaceVampire from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for WB_ConjureCraftlord_Race from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for TKAADarkElfRace from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for HRI_Alternate_Race_DarkElfRace from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for ccBGSSSE025_DarkSeducerRace from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for DLC2DremoraRace from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for DremoraRace from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for ccBGSSSE025_GoldenSaintRace from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for aaaHalfDragonRace from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for 000FCArbiterRace from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for SnowElfRace from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for TKAAHighElfRace from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for HRI_Alternate_Race_HighElfRace from NordRace
+RacePartDefaultGen::Accept - Binding default morphs for ChildMouth (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri) on ImperialRaceChild[0] using NordRace. (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri - 141 | Actors\Character\Character Assets\Mouth\MouthHumanChargen.tri - 141)
+RacePartDefaultGen::Accept - Binding default morphs for ChildMouth (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri) on ImperialRaceChild[1] using NordRace. (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri - 141 | Actors\Character\Character Assets\Mouth\MouthHumanFChargen.tri - 141)
+RaceMap::CreateDefaultMap - Added default slider maps for TKAAImperialRace from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for HRI_Alternate_Race_ImperialRace from NordRace
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleHeadKhajiit on BGSSSE018_KhajiitRaceDoppelganger[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\MaleHeadKhajiitChargen.tri - 1356 | Actors\Character\Character Assets\MaleHeadCustomizations.tri - 898).
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleMouthKhajiit on BGSSSE018_KhajiitRaceDoppelganger[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MaleMouthKhajiitChargen.tri - 643 | Actors\Character\Character Assets\Mouth\MouthHumanChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleEyesKhajiitBase on BGSSSE018_KhajiitRaceDoppelganger[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\EyesKhajiitChargen.tri - 50 | Actors\Character\Character Assets\EyesMaleCharGen.tri - 186).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleHeadKhajiit on BGSSSE018_KhajiitRaceDoppelganger[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\FemaleHeadKhajiitChargen.tri - 1342 | Actors\Character\Character Assets\FemaleHeadCharGen.tri - 996).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleMouthKhajiit on BGSSSE018_KhajiitRaceDoppelganger[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthKhajiitFemaleChargen.tri - 643 | Actors\Character\Character Assets\Mouth\MouthHumanFChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleEyesKhajiitBase on BGSSSE018_KhajiitRaceDoppelganger[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\EyesKhajiitFemaleChargen.tri - 50 | Actors\Character\Character Assets\EyesFemaleChargen.tri - 176).
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleHeadKhajiit on KhajiitRaceVampire[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\MaleHeadKhajiitChargen.tri - 1356 | Actors\Character\Character Assets\MaleHeadCustomizations.tri - 898).
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleMouthKhajiit on KhajiitRaceVampire[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MaleMouthKhajiitChargen.tri - 643 | Actors\Character\Character Assets\Mouth\MouthHumanChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleEyesKhajiitVampire on KhajiitRaceVampire[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\EyesKhajiitChargen.tri - 50 | Actors\Character\Character Assets\EyesMaleCharGen.tri - 186).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleHeadKhajiit on KhajiitRaceVampire[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\FemaleHeadKhajiitChargen.tri - 1342 | Actors\Character\Character Assets\FemaleHeadCharGen.tri - 996).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleMouthKhajiit on KhajiitRaceVampire[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthKhajiitFemaleChargen.tri - 643 | Actors\Character\Character Assets\Mouth\MouthHumanFChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleEyesKhajiitVampire on KhajiitRaceVampire[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\EyesKhajiitFemaleChargen.tri - 50 | Actors\Character\Character Assets\EyesFemaleChargen.tri - 176).
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleHeadKhajiit on KhajiitRace[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\MaleHeadKhajiitChargen.tri - 1356 | Actors\Character\Character Assets\MaleHeadCustomizations.tri - 898).
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleMouthKhajiit on KhajiitRace[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MaleMouthKhajiitChargen.tri - 643 | Actors\Character\Character Assets\Mouth\MouthHumanChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleEyesKhajiitBase on KhajiitRace[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\EyesKhajiitChargen.tri - 50 | Actors\Character\Character Assets\EyesMaleCharGen.tri - 186).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleHeadKhajiit on KhajiitRace[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\FemaleHeadKhajiitChargen.tri - 1342 | Actors\Character\Character Assets\FemaleHeadCharGen.tri - 996).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleMouthKhajiit on KhajiitRace[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthKhajiitFemaleChargen.tri - 643 | Actors\Character\Character Assets\Mouth\MouthHumanFChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleEyesKhajiitBase on KhajiitRace[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\EyesKhajiitFemaleChargen.tri - 50 | Actors\Character\Character Assets\EyesFemaleChargen.tri - 176).
+RacePartDefaultGen::Accept - Could not bind default morphs for TKAAHeadKhajiit on TKAAKhajiitRace[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\FemaleHeadKhajiitChargen.tri - 1342 | Actors\Character\Character Assets\MaleHeadCustomizations.tri - 898).
+RacePartDefaultGen::Accept - Could not bind default morphs for TKAAMouthKhajiit on TKAAKhajiitRace[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthKhajiitFemaleChargen.tri - 643 | Actors\Character\Character Assets\Mouth\MouthHumanChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for TKAAEyesKhajiitBase on TKAAKhajiitRace[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\EyesKhajiitFemaleChargen.tri - 50 | Actors\Character\Character Assets\EyesMaleCharGen.tri - 186).
+RacePartDefaultGen::Accept - Could not bind default morphs for TKAAHeadKhajiit on TKAAKhajiitRace[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\FemaleHeadKhajiitChargen.tri - 1342 | Actors\Character\Character Assets\FemaleHeadCharGen.tri - 996).
+RacePartDefaultGen::Accept - Could not bind default morphs for TKAAMouthKhajiit on TKAAKhajiitRace[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthKhajiitFemaleChargen.tri - 643 | Actors\Character\Character Assets\Mouth\MouthHumanFChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for TKAAEyesKhajiitBase on TKAAKhajiitRace[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\EyesKhajiitFemaleChargen.tri - 50 | Actors\Character\Character Assets\EyesFemaleChargen.tri - 176).
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleHeadKhajiit on HRI_Alternate_Race_KhajiitRace[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\MaleHeadKhajiitChargen.tri - 1356 | Actors\Character\Character Assets\MaleHeadCustomizations.tri - 898).
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleMouthKhajiit on HRI_Alternate_Race_KhajiitRace[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MaleMouthKhajiitChargen.tri - 643 | Actors\Character\Character Assets\Mouth\MouthHumanChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleEyesKhajiitBase on HRI_Alternate_Race_KhajiitRace[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\EyesKhajiitChargen.tri - 50 | Actors\Character\Character Assets\EyesMaleCharGen.tri - 186).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleHeadKhajiit on HRI_Alternate_Race_KhajiitRace[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\FemaleHeadKhajiitChargen.tri - 1342 | Actors\Character\Character Assets\FemaleHeadCharGen.tri - 996).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleMouthKhajiit on HRI_Alternate_Race_KhajiitRace[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthKhajiitFemaleChargen.tri - 643 | Actors\Character\Character Assets\Mouth\MouthHumanFChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleEyesKhajiitBase on HRI_Alternate_Race_KhajiitRace[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\EyesKhajiitFemaleChargen.tri - 50 | Actors\Character\Character Assets\EyesFemaleChargen.tri - 176).
+RaceMap::CreateDefaultMap - Added default slider maps for TestRace from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for NordRaceAstrid from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for 000FCArbiterRace2 from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for BGSSSE018_NordRaceDoppelganger from NordRace
+RacePartDefaultGen::Accept - Binding default morphs for ChildMouth (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri) on zzzConchologistRace[0] using NordRace. (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri - 141 | Actors\Character\Character Assets\Mouth\MouthHumanChargen.tri - 141)
+RacePartDefaultGen::Accept - Binding default morphs for ChildMouth (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri) on zzzConchologistRace[1] using NordRace. (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri - 141 | Actors\Character\Character Assets\Mouth\MouthHumanFChargen.tri - 141)
+RaceMap::CreateDefaultMap - Added default slider maps for DLC1NordRace from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for DLC2MiraakRace from NordRace
+RacePartDefaultGen::Accept - Binding default morphs for ChildMouth (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri) on NordRaceChild[0] using NordRace. (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri - 141 | Actors\Character\Character Assets\Mouth\MouthHumanChargen.tri - 141)
+RacePartDefaultGen::Accept - Binding default morphs for ChildMouth (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri) on NordRaceChild[1] using NordRace. (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri - 141 | Actors\Character\Character Assets\Mouth\MouthHumanFChargen.tri - 141)
+RaceMap::CreateDefaultMap - Added default slider maps for TKAANordRace from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for HRI_Alternate_Race_NordRace from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for ElderRaceVampire from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for ElderRace from NordRace
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleMouthOrc1 on BGSSSE018_OrcRaceDoppelganger[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthOrcChargen.tri - 348 | Actors\Character\Character Assets\Mouth\MouthHumanChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleMouthOrc on BGSSSE018_OrcRaceDoppelganger[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthOrcFemaleChargen.tri - 348 | Actors\Character\Character Assets\Mouth\MouthHumanFChargen.tri - 141).
+RaceMap::CreateDefaultMap - Added default slider maps for BGSSSE018_OrcRaceDoppelganger from NordRace
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleMouthOrc1 on OrcRace[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthOrcChargen.tri - 348 | Actors\Character\Character Assets\Mouth\MouthHumanChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleMouthOrc on OrcRace[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthOrcFemaleChargen.tri - 348 | Actors\Character\Character Assets\Mouth\MouthHumanFChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleMouthOrc1 on OrcRaceVampire[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthOrcChargen.tri - 348 | Actors\Character\Character Assets\Mouth\MouthHumanChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleMouthOrc on OrcRaceVampire[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthOrcFemaleChargen.tri - 348 | Actors\Character\Character Assets\Mouth\MouthHumanFChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for TKAAMouthOrc on TKAAOrcRace[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthOrcFemaleChargen.tri - 348 | Actors\Character\Character Assets\Mouth\MouthHumanChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for TKAAMouthOrc on TKAAOrcRace[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthOrcFemaleChargen.tri - 348 | Actors\Character\Character Assets\Mouth\MouthHumanFChargen.tri - 141).
+RaceMap::CreateDefaultMap - Added default slider maps for TKAAOrcRace from NordRace
+RacePartDefaultGen::Accept - Could not bind default morphs for MaleMouthOrc1 on HRI_Alternate_Race_OrcRace[0] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthOrcChargen.tri - 348 | Actors\Character\Character Assets\Mouth\MouthHumanChargen.tri - 141).
+RacePartDefaultGen::Accept - Could not bind default morphs for FemaleMouthOrc on HRI_Alternate_Race_OrcRace[1] using NordRace. Vertex mismatch (Actors\Character\Character Assets\Mouth\MouthOrcFemaleChargen.tri - 348 | Actors\Character\Character Assets\Mouth\MouthHumanFChargen.tri - 141).
+RaceMap::CreateDefaultMap - Added default slider maps for HRI_Alternate_Race_OrcRace from NordRace
+RacePartDefaultGen::Accept - Binding default morphs for ChildMouth (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri) on RedguardRaceChild[0] using NordRace. (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri - 141 | Actors\Character\Character Assets\Mouth\MouthHumanChargen.tri - 141)
+RacePartDefaultGen::Accept - Binding default morphs for ChildMouth (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri) on RedguardRaceChild[1] using NordRace. (Actors\Character\Character Assets\Mouth\MouthChildChargen.tri - 141 | Actors\Character\Character Assets\Mouth\MouthHumanFChargen.tri - 141)
+RaceMap::CreateDefaultMap - Added default slider maps for TKAARedguardRace from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for HRI_Alternate_Race_RedguardRace from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for CLWShadowRace from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for TKAASnowElfRace from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for SunElfRacePlayable from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for SunElfRaceVampirePlayable from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for BGSSSE018_WoodElfRaceDoppelganger from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for TKAAWoodElfRace from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for HRI_Alternate_Race_WoodElfRace from NordRace
+RaceMap::CreateDefaultMap - Added default slider maps for 000FCZombieRace from NordRace
+Reverting...
+Loading...
+Loaded Morph: ECE_NoseTipWidth - Value: -0.310000
+Loaded Morph: CME_EyesSlope - Value: -0.190000
+Loaded Morph: CME_EyesSize - Value: 0.910000
+Loaded Morph: CME_EyeballSize - Value: -0.010000
+Loaded Morph: CME_NoseType - Value: 12.000000
+Loaded Morph: RANs_LipDuckly - Value: 0.240000
+Loaded Morph: CME_MouthHeight - Value: 0.220000
+Loaded Morph: CME_NoseHoleSlope - Value: -0.510000
+Loaded Morph: NSK_EyeAngle - Value: -1.650000
+Loaded Morph: CME_MouthCornerUpDown - Value: 0.720000
+Loaded Morph: CME_EyelashLength - Value: -0.010000
+Loaded Morph: CME_UpperEyesHeight - Value: -0.310000
+Loaded Morph: CME_UpperLipHeight - Value: -0.470000
+Loaded Morph: CME_EyesType - Value: 21.000000
+Loaded Morph: CME_EyesHeight - Value: -0.120000
+Loaded Morph: NSK_MouthSmile - Value: -0.310000
+Loaded Morph: CME_MouthWidth - Value: -1.080000
+Loaded Morph: NSK_EyeSize - Value: 0.210000
+Loaded Morph: CME_ElfEar - Value: 0.010000
+Loaded Morph: NSK_NoseTilt - Value: -0.010000
+Loaded Morph: CME_LowerLipHeight - Value: -0.160000
+Loaded Morph: CME_EyeballInOut - Value: -0.210000
+Loaded Morph: CME_LowerEyesHeight - Value: -0.370000
+Loaded Morph: CME_BrowArch - Value: 1.630000
+Loaded Morph: NSK_BrowAngle - Value: 0.200000
+Loaded Morph: NSK_LipsOpen - Value: 0.060000
+Loaded Morph: ECE_NoseBridgeWidth - Value: -0.500000
+Loaded Morph: NSK_MouthWidth - Value: -0.080000
+SKEE64Serialization_Load - Loaded 227ms
+MorphCache::CacheFile - Loaded meshes\zzlsarwclothes\mageapprentice\mageapprenticerobesf.tri (20861097 bytes)
+MorphCache::CacheFile - Loaded meshes\actors\character\character assets\femalehands.tri (379894 bytes)
+MorphCache::CacheFile - Loaded meshes\armor\amuletsandrings\ancientnord\ancientnordamuletf.tri (69526 bytes)
+MorphCache::CacheFile - Loaded meshes\clothes\warlock\warlockboots_f.tri (23669 bytes)
+MorphCache::CacheFile - meshes\bhunp\bhunpsmpmesh3bbbp.tri - Read morph HipBone on VirtualButt with zero multiplier at (003082CC)
+MorphCache::CacheFile - Loaded meshes\bhunp\bhunpsmpmesh3bbbp.tri (4267872 bytes)
+MorphCache::CacheFile - Loaded meshes\actors\character\character assets\1stpersonfemalehands.tri (422182 bytes)
+MorphCache::CacheFile - Loaded meshes\clothes\mageapprentice\mageapprenticerobesf.tri (2662432 bytes)
+MorphCache::CacheFile - Loaded meshes\actors\character\character assets\femalefeet.tri (338983 bytes)

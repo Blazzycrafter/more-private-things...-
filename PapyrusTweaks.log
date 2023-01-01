@@ -1,0 +1,19 @@
+[01:14:21:039] PapyrusTweaks v0.3.0
+[01:14:21:039] loaded plugin
+[01:14:21:040] PapyrusOpsPerFrameHook hooked at address 7ff64399d311
+[01:14:21:040] PapyrusOpsPerFrameHook hooked at offset 139d311
+[01:14:21:040] FixToggleScriptsSaveHook for saves hooked at address 7ff642f6b726
+[01:14:21:040] FixToggleScriptsSaveHook hooked at offset 96b726
+[01:14:21:040] FixToggleScriptsDumpHook for stack dumps hooked at address 7ff642f6b9cc
+[01:14:21:040] FixToggleScriptsDumpHook hooked at offset 96b9cc
+[01:14:21:040] FixScriptPageAllocation set!
+[01:14:21:040] StackDumpTimeoutModifier hooked at address 7ff642f6a931
+[01:14:21:040] StackDumpTimeoutModifier hooked at offset 96a931
+[01:14:21:040] ValidationSignaturesHook hooked at address 7ff643988bd0
+[01:14:21:040] ValidationSignaturesHook at offset 1388bd0
+[01:14:21:040] BaseTypeMismatch hooked at address 7ff642f47d0c
+[01:14:21:040] BaseTypeMismatch at offset 947d0c
+[01:14:50:395] Binding functions...
+[01:14:50:395] Registered GetPapyrusTweaksVersion
+[01:14:50:395] Registed DisableFastMode
+[01:14:50:395] Registed EnableFastMode

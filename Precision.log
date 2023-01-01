@@ -1,0 +1,15 @@
+E:\Repos\Precision\src\main.cpp(107): [info] Precision v2-0-0-0
+E:\Repos\Precision\src\Papyrus.cpp(55): [info] Registered papyrus functions
+E:\Repos\Precision\src\main.cpp(127): [info] Precision::RequestPluginAPI called, InterfaceVersion 0
+E:\Repos\Precision\src\main.cpp(137): [info] Precision::RequestPluginAPI returned the API singleton
+E:\Repos\Precision\src\Papyrus.cpp(17): [info] Registered Precision_MCM class
+E:\Repos\Precision\src\Papyrus.cpp(45): [info] Registered Precision_Utility class
+E:\Repos\Precision\src\Events.cpp(18): [info] Registered class RE::InputEvent
+E:\Repos\Precision\src\Events.cpp(139): [info] Registered all event handlers
+E:\Repos\Precision\src\Settings.cpp(9): [info] Initializing...
+E:\Repos\Precision\src\Settings.cpp(29): [info] ...success
+E:\Repos\Precision\src\Settings.cpp(565): [info] Reading .toml files...
+E:\Repos\Precision\src\Settings.cpp(183): [info]   Reading Data/SKSE/Plugins/Precision/Precision_base.toml...
+E:\Repos\Precision\src\Settings.cpp(601): [info] ...success
+E:\Repos\Precision\src\Settings.cpp(717): [info] Reading MCM .ini...
+E:\Repos\Precision\src\Settings.cpp(722): [info] ...success

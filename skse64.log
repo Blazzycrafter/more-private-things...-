@@ -1,0 +1,1207 @@
+SKSE64 runtime: initialize (version = 2.2.3 01062800 01D91D75FD874583, os = 6.2 (9200))
+imagebase = 00007FF642600000
+reloc mgr imagebase = 00007FF642600000
+config path = D:\SteamLibrary\steamapps\common\Skyrim Special Edition\Data\SKSE\skse.ini
+plugin directory = D:\SteamLibrary\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\
+scanning plugin directory D:\SteamLibrary\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\
+checking plugin ActorLimitFix.dll
+checking plugin AddItemMenuSE.dll
+checking plugin AHZmoreHUDInventory.dll
+checking plugin AHZmoreHUDPlugin.dll
+checking plugin AlternateConversationCamera.dll
+checking plugin AnimationMotionRevolution.dll
+checking plugin BarterLimitFix.dll
+checking plugin BetterJumpingSE.dll
+checking plugin BetterThirdPersonSelection.dll
+checking plugin BugFixesSSE.dll
+checking plugin CameraShake.dll
+checking plugin cbp.dll
+checking plugin CompassNavigationOverhaul.dll
+checking plugin ConsoleUtilSSE.dll
+checking plugin CrashLogger.dll
+checking plugin EngineFixes.dll
+checking plugin FaceGenFixes.dll
+checking plugin fiss.dll
+checking plugin Fuz Ro D'oh.dll
+checking plugin hdtSMP64.dll
+checking plugin HonedMetal.dll
+checking plugin ImWalkinHere.dll
+checking plugin InfinityUI.dll
+checking plugin JContainers64.dll
+checking plugin MaxsuDetectionMeter.dll
+checking plugin MCMHelper.dll
+checking plugin mfgfix.dll
+checking plugin MoreInformativeConsole.dll
+checking plugin msdia140.dll
+plugin msdia140.dll (00000000  00000000) no version data 0 (handle 0)
+checking plugin OBody.dll
+checking plugin OSA.dll
+checking plugin PapyrusTweaks.dll
+checking plugin PapyrusUtil.dll
+checking plugin po3_Afterlife.dll
+checking plugin po3_LockVariations.dll
+checking plugin po3_PapyrusExtender.dll
+checking plugin po3_ReadOrTakeBooks.dll
+checking plugin po3_SpellPerkItemDistributor.dll
+checking plugin po3_SplashesOfSkyrim.dll
+checking plugin po3_Tweaks.dll
+checking plugin Precision.dll
+checking plugin QuickLootEE.dll
+checking plugin RecursionFPSFix.dll
+checking plugin ScaleformTranslationPP.dll
+checking plugin SchlongsOfSkyrim.dll
+checking plugin SimplyKnock.dll
+checking plugin skee64.dll
+checking plugin SSEDisplayTweaks.dll
+checking plugin TargetFocus.dll
+checking plugin TKPlugin.dll
+plugin TKPlugin.dll (00000000  00000000) no version data 0 (handle 0)
+checking plugin TrueDirectionalMovement.dll
+checking plugin TrueHUD.dll
+checking plugin valhallaCombat.dll
+checking plugin WadeInWater.dll
+checking plugin WhoseQuestIsItAnyway.dll
+checking plugin YesImSure.dll
+checking plugin zzLSARUtil.dll
+loading plugin "Actor Limit Fix"
+plugin ActorLimitFix.dll (00000001 Actor Limit Fix 00000007) loaded correctly (handle 1)
+loading plugin "AddItemMenuNG"
+registering plugin listener for SKSE at 2 of 57
+plugin AddItemMenuSE.dll (00000001 AddItemMenuNG 01040000) loaded correctly (handle 2)
+loading plugin "Ahzaab's moreHUD Inventory Plugin"
+plugin 3 allocated 64 bytes from branch pool
+registering plugin listener for SKSE at 3 of 57
+plugin AHZmoreHUDInventory.dll (00000001 Ahzaab's moreHUD Inventory Plugin 001EAB90) loaded correctly (handle 3)
+loading plugin "Ahzaab's moreHUD Plugin"
+plugin 4 allocated 64 bytes from branch pool
+registering plugin listener for SKSE at 4 of 57
+plugin AHZmoreHUDPlugin.dll (00000001 Ahzaab's moreHUD Plugin 004C9960) loaded correctly (handle 4)
+loading plugin "Alternate Conversation Camera"
+plugin AlternateConversationCamera.dll (00000001 Alternate Conversation Camera 00000001) loaded correctly (handle 5)
+loading plugin "AnimationMotionRevolution"
+plugin 6 allocated 45 bytes from branch pool
+plugin 6 allocated 45 bytes from branch pool
+plugin 6 allocated 49 bytes from branch pool
+plugin 6 allocated 49 bytes from branch pool
+plugin 6 allocated 49 bytes from branch pool
+plugin 6 allocated 49 bytes from branch pool
+plugin AnimationMotionRevolution.dll (00000001 AnimationMotionRevolution 01050030) loaded correctly (handle 6)
+loading plugin "Barter Limit Fix"
+plugin BarterLimitFix.dll (00000001 Barter Limit Fix 00000001) loaded correctly (handle 7)
+loading plugin "BetterJumpingSE"
+plugin BetterJumpingSE.dll (00000001 BetterJumpingSE 00000001) loaded correctly (handle 8)
+loading plugin "BetterThirdPersonSelection"
+plugin 9 allocated 256 bytes from branch pool
+registering plugin listener for SKSE at 9 of 57
+plugin BetterThirdPersonSelection.dll (00000001 BetterThirdPersonSelection 01000000) loaded correctly (handle 9)
+loading plugin "Bug Fixes SSE"
+plugin BugFixesSSE.dll (00000001 Bug Fixes SSE 00000008) loaded correctly (handle 10)
+loading plugin "PluginName"
+registering plugin listener for SKSE at 11 of 57
+plugin 11 allocated 14 bytes from branch pool
+plugin CameraShake.dll (00000001 PluginName 01000000) loaded correctly (handle 11)
+loading plugin "CBPC"
+registering plugin listener for SKSE at 12 of 57
+plugin cbp.dll (00000001 CBPC 00010505) loaded correctly (handle 12)
+loading plugin "CompassNavigationOverhaul"
+registering plugin listener for SKSE at 13 of 57
+plugin 13 allocated 47 bytes from branch pool
+plugin 13 allocated 42 bytes from branch pool
+plugin 13 allocated 42 bytes from branch pool
+plugin 13 allocated 42 bytes from branch pool
+plugin 13 allocated 42 bytes from branch pool
+plugin 13 allocated 42 bytes from branch pool
+plugin 13 allocated 42 bytes from branch pool
+plugin 13 allocated 42 bytes from branch pool
+plugin 13 allocated 42 bytes from branch pool
+plugin CompassNavigationOverhaul.dll (00000001 CompassNavigationOverhaul 01020010) loaded correctly (handle 13)
+loading plugin "ConsoleUtilSSE"
+registering plugin listener for SKSE at 14 of 57
+plugin ConsoleUtilSSE.dll (00000001 ConsoleUtilSSE 01040000) loaded correctly (handle 14)
+loading plugin "CrashLogger"
+plugin CrashLogger.dll (00000001 CrashLogger 01030010) loaded correctly (handle 15)
+loading plugin "6.1.1"
+registering plugin listener for SKSE at 16 of 57
+plugin EngineFixes.dll (00000001 6.1.1 00000006) loaded correctly (handle 16)
+loading plugin "FaceGenFixes"
+plugin FaceGenFixes.dll (00000001 FaceGenFixes 01000030) loaded correctly (handle 17)
+loading plugin "fisses"
+plugin fiss.dll (00000001 fisses 0000008D) loaded correctly (handle 18)
+loading plugin "Fuz Ro D'oh"
+registering plugin listener for SKSE at 19 of 57
+plugin Fuz Ro D'oh.dll (00000001 Fuz Ro D'oh 02034066) loaded correctly (handle 19)
+loading plugin "hdtSMP64"
+registering plugin listener for SKSE at 20 of 57
+plugin hdtSMP64.dll (00000001 hdtSMP64 000199C4) loaded correctly (handle 20)
+loading plugin "HonedMetal"
+plugin HonedMetal.dll (00000001 HonedMetal 00000005) loaded correctly (handle 21)
+loading plugin "ImWalkinHere"
+plugin 22 allocated 16 bytes from branch pool
+registering plugin listener for SKSE at 22 of 57
+plugin ImWalkinHere.dll (00000001 ImWalkinHere 01070000) loaded correctly (handle 22)
+loading plugin "InfinityUI"
+plugin 23 allocated 36 bytes from branch pool
+plugin 23 allocated 42 bytes from branch pool
+plugin InfinityUI.dll (00000001 InfinityUI 01010010) loaded correctly (handle 23)
+loading plugin "JContainers64"
+registering plugin listener for SKSE at 24 of 57
+plugin JContainers64.dll (00000001 JContainers64 00000004) loaded correctly (handle 24)
+loading plugin "MaxsuDetectionMeter"
+registering plugin listener for SKSE at 25 of 57
+plugin MaxsuDetectionMeter.dll (00000001 MaxsuDetectionMeter 01000060) loaded correctly (handle 25)
+loading plugin "MCMHelper"
+registering plugin listener for SKSE at 26 of 57
+plugin MCMHelper.dll (00000001 MCMHelper 01040000) loaded correctly (handle 26)
+loading plugin "mfgfix"
+plugin mfgfix.dll (00000001 mfgfix 01060010) loaded correctly (handle 27)
+loading plugin "More Informative Console"
+registering plugin listener for SKSE at 28 of 57
+plugin MoreInformativeConsole.dll (00000001 More Informative Console 01000000) loaded correctly (handle 28)
+loading plugin "OBody"
+registering plugin listener for SKSE at 29 of 57
+plugin OBody.dll (00000001 OBody 01000000) loaded correctly (handle 29)
+loading plugin "OSA"
+registering plugin listener for SKSE at 30 of 57
+plugin OSA.dll (00000001 OSA 00030000) loaded correctly (handle 30)
+loading plugin "PapyrusTweaks"
+registering plugin listener for SKSE at 31 of 57
+plugin 31 allocated 36 bytes from branch pool
+plugin 31 allocated 14 bytes from branch pool
+plugin 31 allocated 14 bytes from branch pool
+plugin 31 allocated 14 bytes from branch pool
+plugin 31 allocated 14 bytes from branch pool
+plugin 31 allocated 14 bytes from branch pool
+plugin 31 allocated 14 bytes from branch pool
+plugin PapyrusTweaks.dll (00000001 PapyrusTweaks 00000000) loaded correctly (handle 31)
+loading plugin "PapyrusUtil"
+plugin PapyrusUtil.dll (00000001 PapyrusUtil 00000002) loaded correctly (handle 32)
+loading plugin "Afterlife"
+registering plugin listener for SKSE at 33 of 57
+plugin po3_Afterlife.dll (00000001 Afterlife 01000000) loaded correctly (handle 33)
+loading plugin "Lock Variations"
+registering plugin listener for SKSE at 34 of 57
+plugin po3_LockVariations.dll (00000001 Lock Variations 03000000) loaded correctly (handle 34)
+loading plugin "powerofthree's Papyrus Extender"
+registering plugin listener for SKSE at 35 of 57
+plugin po3_PapyrusExtender.dll (00000001 powerofthree's Papyrus Extender 05000000) loaded correctly (handle 35)
+loading plugin "Read Or Take Books"
+registering plugin listener for SKSE at 36 of 57
+plugin po3_ReadOrTakeBooks.dll (00000001 Read Or Take Books 01000000) loaded correctly (handle 36)
+loading plugin "Spell Perk Item Distributor"
+registering plugin listener for SKSE at 37 of 57
+plugin po3_SpellPerkItemDistributor.dll (00000001 Spell Perk Item Distributor 06000000) loaded correctly (handle 37)
+loading plugin "Splashes of Skyrim"
+registering plugin listener for SKSE at 38 of 57
+plugin po3_SplashesOfSkyrim.dll (00000001 Splashes of Skyrim 01000000) loaded correctly (handle 38)
+loading plugin "po3_Tweaks"
+registering plugin listener for SKSE at 39 of 57
+plugin po3_Tweaks.dll (00000001 po3_Tweaks 01000000) loaded correctly (handle 39)
+loading plugin "Precision"
+plugin 40 allocated 1024 bytes from branch pool
+registering plugin listener for SKSE at 40 of 57
+plugin Precision.dll (00000001 Precision 02000000) loaded correctly (handle 40)
+loading plugin "QuickLootEE"
+plugin 41 allocated 64 bytes from branch pool
+registering plugin listener for SKSE at 41 of 57
+plugin QuickLootEE.dll (00000001 QuickLootEE 01010000) loaded correctly (handle 41)
+loading plugin "Recursion FPS Fix"
+plugin 42 allocated 14 bytes from branch pool
+plugin 42 allocated 14 bytes from branch pool
+plugin RecursionFPSFix.dll (00000001 Recursion FPS Fix 01000000) loaded correctly (handle 42)
+loading plugin "ScaleformTranslationPP"
+plugin 43 allocated 16 bytes from branch pool
+registering plugin listener for SKSE at 43 of 57
+plugin ScaleformTranslationPP.dll (00000001 ScaleformTranslationPP 01060000) loaded correctly (handle 43)
+loading plugin "SchlongsOfSkyrim"
+plugin SchlongsOfSkyrim.dll (00000001 SchlongsOfSkyrim 000493E4) loaded correctly (handle 44)
+loading plugin "SimplyKnock (by Chesko)"
+plugin SimplyKnock.dll (00000001 SimplyKnock (by Chesko) 00000001) loaded correctly (handle 45)
+loading plugin "skee"
+registering plugin listener for SKSE at 46 of 57
+plugin 46 allocated 512 bytes from branch pool
+plugin 46 allocated 512 bytes from local pool
+plugin skee64.dll (00000001 skee 00000001) loaded correctly (handle 46)
+loading plugin "SSEDisplayTweaks"
+plugin 47 allocated 512 bytes from branch pool
+plugin 47 allocated 1536 bytes from local pool
+registering plugin listener for SKSE at 47 of 57
+plugin SSEDisplayTweaks.dll (00000001 SSEDisplayTweaks 0000050C) loaded correctly (handle 47)
+loading plugin "TargetFocus"
+registering plugin listener for SKSE at 48 of 57
+plugin TargetFocus.dll (00000001 TargetFocus 01020000) loaded correctly (handle 48)
+loading plugin "TrueDirectionalMovement"
+plugin 49 allocated 512 bytes from branch pool
+registering plugin listener for SKSE at 49 of 57
+plugin TrueDirectionalMovement.dll (00000001 TrueDirectionalMovement 02020030) loaded correctly (handle 49)
+loading plugin "TrueHUD"
+plugin 50 allocated 256 bytes from branch pool
+registering plugin listener for SKSE at 50 of 57
+plugin TrueHUD.dll (00000001 TrueHUD 01010080) loaded correctly (handle 50)
+loading plugin "ValhallaCombat"
+registering plugin listener for SKSE at 51 of 57
+plugin valhallaCombat.dll (00000001 ValhallaCombat 01000000) loaded correctly (handle 51)
+loading plugin "WadeInWater"
+plugin 52 allocated 14 bytes from branch pool
+plugin WadeInWater.dll (00000001 WadeInWater 01000000) loaded correctly (handle 52)
+loading plugin "WhoseQuestIsItAnyway"
+plugin 53 allocated 64 bytes from branch pool
+plugin WhoseQuestIsItAnyway.dll (00000001 WhoseQuestIsItAnyway 01050000) loaded correctly (handle 53)
+loading plugin "YesImSure"
+plugin 54 allocated 16 bytes from branch pool
+plugin YesImSure.dll (00000001 YesImSure 01070000) loaded correctly (handle 54)
+loading plugin "zzLSARUtil"
+registering plugin listener for SKSE at 55 of 57
+plugin zzLSARUtil.dll (00000001 zzLSARUtil 00000004) loaded correctly (handle 55)
+dispatch message (0) to plugin listeners
+sending message type 0 to plugin 2
+sending message type 0 to plugin 3
+sending message type 0 to plugin 4
+sending message type 0 to plugin 9
+sending message type 0 to plugin 11
+sending message type 0 to plugin 12
+sending message type 0 to plugin 13
+registering plugin listener for InfinityUI at 13 of 56
+sending message type 0 to plugin 14
+sending message type 0 to plugin 16
+sending message type 0 to plugin 19
+sending message type 0 to plugin 20
+sending message type 0 to plugin 22
+sending message type 0 to plugin 24
+sending message type 0 to plugin 25
+sending message type 0 to plugin 26
+sending message type 0 to plugin 28
+sending message type 0 to plugin 29
+sending message type 0 to plugin 30
+registering plugin listener for (null) at 30 of 56
+sending message type 0 to plugin 31
+sending message type 0 to plugin 33
+sending message type 0 to plugin 34
+plugin 34 allocated 14 bytes from branch pool
+plugin 34 allocated 14 bytes from branch pool
+plugin 34 allocated 14 bytes from branch pool
+plugin 34 allocated 14 bytes from branch pool
+plugin 34 allocated 14 bytes from branch pool
+plugin 34 allocated 14 bytes from branch pool
+plugin 34 allocated 14 bytes from branch pool
+sending message type 0 to plugin 35
+sending message type 0 to plugin 36
+sending message type 0 to plugin 37
+plugin 37 allocated 14 bytes from branch pool
+sending message type 0 to plugin 38
+plugin 38 allocated 14 bytes from branch pool
+sending message type 0 to plugin 39
+plugin 39 allocated 14 bytes from branch pool
+plugin 39 allocated 14 bytes from branch pool
+plugin 39 allocated 14 bytes from branch pool
+plugin 39 allocated 14 bytes from branch pool
+plugin 39 allocated 14 bytes from branch pool
+plugin 39 allocated 14 bytes from branch pool
+plugin 39 allocated 14 bytes from branch pool
+plugin 39 allocated 14 bytes from branch pool
+plugin 39 allocated 14 bytes from branch pool
+plugin 39 allocated 31 bytes from branch pool
+plugin 39 allocated 14 bytes from branch pool
+sending message type 0 to plugin 40
+sending message type 0 to plugin 41
+sending message type 0 to plugin 43
+sending message type 0 to plugin 46
+registering plugin listener for (null) at 46 of 56
+sending message type 0 to plugin 47
+sending message type 0 to plugin 48
+sending message type 0 to plugin 49
+registering plugin listener for SmoothCam at 49 of 56
+dispatch message (0) to plugin listeners
+sending message type 0 to plugin 50
+sending message type 0 to plugin 51
+sending message type 0 to plugin 55
+dispatched message.
+dispatch message (1) to plugin listeners
+sending message type 1 to plugin 2
+sending message type 1 to plugin 3
+sending message type 1 to plugin 4
+sending message type 1 to plugin 9
+sending message type 1 to plugin 11
+sending message type 1 to plugin 12
+sending message type 1 to plugin 13
+sending message type 1 to plugin 14
+sending message type 1 to plugin 16
+sending message type 1 to plugin 19
+sending message type 1 to plugin 20
+dispatch message (0) to plugin listeners
+sending message type 0 to plugin 30
+sending message type 0 to plugin 46
+dispatched message.
+sending message type 1 to plugin 22
+sending message type 1 to plugin 24
+dispatch message (1) to plugin listeners
+sending message type 1 to plugin 30
+sending message type 1 to plugin 46
+dispatched message.
+sending message type 1 to plugin 25
+sending message type 1 to plugin 26
+sending message type 1 to plugin 28
+sending message type 1 to plugin 29
+dispatch message (-1640531527) to plugin listeners
+sending message type 1 to plugin 30
+dispatch message (-1640531527) to plugin listeners
+sending message type 1 to plugin 31
+sending message type 1 to plugin 33
+sending message type 1 to plugin 34
+sending message type 1 to plugin 35
+sending message type 1 to plugin 36
+sending message type 1 to plugin 37
+sending message type 1 to plugin 38
+sending message type 1 to plugin 39
+sending message type 1 to plugin 40
+sending message type 1 to plugin 41
+sending message type 1 to plugin 43
+sending message type 1 to plugin 46
+sending message type 1 to plugin 47
+sending message type 1 to plugin 48
+sending message type 1 to plugin 49
+registering plugin listener for SmoothCam at 49 of 56
+dispatch message (0) to plugin listeners
+sending message type 1 to plugin 50
+sending message type 1 to plugin 51
+sending message type 1 to plugin 55
+dispatched message.
+init complete
+hooked dinput
+dispatch message (6) to plugin listeners
+sending message type 6 to plugin 2
+sending message type 6 to plugin 3
+sending message type 6 to plugin 4
+sending message type 6 to plugin 9
+sending message type 6 to plugin 11
+sending message type 6 to plugin 12
+sending message type 6 to plugin 13
+sending message type 6 to plugin 14
+sending message type 6 to plugin 16
+sending message type 6 to plugin 19
+sending message type 6 to plugin 20
+sending message type 6 to plugin 22
+sending message type 6 to plugin 24
+sending message type 6 to plugin 25
+sending message type 6 to plugin 26
+sending message type 6 to plugin 28
+sending message type 6 to plugin 29
+sending message type 6 to plugin 30
+sending message type 6 to plugin 31
+sending message type 6 to plugin 33
+sending message type 6 to plugin 34
+sending message type 6 to plugin 35
+sending message type 6 to plugin 36
+sending message type 6 to plugin 37
+sending message type 6 to plugin 38
+sending message type 6 to plugin 39
+sending message type 6 to plugin 40
+sending message type 6 to plugin 41
+sending message type 6 to plugin 43
+sending message type 6 to plugin 46
+sending message type 6 to plugin 47
+sending message type 6 to plugin 48
+sending message type 6 to plugin 49
+sending message type 6 to plugin 50
+sending message type 6 to plugin 51
+sending message type 6 to plugin 55
+dispatched message.
+Reading translations from Interface\Translations\LegacyoftheDragonborn_ENGLISH.txt...
+Reading translations from Interface\Translations\FlowerGirls SE_ENGLISH.txt...
+Reading translations from Interface\Translations\Expressive Facegen Morphs_ENGLISH.txt...
+Reading translations from Interface\Translations\Devourment_ENGLISH.txt...
+Reading translations from Interface\Translations\Schlongs of Skyrim - Core_ENGLISH.txt...
+Reading translations from Interface\Translations\TrueHUD_ENGLISH.txt...
+Reading translations from Interface\Translations\Wyrmstooth_ENGLISH.txt...
+Reading translations from Interface\Translations\AHZmoreHUD_ENGLISH.txt...
+Reading translations from Interface\Translations\SkyUI_SE_ENGLISH.txt...
+Reading translations from Interface\Translations\AcquisitiveSoulGemMultithreaded_ENGLISH.txt...
+Reading translations from Interface\Translations\UIExtensions_ENGLISH.txt...
+Reading translations from Interface\Translations\AddItemMenuSE_ENGLISH.txt...
+Reading translations from Interface\Translations\BetterThirdPersonSelection_ENGLISH.txt...
+Reading translations from Interface\Translations\HonedMetal_ENGLISH.txt...
+Reading translations from Interface\Translations\zzLSAR_ENGLISH.txt...
+Reading translations from Interface\Translations\MCMHelper_ENGLISH.txt...
+Reading translations from Interface\Translations\OBody_ENGLISH.txt...
+Reading translations from Interface\Translations\OStim_ENGLISH.txt...
+Reading translations from Interface\Translations\OVirginity_ENGLISH.txt...
+Reading translations from Interface\Translations\OCum_ENGLISH.txt...
+Reading translations from Interface\Translations\Precision_ENGLISH.txt...
+Reading translations from Interface\Translations\RaceMenu_ENGLISH.txt...
+Reading translations from Interface\Translations\RaceMenuPlugin_ENGLISH.txt...
+Reading translations from Interface\Translations\RelationshipRankNotificationsDialogue_ENGLISH.txt...
+Reading translations from Interface\Translations\SimplyKnock_ENGLISH.txt...
+Reading translations from Interface\Translations\TrueDirectionalMovement_ENGLISH.txt...
+Reading translations from Interface\Translations\TKDodge_ENGLISH.txt...
+Reading translations from Interface\Translations\ValhallaCombat_ENGLISH.txt...
+Reading translations from Interface\Translations\XPMSE_ENGLISH.txt...
+Reading translations from Interface\Translations\BHUNP3BBB_ENGLISH.txt...
+Reading translations from Interface\Translations\VioLens SE_ENGLISH.txt...
+Reading translations from Interface\Translations\nwsFollowerFramework_ENGLISH.txt...
+dispatch message (5) to plugin listeners
+sending message type 5 to plugin 13
+sending message type 5 to plugin 30
+sending message type 5 to plugin 46
+dispatched message.
+dispatch message (5) to plugin listeners
+sending message type 5 to plugin 13
+sending message type 5 to plugin 30
+sending message type 5 to plugin 46
+dispatched message.
+dispatch message (5) to plugin listeners
+sending message type 5 to plugin 13
+sending message type 5 to plugin 30
+sending message type 5 to plugin 46
+dispatched message.
+dispatch message (5) to plugin listeners
+sending message type 5 to plugin 13
+sending message type 5 to plugin 30
+sending message type 5 to plugin 46
+dispatched message.
+dispatch message (8) to plugin listeners
+sending message type 8 to plugin 2
+sending message type 8 to plugin 3
+sending message type 8 to plugin 4
+sending message type 8 to plugin 9
+sending message type 8 to plugin 11
+sending message type 8 to plugin 12
+sending message type 8 to plugin 13
+sending message type 8 to plugin 14
+sending message type 8 to plugin 16
+sending message type 8 to plugin 19
+sending message type 8 to plugin 20
+sending message type 8 to plugin 22
+sending message type 8 to plugin 24
+sending message type 8 to plugin 25
+sending message type 8 to plugin 26
+sending message type 8 to plugin 28
+sending message type 8 to plugin 29
+sending message type 8 to plugin 30
+sending message type 8 to plugin 31
+sending message type 8 to plugin 33
+sending message type 8 to plugin 34
+sending message type 8 to plugin 35
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+sending message type 8 to plugin 36
+sending message type 8 to plugin 37
+sending message type 8 to plugin 38
+sending message type 8 to plugin 39
+sending message type 8 to plugin 40
+sending message type 8 to plugin 41
+sending message type 8 to plugin 43
+sending message type 8 to plugin 46
+sending message type 8 to plugin 47
+sending message type 8 to plugin 48
+sending message type 8 to plugin 49
+registering plugin listener for SmoothCam at 49 of 56
+dispatch message (0) to plugin listeners
+sending message type 8 to plugin 50
+sending message type 8 to plugin 51
+plugin 51 allocated 256 bytes from branch pool
+sending message type 8 to plugin 55
+dispatched message.
+dispatch message (5) to plugin listeners
+sending message type 5 to plugin 13
+sending message type 5 to plugin 30
+sending message type 5 to plugin 46
+dispatched message.
+dispatch message (5) to plugin listeners
+sending message type 5 to plugin 13
+sending message type 5 to plugin 30
+sending message type 5 to plugin 46
+dispatched message.
+dispatch message (5) to plugin listeners
+sending message type 5 to plugin 13
+sending message type 5 to plugin 30
+sending message type 5 to plugin 46
+dispatched message.
+save name is Autosave3_00000000_0_436170_CLWTerminusWhiterun_001003_20221231164625_9_1
+full save path: C:\Users\Administrator\Documents\My Games\Skyrim Special Edition\Saves\\Autosave3_00000000_0_436170_CLWTerminusWhiterun_001003_20221231164625_9_1.skse
+dispatch message (2) to plugin listeners
+sending message type 2 to plugin 2
+sending message type 2 to plugin 3
+sending message type 2 to plugin 4
+sending message type 2 to plugin 9
+sending message type 2 to plugin 11
+sending message type 2 to plugin 12
+sending message type 2 to plugin 13
+sending message type 2 to plugin 14
+sending message type 2 to plugin 16
+sending message type 2 to plugin 19
+sending message type 2 to plugin 20
+sending message type 2 to plugin 22
+sending message type 2 to plugin 24
+sending message type 2 to plugin 25
+sending message type 2 to plugin 26
+sending message type 2 to plugin 28
+sending message type 2 to plugin 29
+sending message type 2 to plugin 30
+sending message type 2 to plugin 31
+sending message type 2 to plugin 33
+sending message type 2 to plugin 34
+sending message type 2 to plugin 35
+sending message type 2 to plugin 36
+sending message type 2 to plugin 37
+sending message type 2 to plugin 38
+sending message type 2 to plugin 39
+sending message type 2 to plugin 40
+sending message type 2 to plugin 41
+sending message type 2 to plugin 43
+sending message type 2 to plugin 46
+sending message type 2 to plugin 47
+sending message type 2 to plugin 48
+sending message type 2 to plugin 49
+sending message type 2 to plugin 50
+sending message type 2 to plugin 51
+sending message type 2 to plugin 55
+dispatched message.
+loading co-save
+Loading plugin list:
+	(0 -> 0)	Skyrim.esm
+	(1 -> 1)	Update.esm
+	(2 -> 2)	Dawnguard.esm
+	(3 -> 3)	HearthFires.esm
+	(4 -> 4)	Dragonborn.esm
+	(5 -> 5)	ccasvsse001-almsivi.esm
+	(6 -> 6)	ccBGSSSE001-Fish.esm
+	(1040384 -> 1040384)	ccbgssse002-exoticarrows.esl
+	(1040385 -> 1040385)	ccbgssse003-zombies.esl
+	(1040386 -> 1040386)	ccbgssse004-ruinsedge.esl
+	(1040387 -> 1040387)	ccbgssse005-goldbrand.esl
+	(1040388 -> 1040388)	ccbgssse006-stendarshammer.esl
+	(1040389 -> 1040389)	ccbgssse007-chrysamere.esl
+	(1040390 -> 1040390)	ccbgssse010-petdwarvenarmoredmudcrab.esl
+	(1040391 -> 1040391)	ccbgssse011-hrsarmrelvn.esl
+	(1040392 -> 1040392)	ccbgssse012-hrsarmrstl.esl
+	(1040393 -> 1040393)	ccbgssse014-spellpack01.esl
+	(1040394 -> 1040394)	ccbgssse019-staffofsheogorath.esl
+	(1040395 -> 1040395)	ccbgssse020-graycowl.esl
+	(1040396 -> 1040396)	ccbgssse021-lordsmail.esl
+	(1040397 -> 1040397)	ccmtysse001-knightsofthenine.esl
+	(1040398 -> 1040398)	ccQDRSSE001-SurvivalMode.esl
+	(7 -> 7)	cctwbsse001-puzzledungeon.esm
+	(8 -> 8)	cceejsse001-hstead.esm
+	(1040399 -> 1040399)	ccqdrsse002-firewood.esl
+	(1040400 -> 1040400)	ccbgssse018-shadowrend.esl
+	(1040401 -> 1040401)	ccbgssse035-petnhound.esl
+	(1040402 -> 1040402)	ccfsvsse001-backpacks.esl
+	(1040403 -> 1040403)	cceejsse002-tower.esl
+	(1040404 -> 1040404)	ccedhsse001-norjewel.esl
+	(1040405 -> 1040405)	ccvsvsse002-pets.esl
+	(1040406 -> 1040406)	ccBGSSSE037-Curios.esl
+	(1040407 -> 1040407)	ccbgssse034-mntuni.esl
+	(1040408 -> 1040408)	ccbgssse045-hasedoki.esl
+	(1040409 -> 1040409)	ccbgssse008-wraithguard.esl
+	(1040410 -> 1040410)	ccbgssse036-petbwolf.esl
+	(1040411 -> 1040411)	ccffbsse001-imperialdragon.esl
+	(1040412 -> 1040412)	ccmtysse002-ve.esl
+	(1040413 -> 1040413)	ccbgssse043-crosselv.esl
+	(1040414 -> 1040414)	ccvsvsse001-winter.esl
+	(1040415 -> 1040415)	cceejsse003-hollow.esl
+	(9 -> 9)	ccbgssse016-umbra.esm
+	(10 -> 10)	ccbgssse031-advcyrus.esm
+	(1040416 -> 1040416)	ccbgssse038-bowofshadows.esl
+	(1040417 -> 1040417)	ccbgssse040-advobgobs.esl
+	(1040418 -> 1040418)	ccbgssse050-ba_daedric.esl
+	(1040419 -> 1040419)	ccbgssse052-ba_iron.esl
+	(1040420 -> 1040420)	ccbgssse054-ba_orcish.esl
+	(1040421 -> 1040421)	ccbgssse058-ba_steel.esl
+	(1040422 -> 1040422)	ccbgssse059-ba_dragonplate.esl
+	(1040423 -> 1040423)	ccbgssse061-ba_dwarven.esl
+	(1040424 -> 1040424)	ccpewsse002-armsofchaos.esl
+	(1040425 -> 1040425)	ccbgssse041-netchleather.esl
+	(1040426 -> 1040426)	ccedhsse002-splkntset.esl
+	(1040427 -> 1040427)	ccbgssse064-ba_elven.esl
+	(1040428 -> 1040428)	ccbgssse063-ba_ebony.esl
+	(1040429 -> 1040429)	ccbgssse062-ba_dwarvenmail.esl
+	(1040430 -> 1040430)	ccbgssse060-ba_dragonscale.esl
+	(1040431 -> 1040431)	ccbgssse056-ba_silver.esl
+	(1040432 -> 1040432)	ccbgssse055-ba_orcishscaled.esl
+	(1040433 -> 1040433)	ccbgssse053-ba_leather.esl
+	(1040434 -> 1040434)	ccbgssse051-ba_daedricmail.esl
+	(1040435 -> 1040435)	ccbgssse057-ba_stalhrim.esl
+	(1040436 -> 1040436)	ccbgssse066-staves.esl
+	(11 -> 11)	ccbgssse067-daedinv.esm
+	(1040437 -> 1040437)	ccbgssse068-bloodfall.esl
+	(1040438 -> 1040438)	ccbgssse069-contest.esl
+	(1040439 -> 1040439)	ccvsvsse003-necroarts.esl
+	(1040440 -> 1040440)	ccvsvsse004-beafarmer.esl
+	(12 -> 12)	ccBGSSSE025-AdvDSGS.esm
+	(1040441 -> 1040441)	ccffbsse002-crossbowpack.esl
+	(1040442 -> 1040442)	ccbgssse013-dawnfang.esl
+	(1040443 -> 1040443)	ccrmssse001-necrohouse.esl
+	(1040444 -> 1040444)	ccedhsse003-redguard.esl
+	(1040445 -> 1040445)	cceejsse004-hall.esl
+	(13 -> 13)	cceejsse005-cave.esm
+	(1040446 -> 1040446)	cckrtsse001_altar.esl
+	(1040447 -> 1040447)	cccbhsse001-gaunt.esl
+	(14 -> 14)	ccafdsse001-dwesanctuary.esm
+	(15 -> 15)	Unofficial Skyrim Special Edition Patch.esp
+	(16 -> 16)	Lanterns Of Skyrim - All In One - Main.esm
+	(17 -> 17)	MajesticMountains_Landscape.esm
+	(18 -> 18)	LegacyoftheDragonborn.esm
+	(19 -> 19)	RealisticWaterTwo - Resources.esm
+	(1040448 -> 1040448)	MajesticMountains_Moss.esp
+	(20 -> 20)	Penitus_Oculatus.esp
+	(21 -> 21)	Better Dynamic Snow SE - DisableRefs.esm
+	(22 -> 22)	FlowerGirls SE.esm
+	(1040449 -> 1040449)	FlowerGirls SE Threesome Fix.esl
+	(1040450 -> 1040450)	Expressive Facegen Morphs.esl
+	(23 -> 23)	FISS.esp
+	(1040451 -> 1040451)	HSResources.esl
+	(24 -> 24)	OSA.esm
+	(1040452 -> 1040452)	RASS - Visual Effects.esl
+	(1040453 -> 1040453)	Devourment.esp
+	(25 -> 25)	RaceCompatibility.esm
+	(26 -> 26)	playable sun elves.esm
+	(27 -> 27)	Schlongs of Skyrim - Core.esm
+	(1040454 -> 1040454)	TrueHUD.esl
+	(28 -> 28)	Wyrmstooth.esp
+	(1040455 -> 1040455)	iWant Widgets.esl
+	(1040456 -> 1040456)	AHZmoreHUD.esl
+	(1040457 -> 1040457)	AHZmoreHUDInventory.esl
+	(29 -> 29)	SkyUI_SE.esp
+	(30 -> 30)	TrueStormsSE.esp
+	(31 -> 31)	Obsidian Weathers.esp
+	(32 -> 32)	SMIM-SE-Merged-All.esp
+	(33 -> 33)	Better Dynamic Snow SE.esp
+	(34 -> 34)	Immersive Wenches.esp
+	(35 -> 35)	Mortal Enemies - No RunWalk Changes.esp
+	(36 -> 36)	olorosodahviing.esp
+	(37 -> 37)	IcePenguinWorldMap.esp
+	(38 -> 38)	Artful Dodger - Dynamic Pickpocket Cap.esp
+	(39 -> 39)	AcquisitiveSoulGemMultithreaded.esp
+	(40 -> 40)	UIExtensions.esp
+	(41 -> 41)	AddItemMenuSE.esp
+	(42 -> 42)	AllThievesGuildJobsConcurrently.esp
+	(43 -> 43)	EnhancedLightsandFX.esp
+	(44 -> 44)	Landscape Fixes For Grass Mods.esp
+	(45 -> 45)	JKs Skyrim.esp
+	(1040458 -> 1040458)	HSWhiterun - Jorrvaskr.esp
+	(46 -> 46)	Summermyst - Enchantments of Skyrim.esp
+	(47 -> 47)	Cutting Room Floor.esp
+	(1040459 -> 1040459)	JK's Understone Keep.esp
+	(48 -> 48)	BardsRebornStudentofSong.esp
+	(1040460 -> 1040460)	HSSolitude - Temple of the Divines.esp
+	(49 -> 49)	Civil War Aftermath.esp
+	(50 -> 50)	BlackthornManor.esp
+	(1040461 -> 1040461)	HSMarkarth - Silver-Blood Inn.esp
+	(51 -> 51)	JK's Blue Palace.esp
+	(1040462 -> 1040462)	JK's High Hrothgar.esp
+	(1040463 -> 1040463)	JK's Sky Haven Temple.esp
+	(52 -> 52)	Immersive Encounters.esp
+	(53 -> 53)	SeranaDialogAddon.esp
+	(1040464 -> 1040464)	Ryn's Standing Stones.esp
+	(54 -> 54)	ReformationDialogue.esp
+	(1040465 -> 1040465)	ReformationDialogueStranger.esp
+	(55 -> 55)	Draugr Upgrades and Improvements.esp
+	(56 -> 56)	DBM_RelicNotifications.esp
+	(57 -> 57)	T'Skyrim Riverwood with Leaf Rest.esp
+	(58 -> 58)	OwnCivilWar.esp
+	(1040466 -> 1040466)	Afterlife.esp
+	(59 -> 59)	CWB.esp
+	(60 -> 60)	LC_BuildYourNobleHouse.esp
+	(61 -> 61)	OpulentThievesGuild.esp
+	(1040467 -> 1040467)	JK's Arnleif and Sons Trading Company.esp
+	(62 -> 62)	Odin - Skyrim Magic Overhaul.esp
+	(1040468 -> 1040468)	JK's Mistveil Keep.esp
+	(1040469 -> 1040469)	JK's Haelga's Bunkhouse.esp
+	(1040470 -> 1040470)	JK's Temple of Mara.esp
+	(1040471 -> 1040471)	JK's Palace of the Kings.esp
+	(1040472 -> 1040472)	JK's Temple of Dibella.esp
+	(1040473 -> 1040473)	JK's The Hag's Cure.esp
+	(1040474 -> 1040474)	HSWhiterun - Arcadia's Cauldron.esp
+	(1040475 -> 1040475)	HSDragonBridge - Four Shields Tavern.esp
+	(1040476 -> 1040476)	Sex Scene Framework.esp
+	(1040477 -> 1040477)	HSRiverwood - Hod and Gerdur's House.esp
+	(1040478 -> 1040478)	JK's Dragonsreach.esp
+	(1040479 -> 1040479)	JK's Elgrims Elixirs.esp
+	(63 -> 63)	ReformationAI.esp
+	(64 -> 64)	Immersive Music.esp
+	(65 -> 65)	Lore Weapon Expansion.esp
+	(66 -> 66)	SSETweaks.esp
+	(67 -> 67)	ScopedBows.esp
+	(68 -> 68)	Bijin AIO.esp
+	(69 -> 69)	Bijin AIO - YBMT.esp
+	(1040480 -> 1040480)	FGAnimationSelector.esp
+	(1040481 -> 1040481)	JK's Bee and Barb.esp
+	(70 -> 70)	Clockwork.esp
+	(1040482 -> 1040482)	JK's New Gnisis Cornerclub.esp
+	(1040483 -> 1040483)	JK's The Pawned Prawn.esp
+	(71 -> 71)	SkyrimsUniqueTreasures.esp
+	(72 -> 72)	Wintersun - Faiths of Skyrim.esp
+	(73 -> 73)	TheScarlett.esp
+	(1040484 -> 1040484)	JK's Riverwood Trader.esp
+	(1040485 -> 1040485)	HSWhiterun - The Drunken Huntsman.esp
+	(1040486 -> 1040486)	JK's Radiant Raiment.esp
+	(1040487 -> 1040487)	JK's The Bannered Mare.esp
+	(1040488 -> 1040488)	JK's White Phial.esp
+	(74 -> 74)	Bandit Economy.esp
+	(1040489 -> 1040489)	JKs Blue Palace - ELFX Patch.esp
+	(1040490 -> 1040490)	Flower Girls NPC Relationships.esp
+	(1040491 -> 1040491)	JK's Sleeping Giant Inn.esp
+	(1040492 -> 1040492)	JK's Angelines Aromatics.esp
+	(1040493 -> 1040493)	JK's Temple of Talos.esp
+	(1040494 -> 1040494)	JK's Candlehearth Hall.esp
+	(1040495 -> 1040495)	JK's Bits and Pieces.esp
+	(1040496 -> 1040496)	JKs Skyrim Leafrest Patch.esp
+	(1040497 -> 1040497)	TKAA.esp
+	(1040498 -> 1040498)	Landscape For Grass Mods JK'S Skyrim.esp
+	(75 -> 75)	SexLab-AmorousAdventures.esp
+	(1040499 -> 1040499)	JK's Sadris Used Wares.esp
+	(1040500 -> 1040500)	JK's Temple of Kynareth.esp
+	(1040501 -> 1040501)	JKs Temple of Talos - ELFX Patch.esp
+	(76 -> 76)	Missives.esp
+	(77 -> 77)	Missives - JK Skyrim.esp
+	(78 -> 78)	Scarlett - JK's Skyrim Patch.esp
+	(79 -> 79)	DealingwithBackstories.esp
+	(80 -> 80)	SkyrimIsWindy.esp
+	(81 -> 81)	Skyrim Flora Overhaul.esp
+	(1040502 -> 1040502)	MajesticMountains.esp
+	(82 -> 82)	TradeRoutes.esp
+	(83 -> 83)	quest_pitfighter.esp
+	(1040503 -> 1040503)	JKs Skyrim - Fishing patch.esp
+	(1040504 -> 1040504)	DBM_JKSkyrim_Patch.esp
+	(1040505 -> 1040505)	CWRepairs.esp
+	(1040506 -> 1040506)	JKs Skyrim_Clockwork_Patch.esp
+	(84 -> 84)	Triumvirate - Mage Archetypes.esp
+	(85 -> 85)	Immersive Patrols II.esp
+	(1040507 -> 1040507)	JKs Blue Palace - USSEP Patch.esp
+	(1040508 -> 1040508)	DBM_CRF_Patch.esp
+	(1040509 -> 1040509)	DBMCollectors.esp
+	(86 -> 86)	Schlongs of Skyrim.esp
+	(87 -> 87)	ForgottenCity.esp
+	(88 -> 88)	pse hirelings.esp
+	(89 -> 89)	SOS - Shop.esp
+	(1040510 -> 1040510)	Jaffa's Fellburg & Civil War Battlefields Patch.esp
+	(1040511 -> 1040511)	CWB_USSEP Patch.esp
+	(1040512 -> 1040512)	JK's Belethor's General Goods.esp
+	(1040513 -> 1040513)	JKs Belethors General Goods - ELFX Patch.esp
+	(1040514 -> 1040514)	JKs Haelgas Bunkhouse - ELFX Patch.esp
+	(90 -> 90)	Sabretooth.esp
+	(91 -> 91)	woodcutter friendly markath.esp
+	(1040515 -> 1040515)	Sex Scene Framework - Flower Girls.esp
+	(1040516 -> 1040516)	Leaf Rest - Fishing patch.esp
+	(1040517 -> 1040517)	JKs Skyrim_RWT_Patch.esp
+	(1040518 -> 1040518)	Khajiit Caravan Mules.esp
+	(1040519 -> 1040519)	DBM_Wyrmstooth_Patch.esp
+	(1040520 -> 1040520)	DBM_JKBluePalace_Patch.esp
+	(1040521 -> 1040521)	JKs Blue Palace - JKs Skyrim - LOTD Patch.esp
+	(92 -> 92)	PrvtIRoyalArmory.esp
+	(1040522 -> 1040522)	DBM_RoyalArmory_Patch.esp
+	(1040523 -> 1040523)	DBM_SUT_Patch.esp
+	(1040524 -> 1040524)	DBM_Clockwork_Patch.esp
+	(1040525 -> 1040525)	DBM_Missives_Patch.esp
+	(93 -> 93)	LevelersTower.esp
+	(1040526 -> 1040526)	IntuitiveDragonRideControl.esp
+	(1040527 -> 1040527)	IA-IW patch.esp
+	(1040528 -> 1040528)	Shadow of Skyrim.esp
+	(1040529 -> 1040529)	JKs Elgrims Elixirs - Bee and Barb Patch.esp
+	(94 -> 94)	Apocalypse - Magic of Skyrim.esp
+	(95 -> 95)	Growl - Werebeasts of Skyrim.esp
+	(96 -> 96)	Ars Metallica.esp
+	(1040530 -> 1040530)	Tiwa44_Minidresses.esp
+	(1040531 -> 1040531)	BA_BardSongs_AIO.esp
+	(1040532 -> 1040532)	Bandit Lines Expansion.esp
+	(1040533 -> 1040533)	BetterThirdPersonSelection.esp
+	(1040534 -> 1040534)	Better Dynamic Snow SE - No Glacier Snow.esp
+	(1040535 -> 1040535)	Blackthorn - Clay and Stone Deposits.esp
+	(97 -> 97)	BlendedRoads.esp
+	(1040536 -> 1040536)	BuildWithGold.esp
+	(1040537 -> 1040537)	JKs Sleeping Giant Inn - ELFX Patch.esp
+	(98 -> 98)	Guard Dialogue Overhaul.esp
+	(99 -> 99)	Canliberk Follower.esp
+	(100 -> 100)	Cloaks&Capes SMP.esp
+	(101 -> 101)	CompanionsTweaks.esp
+	(102 -> 102)	Devourment Approach Refactor.esp
+	(1040538 -> 1040538)	Disable Turn Animation.esp
+	(103 -> 103)	shockselsweyrimports.esp
+	(104 -> 104)	Conduit.esp
+	(1040539 -> 1040539)	DynamicWait.esp
+	(1040540 -> 1040540)	ExcitableSubsOStim.esp
+	(1040541 -> 1040541)	zzzUnderwear.esp
+	(105 -> 105)	Extended Encounters.esp
+	(106 -> 106)	FNIS.esp
+	(107 -> 107)	FlowerGirls SE - IW Patch.esp
+	(108 -> 108)	Footprints.esp
+	(1040542 -> 1040542)	FootprintsSand-patch.esp
+	(1040543 -> 1040543)	GDOS - Glorious Solitude Door - Rotation Fix.esp
+	(1040544 -> 1040544)	GDOS - Splendid Mechanized Dwemer Door.esp
+	(1040545 -> 1040545)	Growl-MortalEnemies Patch.esp
+	(109 -> 109)	HearthfireMultiKid.esp
+	(110 -> 110)	HearthFires Display Case Fix SE.esp
+	(111 -> 111)	HearthfireMultiKid_LastName.esp
+	(112 -> 112)	halfdragonrace.esp
+	(1040546 -> 1040546)	SkyRem - Eve.esp
+	(1040547 -> 1040547)	Headhunter - Bounties Redone.esp
+	(1040548 -> 1040548)	BountiesRedone_MissivesExtension.esp
+	(1040549 -> 1040549)	HPP - Vaermina's Torpor.esp
+	(113 -> 113)	HonedMetal.esp
+	(114 -> 114)	LokiHorses.esp
+	(115 -> 115)	Brows.esp
+	(116 -> 116)	PAN_NPCs.esp
+	(1040550 -> 1040550)	IA Collection Patch - Bards College.esp
+	(1040551 -> 1040551)	GLZ-InformedMailDelivery.esp
+	(117 -> 117)	KS Hairdo's.esp
+	(118 -> 118)	Immersive Wenches -KS hairs- Patch.esp
+	(1040552 -> 1040552)	Immersive Wenches OStim.esp
+	(1040553 -> 1040553)	JKs Mistveil Keep - ELFX Patch.esp
+	(1040554 -> 1040554)	JK Mistveil Keep sexframeworks Patch.esp
+	(1040555 -> 1040555)	JK's Warmaiden's.esp
+	(119 -> 119)	Jaffa's Baklava Mod.esp
+	(1040556 -> 1040556)	KSHairdosSMP.esp
+	(1040557 -> 1040557)	KSWigsSMP.esp
+	(120 -> 120)	KatanaCrafting.esp
+	(1040558 -> 1040558)	LC_BuildYourNobleHouseV1_4 - Build with Gold Patch.esp
+	(121 -> 121)	KhajiitsStealToo.esp
+	(122 -> 122)	zzLSAR.esp
+	(1040559 -> 1040559)	JKs Angelines Aromatics - ELFX patch.esp
+	(1040560 -> 1040560)	JKs Angelines Aromatics - USSEP Patch.esp
+	(1040561 -> 1040561)	JKs Arnleif and Sons - ELFX Patch.esp
+	(1040562 -> 1040562)	JKs Arnleif and Sons - LOTD Patch.esp
+	(1040563 -> 1040563)	JKs Arnleif and Sons - SUT Patch.esp
+	(1040564 -> 1040564)	JKs Bannered Mare - ELFX patch.esp
+	(1040565 -> 1040565)	JKs Bee and Barb - ELFX Patch.esp
+	(1040566 -> 1040566)	JKs Bee and Barb - Immersive Wenches Patch.esp
+	(1040567 -> 1040567)	JKs Bits and Pieces - ELFX Patch.esp
+	(1040568 -> 1040568)	JKs Bits and Pieces - LOTD Patch.esp
+	(1040569 -> 1040569)	JKs Bits and Pieces - USSEP Patch.esp
+	(1040570 -> 1040570)	JKs Blue Palace - Royal Armory Patch.esp
+	(1040571 -> 1040571)	JKs Blue Palace - DBMCollectors Patch.esp
+	(1040572 -> 1040572)	JKs Blue Palace - SUT Patch.esp
+	(1040573 -> 1040573)	JKs Candlehearth Hall - ELFX Patch.esp
+	(123 -> 123)	VisualAnimatedEnchants.esp
+	(1040574 -> 1040574)	JKs Dragonsreach - ELFX Patch.esp
+	(1040575 -> 1040575)	JKs Elgrims Elixirs - ELFX Patch.esp
+	(1040576 -> 1040576)	JKs Elgrims Elixirs - CRF Patch.esp
+	(1040577 -> 1040577)	JKs Haelgas Bunkhouse - SDA Patch.esp
+	(1040578 -> 1040578)	JKs Hags Cure - ELFX Patch.esp
+	(1040579 -> 1040579)	JKs Hags Cure - SUT Patch.esp
+	(1040580 -> 1040580)	JKs Mistveil Keep - Immersive Wenches Patch.esp
+	(1040581 -> 1040581)	JKs New Gnisis Cornerclub - ELFX Patch.esp
+	(1040582 -> 1040582)	JKs Palace of the Kings - ELFX Patch.esp
+	(1040583 -> 1040583)	JKs Palace of the Kings - SUT Patch.esp
+	(1040584 -> 1040584)	JKs Palace of the Kings - USSEP Patch.esp
+	(1040585 -> 1040585)	JKs Pawned Prawn - ELFX Patch.esp
+	(1040586 -> 1040586)	JKs Pawned Prawn - LOTD Patch.esp
+	(1040587 -> 1040587)	JKs Radiant Raiment - ELFX Patch.esp
+	(1040588 -> 1040588)	JKs Radiant Raiment - USSEP Patch.esp
+	(1040589 -> 1040589)	JKs Riverwood Trader - ELFX patch.esp
+	(1040590 -> 1040590)	JKs Sadris Used Wares - ELFX patch.esp
+	(1040591 -> 1040591)	JKs Sadris Used Wares - LOTD Patch.esp
+	(1040592 -> 1040592)	JKs Sadris Used Wares - SUT Patch.esp
+	(1040593 -> 1040593)	JKs Temple of Dibella - ELFX Patch.esp
+	(1040594 -> 1040594)	JKs Temple of Dibella - SUT Patch.esp
+	(1040595 -> 1040595)	JKs Temple of Kynareth - ELFX Patch.esp
+	(1040596 -> 1040596)	JKs Temple of Kynareth - SUT patch.esp
+	(1040597 -> 1040597)	JKs Temple of Mara - ELFX Patch.esp
+	(1040598 -> 1040598)	JKs Understone Keep - ELFX patch.esp
+	(1040599 -> 1040599)	TrustyHPFollowerPack.esp
+	(124 -> 124)	MBW Dragon Souls to Perk Points.esp
+	(1040600 -> 1040600)	JKs Temple of Mara - SUT Patch.esp
+	(1040601 -> 1040601)	JKs Temple of Talos - USSEP patch.esp
+	(1040602 -> 1040602)	JKs Understone Keep - USSEP patch.esp
+	(1040603 -> 1040603)	JKs Understone Keep - Immersive Wenches Patch.esp
+	(1040604 -> 1040604)	JKs Warmaidens - ELFX patch.esp
+	(1040605 -> 1040605)	JKs White Phial - ELFX Patch.esp
+	(1040606 -> 1040606)	DBM_ArsMetallica_Patch.esp
+	(1040607 -> 1040607)	DBM_ELFX_Patch.esp
+	(1040608 -> 1040608)	DBM_ForgottenCity_Patch.esp
+	(1040609 -> 1040609)	DBM_JKBannered_Patch.esp
+	(1040610 -> 1040610)	DBM_JKBelethor_Patch.esp
+	(1040611 -> 1040611)	JKs Belethors General Goods - SUT Patch.esp
+	(1040612 -> 1040612)	DBM_JKDragonsreach_Patch.esp
+	(1040613 -> 1040613)	JKs Dragonsreach - Immersive Wenches Patch.esp
+	(1040614 -> 1040614)	JKs Dragonsreach - SUT Patch.esp
+	(1040615 -> 1040615)	DBM_JKWarmaidens_Patch.esp
+	(1040616 -> 1040616)	DBM_SMIM_Patch.esp
+	(125 -> 125)	UnreadBooksGlow.esp
+	(1040617 -> 1040617)	DBM_UnreadBooksGlow_Patch.esp
+	(126 -> 126)	WadeInWater.esp
+	(1040618 -> 1040618)	McmRecorder.esp
+	(1040619 -> 1040619)	MCMHelper.esp
+	(1040620 -> 1040620)	HT More NPC Pocket Money.esp
+	(1040621 -> 1040621)	Mod Manager Menu Disabled.esp
+	(127 -> 127)	MorrowindImports.esp
+	(128 -> 128)	Realistic Natural Skin Tones.esp
+	(1040622 -> 1040622)	NoGrassias Ultimate.esp
+	(129 -> 129)	noCamColl_2_SE.esp
+	(1040623 -> 1040623)	OBody.esp
+	(1040624 -> 1040624)	OStim.esp
+	(1040625 -> 1040625)	OSound.esp
+	(1040626 -> 1040626)	OStrap.esp
+	(1040627 -> 1040627)	WD03OTrainers.esp
+	(1040628 -> 1040628)	OVirginity.esp
+	(1040629 -> 1040629)	PCCombatLipsync.esp
+	(130 -> 130)	OCum.esp
+	(131 -> 131)	Origins Of Forest - 3D Forest Grass.esp
+	(1040630 -> 1040630)	Origins Of Forest - 3D Forest Grass Smaller.esp
+	(1040631 -> 1040631)	Paper UI Sounds.esp
+	(132 -> 132)	True Storms - Obsidian Weathers - Patch .esp
+	(1040632 -> 1040632)	PickpocketEveryone.esp
+	(1040633 -> 1040633)	Project Cougar-BergritteBattleBorn.esp
+	(1040634 -> 1040634)	Project Cougars - Fralia.esp
+	(1040635 -> 1040635)	Precision.esp
+	(1040636 -> 1040636)	Project Cougar - Grelod the Kind.esp
+	(1040637 -> 1040637)	Project Cougar - Hafjorg.esp
+	(1040638 -> 1040638)	Project Cougar - IngeSixFingers.esp
+	(133 -> 133)	pse npcs.esp
+	(1040639 -> 1040639)	Project Cougar - LillithMaidenLoom.esp
+	(1040640 -> 1040640)	Project Cougars - Olava.esp
+	(1040641 -> 1040641)	Project Cougar - Tilma.esp
+	(1040642 -> 1040642)	QuickLootEE.esp
+	(1040643 -> 1040643)	Project Cougar - Hilde.esp
+	(134 -> 134)	RaceMenu.esp
+	(135 -> 135)	RaceMenuPlugin.esp
+	(136 -> 136)	Realistic-Voice.esp
+	(137 -> 137)	RLO - Effects.esp
+	(138 -> 138)	RLO - Illuminated Spells.esp
+	(1040644 -> 1040644)	RelationshipRankNotificationsDialogue.esp
+	(139 -> 139)	NaughtyVoices.esp
+	(140 -> 140)	Ryder Dog Follower.esp
+	(141 -> 141)	RaceCompatibilityUSKPOverride.esp
+	(142 -> 142)	ScopedBows_Bijin Patch.esp
+	(1040645 -> 1040645)	LOTD_TCC_Clockwork.esp
+	(1040646 -> 1040646)	LOTD_TCC_Royal.esp
+	(1040647 -> 1040647)	LOTD_TCC_SUT.esp
+	(1040648 -> 1040648)	LOTD_TCC_TFC.esp
+	(1040649 -> 1040649)	LOTD_TCC_Wyrmstooth.esp
+	(143 -> 143)	SOS - Smurf Average Addon.esp
+	(144 -> 144)	SOS - VectorPlexus Muscular Addon.esp
+	(145 -> 145)	SOS - VectorPlexus Regular Addon.esp
+	(1040650 -> 1040650)	Sex Scene Framework - JK's Dragonsreach Patch.esp
+	(146 -> 146)	SimplyKnock.esp
+	(147 -> 147)	Maux Follower.esp
+	(148 -> 148)	SFO_SkinFeatureOverlays.esp
+	(149 -> 149)	SkyrimsGotTalent-Bards.esp
+	(150 -> 150)	SkyrimsGotTalentBardStudentPatch.esp
+	(1040651 -> 1040651)	ShocksSolstheimCaravan.esp
+	(151 -> 151)	ScopedBows_ArrowTweaks.esp
+	(152 -> 152)	StavesGiveXp.esp
+	(1040652 -> 1040652)	Starting Outfit Suppressed.esp
+	(153 -> 153)	Serana.esp
+	(154 -> 154)	StrangeRunes.esp
+	(155 -> 155)	Stretch Nord Follower.esp
+	(1040653 -> 1040653)	SDA Wintersun Patch.esp
+	(1040654 -> 1040654)	SDA-AA Patch.esp
+	(1040655 -> 1040655)	Cutting Room Floor TKAA Patch.esp
+	(156 -> 156)	ForgottenCity TKAA Patch.esp
+	(1040656 -> 1040656)	Immersive Encounters TKAA Patch.esp
+	(1040657 -> 1040657)	LegacyoftheDragonborn TKAA Patch.esp
+	(1040658 -> 1040658)	Wyrmstooth TKAA Patch.esp
+	(157 -> 157)	TheEyesOfBeauty.esp
+	(1040659 -> 1040659)	Thundering Shouts (normal pitch).esp
+	(1040660 -> 1040660)	TrueDirectionalMovement.esp
+	(1040661 -> 1040661)	CK_TwoBears_Sacrifice.esp
+	(158 -> 158)	True Scholar.esp
+	(159 -> 159)	TKDodge.esp
+	(160 -> 160)	SGEyebrows.esp
+	(161 -> 161)	ValhallaCombat.esp
+	(1040662 -> 1040662)	CK_Violet_Follower.esp
+	(162 -> 162)	Vanilla hair remake NPCs.esp
+	(1040663 -> 1040663)	WadeInWaterRedone.esp
+	(1040664 -> 1040664)	wintersun - custom race support.esp
+	(163 -> 163)	SOSRaceMenu.esp
+	(164 -> 164)	XPMSE.esp
+	(165 -> 165)	Zoro One Piece Follower.esp
+	(166 -> 166)	DisarmorShout.esp
+	(1040665 -> 1040665)	BHUNP3BBB.esp
+	(167 -> 167)	RaceMenuMorphsBHUNP.esp
+	(1040666 -> 1040666)	oComfort.esp
+	(168 -> 168)	VioLens SE.esp
+	(1040667 -> 1040667)	TradeRoutes-Patch-ImmersivePatrols.esp
+	(1040668 -> 1040668)	TradeRoutes-Patch-LegacyoftheDragonborn.esp
+	(169 -> 169)	Ordinator - Perks of Skyrim.esp
+	(170 -> 170)	Apocalypse - Ordinator Compatibility Patch.esp
+	(171 -> 171)	Odin - Ordinator Compatibility Patch.esp
+	(1040669 -> 1040669)	Ordinator- Honed Metal Perks.esp
+	(1040670 -> 1040670)	Ordinator - No Timed Block.esp
+	(172 -> 172)	Sacrosanct - Vampires of Skyrim.esp
+	(173 -> 173)	Immersive Citizens - AI Overhaul.esp
+	(1040671 -> 1040671)	CWR_IC_Patch.esp
+	(174 -> 174)	Relationship Dialogue Overhaul.esp
+	(175 -> 175)	Convenient Horses.esp
+	(1040672 -> 1040672)	JK's The Winking Skeever.esp
+	(1040673 -> 1040673)	HSRiverwood - Hod and Gerdur's House - IC.esp
+	(1040674 -> 1040674)	ICAO - CRF Bloated Mans Grotto patch.esp
+	(1040675 -> 1040675)	Immersive Wenches -Immersive Citizens AI Overhaul Patch-.esp
+	(1040676 -> 1040676)	JK's Skyrim - IC Dawnstar Patch.esp
+	(176 -> 176)	Landscape For Grass Mods -Immersive Citizens PATCH.esp
+	(1040677 -> 1040677)	JKs Candlehearth Hall - Immersive Citizens Patch.esp
+	(1040678 -> 1040678)	JKs Winking Skeever - ELFX patch.esp
+	(1040679 -> 1040679)	JKs Winking Skeever - USSEP Patch.esp
+	(1040680 -> 1040680)	JKs Winking Skeever - Fishing Patch.esp
+	(1040681 -> 1040681)	JKs Winking Skeever - Immersive Citizens patch.esp
+	(1040682 -> 1040682)	JKs Bannered Mare - Immersive Citizens Patch.esp
+	(1040683 -> 1040683)	JKs Belethors General Goods - Immersive Citizens Patch.esp
+	(1040684 -> 1040684)	JKs Dragonsreach - Immersive Citizens Patch.esp
+	(1040685 -> 1040685)	JKs Dragonsreach - Relationship Dialogue Overhaul Patch.esp
+	(1040686 -> 1040686)	JKs Temple of Kynareth - Immersive Citizens patch.esp
+	(1040687 -> 1040687)	JKs Sleeping Giant Inn - Immersive Citizens Patch.esp
+	(1040688 -> 1040688)	JKs New Gnisis Cornerclub - Immersive Citizens Patch.esp
+	(1040689 -> 1040689)	JKs Palace of the Kings - Immersive Citizens Patch.esp
+	(1040690 -> 1040690)	JKs Riverwood Trader - Immersive Citizens patch.esp
+	(1040691 -> 1040691)	JKs Temple of Talos - Immersive Citizens patch.esp
+	(1040692 -> 1040692)	JKs Understone Keep - Immersive Citizens patch.esp
+	(1040693 -> 1040693)	JKs Warmaidens - Immersive Citizens Patch.esp
+	(1040694 -> 1040694)	JKs Winking Skeever - SUT patch.esp
+	(177 -> 177)	RDO - CRF + USSEP Patch.esp
+	(178 -> 178)	SDA Convenient Horses Patch.esp
+	(1040695 -> 1040695)	SDA RDO Patch.esp
+	(179 -> 179)	nwsFollowerFramework.esp
+	(1040696 -> 1040696)	SDA NFF Patch.esp
+	(180 -> 180)	RealisticWaterTwo.esp
+	(181 -> 181)	Realm of Lorkhan - Custom Alternate Start - Choose your own adventure.esp
+	(1040697 -> 1040697)	Realm of Lorkhan - Dragonstone.esp
+	(182 -> 182)	Realm of Lorkhan Unbound Fix.esp
+	(183 -> 183)	LessIntrusiveHUD.esp
+Loading menu open/close event registrations...
+Loading key input event registrations...
+Loading control input event registrations...
+Loading mod callback event registrations...
+Loading crosshair ref event registrations...
+Loading camera event registrations...
+Loading actor action event registrations...
+Loading NiNode update event registrations...
+Loading SKSEPersistentObjectStorage data...
+Loading SKSEDelayFunctorManager data...
+dispatch message (3) to plugin listeners
+sending message type 3 to plugin 2
+sending message type 3 to plugin 3
+sending message type 3 to plugin 4
+sending message type 3 to plugin 9
+sending message type 3 to plugin 11
+sending message type 3 to plugin 12
+sending message type 3 to plugin 13
+sending message type 3 to plugin 14
+sending message type 3 to plugin 16
+sending message type 3 to plugin 19
+sending message type 3 to plugin 20
+sending message type 3 to plugin 22
+sending message type 3 to plugin 24
+sending message type 3 to plugin 25
+sending message type 3 to plugin 26
+sending message type 3 to plugin 28
+sending message type 3 to plugin 29
+sending message type 3 to plugin 30
+sending message type 3 to plugin 31
+sending message type 3 to plugin 33
+sending message type 3 to plugin 34
+sending message type 3 to plugin 35
+sending message type 3 to plugin 36
+sending message type 3 to plugin 37
+sending message type 3 to plugin 38
+sending message type 3 to plugin 39
+sending message type 3 to plugin 40
+sending message type 3 to plugin 41
+sending message type 3 to plugin 43
+sending message type 3 to plugin 46
+sending message type 3 to plugin 47
+sending message type 3 to plugin 48
+sending message type 3 to plugin 49
+registering plugin listener for SmoothCam at 49 of 56
+dispatch message (0) to plugin listeners
+sending message type 3 to plugin 50
+sending message type 3 to plugin 51
+sending message type 3 to plugin 55
+dispatched message.
+cleared save path
+dispatch message (0) to plugin listeners
+sending message type 0 to plugin 13
+sending message type 0 to plugin 30
+sending message type 0 to plugin 46
+dispatched message.
+dispatch message (2) to plugin listeners
+sending message type 2 to plugin 13
+sending message type 2 to plugin 30
+sending message type 2 to plugin 46
+dispatched message.
+dispatch message (1) to plugin listeners
+sending message type 1 to plugin 13
+sending message type 1 to plugin 30
+sending message type 1 to plugin 46
+dispatched message.
+dispatch message (2) to plugin listeners
+sending message type 2 to plugin 13
+sending message type 2 to plugin 30
+sending message type 2 to plugin 46
+dispatched message.
+dispatch message (4) to plugin listeners
+sending message type 4 to plugin 13
+sending message type 4 to plugin 30
+sending message type 4 to plugin 46
+dispatched message.
+dispatch message (5) to plugin listeners
+sending message type 5 to plugin 13
+sending message type 5 to plugin 30
+sending message type 5 to plugin 46
+dispatched message.
+dispatch message (5) to plugin listeners
+sending message type 5 to plugin 13
+sending message type 5 to plugin 30
+sending message type 5 to plugin 46
+dispatched message.
+WidgetLoader.as: setRootPath(a_path = exported/)
+WidgetLoader.as: loadWidget(a_widgetID = 0, a_widgetSource = ../../../meshes/0SA/_0S/UI/OSA.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 1, a_widgetSource = skyui/meter.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 2, a_widgetSource = skyui/meter.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 3, a_widgetSource = skyui/meter.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 4, a_widgetSource = skyui/meter.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 5, a_widgetSource = skyui/meter.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 6, a_widgetSource = skyui/activeeffects.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 7, a_widgetSource = skyui/meter.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 8, a_widgetSource = skyui/meter.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 9, a_widgetSource = skyui/meter.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 10, a_widgetSource = skyui/meter.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 11, a_widgetSource = skyui/meter.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 12, a_widgetSource = skyui/meter.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 13, a_widgetSource = skyui/meter.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 14, a_widgetSource = skyui/meter.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 15, a_widgetSource = skyui/meter.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 16, a_widgetSource = skyui/meter.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 17, a_widgetSource = skyui/meter.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 18, a_widgetSource = skyui/meter.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 19, a_widgetSource = skyui/meter.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 20, a_widgetSource = skyui/meter.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 21, a_widgetSource = skyui/meter.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 22, a_widgetSource = skyui/meter.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 23, a_widgetSource = skyui/meter.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 24, a_widgetSource = iwant\widgets\iWantWidgets.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 25, a_widgetSource = skyui/meter.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 26, a_widgetSource = ostim/LockSymbolWidget.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 27, a_widgetSource = skyui/meter.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 28, a_widgetSource = skyui/meter.swf)
+WidgetLoader.as: loadWidget(a_widgetID = 29, a_widgetSource = skyui/meter.swf)
+[01:19:24.133] [SkyUI Active Effects]: Missing icon
+[01:19:24.133] 		elapsed: 10490.65625
+[01:19:24.133] 		magicType: 4294967295
+[01:19:24.133] 		duration: 1
+[01:19:24.133] 		magnitude: 0
+[01:19:24.133] 		subType: 4294967295
+[01:19:24.133] 		id: 2308377479360
+[01:19:24.133] 		actorValue: 4294967295
+[01:19:24.133] 		effectFlags: 0
+[01:19:24.133] 		archetype: 1
+dispatch message (5) to plugin listeners
+sending message type 5 to plugin 13
+sending message type 5 to plugin 30
+sending message type 5 to plugin 46
+dispatched message.
+dispatch message (5) to plugin listeners
+sending message type 5 to plugin 13
+sending message type 5 to plugin 30
+sending message type 5 to plugin 46
+dispatched message.

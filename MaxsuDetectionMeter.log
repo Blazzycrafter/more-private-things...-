@@ -1,0 +1,32 @@
+[01/01/23 01:14:20][info](Logger.hpp:152) Logger init - Skyrim Special Edition 1-6-640-0
+[01/01/23 01:14:20][info](main.cpp:16) MaxsuDetectionMeter v1.0.6.0 loaded
+[01/01/23 01:14:20][info](Hook.h:11) Hook Actor Update!
+[01/01/23 01:14:42][info](GUI.hpp:431) DKU_G: Version 10202
+[01/01/23 01:14:42][info](GUI.hpp:136) DKU_IPC: D3D11 hosting...
+[01/01/23 01:14:42][info](GUI.hpp:155) DKU_IPC: D3D11 messaging started!
+[01/01/23 01:14:42][info](GUI.hpp:372) DKU_G: Acquiring D3D11 dll info...
+[01/01/23 01:14:42][info](GUI.hpp:389) DKU_G: D3D11 dll -> 0
+[01/01/23 01:14:42][info](GUI.hpp:161) DKU_IPC: {} evaluation op succeeded
+[01/01/23 01:14:42][info](GUI.hpp:166) DKU_IPC: D3D11 host complete
+[01/01/23 01:14:42][info](GUI.hpp:449) DKU_G: D3D11 init
+[01/01/23 01:14:42][info](GUI.hpp:400) DKU_G: Register D3D11 callback succeeded -> DrawMeters @ MaxsuDetectionMeter.7FF9DA423580
+[01/01/23 01:14:42][info](Renderer.cpp:249) GUI Init!
+[01/01/23 01:14:50][info](GUI.hpp:327) DKU_G: Acquired D3D runtime info
+[01/01/23 01:14:50][info](GUI.hpp:338) DKU_G: Acquired ImGui runtime info
+[01/01/23 01:15:07][info](Renderer.cpp:256) Loaded Texture File "Data\SKSE\Plugins\MaxsuDetectionMeter\Meter_Frame.png"
+[01/01/23 01:15:07][info](Renderer.cpp:256) Loaded Texture File "Data\SKSE\Plugins\MaxsuDetectionMeter\Meter_NonHostile.png"
+[01/01/23 01:15:07][info](Renderer.cpp:256) Loaded Texture File "Data\SKSE\Plugins\MaxsuDetectionMeter\Meter_Hostile.png"
+[01/01/23 01:15:07][info](MeterSettings.h:14) Setting:"FadeSpeed" is 255
+[01/01/23 01:15:07][info](MeterSettings.h:14) Setting:"FlashSpeed" is 480
+[01/01/23 01:15:07][info](MeterSettings.h:14) Setting:"FlashScale" is 0.25
+[01/01/23 01:15:07][info](MeterSettings.h:14) Setting:"FlashShift" is 36
+[01/01/23 01:15:07][info](MeterSettings.h:14) Setting:"MinFillingSpeed" is 0.35
+[01/01/23 01:15:07][info](MeterSettings.h:14) Setting:"MaxFillingSpeed" is 0.95
+[01/01/23 01:15:07][info](MeterSettings.h:14) Setting:"MinTriggerLevel" is 25
+[01/01/23 01:15:07][info](MeterSettings.h:14) Setting:"RadiusX" is 305
+[01/01/23 01:15:07][info](MeterSettings.h:14) Setting:"RadiusY" is 305
+[01/01/23 01:15:07][info](MeterSettings.h:14) Setting:"CenterOffsetX" is 0
+[01/01/23 01:15:07][info](MeterSettings.h:14) Setting:"CenterOffsetY" is -48
+[01/01/23 01:15:07][info](ConsoleCommands.cpp:45) Registered console command: MaxsuDetectionMeter (MaxsuDM)
+[01/01/23 01:19:10][info](GUI.hpp:400) DKU_G: Remove D3D11 callback succeeded -> DrawMeters @ MaxsuDetectionMeter.7FF9DA423580
+[01/01/23 01:19:10][info](GUI.hpp:400) DKU_G: Register D3D11 callback succeeded -> DrawMeters @ MaxsuDetectionMeter.7FF9DA423580

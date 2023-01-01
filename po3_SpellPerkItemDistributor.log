@@ -1,0 +1,419 @@
+[01:14:21:315] po3_SpellPerkItemDistributor v6.0.3.1
+[01:14:21:316] Game version : 1-6-640-0
+[01:14:21:601] *******************DEPENDENCIES*******************
+[01:14:21:601] Keyword Item Distributor (KID) detected : false
+[01:14:21:601] powerofthree's Tweaks (po3_tweaks) detected : true
+[01:14:21:601] ***********************INI************************
+[01:14:21:602] 	10 matching inis found
+[01:14:21:602] 	INI : Data\Afterlife_DISTR.ini
+[01:14:21:602] 	INI : Data\ApocalypseSpellsForNPCs_DISTR.ini
+[01:14:21:604] 	INI : Data\DevourmentBase_DISTR.ini
+[01:14:21:606] 	INI : Data\GrowlPerksAndSpellsForNPCs_DISTR.ini
+[01:14:21:607] 	INI : Data\ODINSpellsForNPCs_DISTR.ini
+[01:14:21:608] 	INI : Data\SacrosanctSpellsAndPerksForNPCs_DISTR.ini
+[01:14:21:610] 	INI : Data\StrangeRunes_DISTR.ini
+[01:14:21:611] 	INI : Data\VanillaShoutsForNPCs_DISTR.ini
+[01:14:21:612] 	INI : Data\forsworn axe spid_DISTR.ini
+[01:14:21:612] 	INI : Data\zzzUnderwear_DISTR.ini
+[01:14:21:613] **********************HOOKS***********************
+[01:14:21:613] 	Hooked leveled actor init
+[01:14:21:613] 	Hooked npc load save
+[01:15:07:363] **********************LOOKUP**********************
+[01:15:07:363] 	Starting Keyword lookup
+[01:15:07:363] 		DevourmentBoss [0xFE045ACB] INFO - using existing keyword
+[01:15:07:363] 		DevourmentSuperPred [0xFE045824] INFO - using existing keyword
+[01:15:07:363] 		DevourmentVorish [0xFE045C23] INFO - using existing keyword
+[01:15:07:363] 		ForswornMelee [0xFF001151] INFO - creating keyword
+[01:15:07:363] 		VoreTalker [0xFE045A31] INFO - using existing keyword
+[01:15:07:363] 	Starting Spell lookup
+[01:15:07:363] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:363] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:364] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:365] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:365] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:365] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:365] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:365] 		[0x47C86] (Odin - Skyrim Magic Overhaul.esp) FAIL - formID doesn't exist
+[01:15:07:365] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:365] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:365] 		[0x68E4E] (Odin - Skyrim Magic Overhaul.esp) FAIL - formID doesn't exist
+[01:15:07:365] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:365] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:365] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:365] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:365] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:365] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:365] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:365] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:365] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:365] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:365] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:365] 		[0x8C58C] (Odin - Skyrim Magic Overhaul.esp) FAIL - formID doesn't exist
+[01:15:07:365] 		[0x967B9] (Odin - Skyrim Magic Overhaul.esp) FAIL - formID doesn't exist
+[01:15:07:365] 		[0xA304F] (Odin - Skyrim Magic Overhaul.esp) FAIL - formID doesn't exist
+[01:15:07:365] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:365] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:365] 		[0xDD699] (Odin - Skyrim Magic Overhaul.esp) FAIL - formID doesn't exist
+[01:15:07:365] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:365] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:365] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:365] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:365] 			Filter (00013178) SKIP - form doesn't exist
+[01:15:07:365] 	Starting Perk lookup
+[01:15:07:366] 		[0x5995] (Sacrosanct - Vampires of Skyrim.esp) FAIL - formID doesn't exist
+[01:15:07:366] 		[0x5996] (Sacrosanct - Vampires of Skyrim.esp) FAIL - formID doesn't exist
+[01:15:07:366] 		[0x5997] (Sacrosanct - Vampires of Skyrim.esp) FAIL - formID doesn't exist
+[01:15:07:366] 		[0x8A70] (Sacrosanct - Vampires of Skyrim.esp) FAIL - formID doesn't exist
+[01:15:07:366] 		[0x16908] (Sacrosanct - Vampires of Skyrim.esp) FAIL - formID doesn't exist
+[01:15:07:366] 		[0xF5B56] (Sacrosanct - Vampires of Skyrim.esp) FAIL - formID doesn't exist
+[01:15:07:366] 	Starting Item lookup
+[01:15:07:366] 	Starting Shout lookup
+[01:15:07:366] ****************RESOLVING KEYWORDS****************
+[01:15:07:366]  WARNING : [0xF08~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF0A~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF0B~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF0C~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF0F~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF10~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF12~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF13~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF14~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF15~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF16~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF17~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF18~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF19~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF1A~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF1B~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF1C~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF1F~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF21~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF22~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF23~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF24~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF25~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF26~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF27~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF28~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF3A~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF3B~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF3E~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF40~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF41~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF42~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF43~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF46~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF48~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF49~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:366]  WARNING : [0xF4A~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF4B~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF4C~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF4D~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF4E~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF4F~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF50~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF51~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF55~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF56~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF57~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF58~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF59~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF5A~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF5D~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF5F~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF60~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF61~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF62~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF63~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF64~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF67~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF68~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF69~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF6A~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF6B~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF6C~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF6E~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF6F~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF70~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF71~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF73~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF74~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF75~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF76~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF78~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF79~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF7A~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF7B~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF7D~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF7E~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF7F~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF80~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xF81~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:367]  WARNING : [0xFF1~Sex Scene Framework.esp] keyword has an empty editorID!
+[01:15:07:368] 		ForswornMelee SKIP - Keyword referencing itself in its filters.
+[01:15:07:368] 	Keywords have been sorted: 
+[01:15:07:368] 		DevourmentSuperPred [0xFE045824]
+[01:15:07:368] 		ForswornMelee [0xFF001151]
+[01:15:07:368] 		VoreTalker [0xFE045A31]
+[01:15:07:368] 		DevourmentBoss [0xFE045ACB]
+[01:15:07:368] 		DevourmentVorish [0xFE045C23]
+[01:15:07:368] ********************PROCESSING********************
+[01:15:07:369] 	Adding 5/5 Keyword(s)
+[01:15:07:369] 	Adding 132/138 Spell(s)
+[01:15:07:369] 	Adding 54/60 Perk(s)
+[01:15:07:369] 	Adding 1/1 Item(s)
+[01:15:07:369] 	Adding 16/16 Shout(s)
+[01:15:07:369] 	Adding 0/0 LevSpell(s)
+[01:15:07:369] 	Adding 0/0 Package(s)
+[01:15:07:369] 	Adding 0/0 Outfit(s)
+[01:15:07:369] 	Adding 0/0 DeathItem(s)
+[01:15:07:369] 	Adding 0/0 Faction(s)
+[01:15:07:369] 	Adding 0/0 SleepOutfit(s)
+[01:15:07:369] 	Adding 0/0 Skin(s)
+[01:15:08:253] *********************RESULTS**********************
+[01:15:08:253] **********[unique or non-templated NPCs]**********
+[01:15:08:253] 	Keywords
+[01:15:08:253] 		DevourmentSuperPred [0x824~Devourment.esp] added to 431/11072 NPCs
+[01:15:08:253] 		ForswornMelee [0xFF001151] added to 59/11072 NPCs
+[01:15:08:253] 		VoreTalker [0xA31~Devourment.esp] added to 94/11072 NPCs
+[01:15:08:253] 		DevourmentBoss [0xACB~Devourment.esp] added to 861/11072 NPCs
+[01:15:08:253] 		DevourmentVorish [0xC23~Devourment.esp] added to 10479/11072 NPCs
+[01:15:08:253] 	Spells
+[01:15:08:253] 		AbVampire04b [0x10F1E8~Skyrim.esm] added to 38/11072 NPCs
+[01:15:08:254] 		AbVampire03b [0x10F1E9~Skyrim.esm] added to 24/11072 NPCs
+[01:15:08:254] 		AbVampire02b [0x10F1EA~Skyrim.esm] added to 15/11072 NPCs
+[01:15:08:254] 		AbVampire01b [0x10F1EB~Skyrim.esm] added to 104/11072 NPCs
+[01:15:08:254] 		WerewolfImmunity [0xF5BA0~Skyrim.esm] added to 35/11072 NPCs
+[01:15:08:254] 		VampireSunDamage03 [0xED09B~Skyrim.esm] added to 24/11072 NPCs
+[01:15:08:254] 		VampireSunDamage04 [0xED09C~Skyrim.esm] added to 38/11072 NPCs
+[01:15:08:254] 		VampireSunDamage02 [0xED09A~Skyrim.esm] added to 15/11072 NPCs
+[01:15:08:254] 		AbWerewolf [0xA1A3E~Skyrim.esm] added to 35/11072 NPCs
+[01:15:08:254] 		VampireSunDamage01 [0xC1E8B~Skyrim.esm] added to 104/11072 NPCs
+[01:15:08:254] 		DevourmentSpell_Bellyport [0x99E~Devourment.esp] added to 0/11072 NPCs
+[01:15:08:254] 		DevourmentAbility_PseudoAI [0xC11~Devourment.esp] added to 10480/11072 NPCs
+[01:15:08:254] 		DevourmentSpell_Retrovore [0xBC0~Devourment.esp] added to 5/11072 NPCs
+[01:15:08:254] 		DevourmentSpell_Retrovore_unbirth [0xA4B~Devourment.esp] added to 16/11072 NPCs
+[01:15:08:254] 		DevourmentSpell_Retrovore_cock [0xA4A~Devourment.esp] added to 2/11072 NPCs
+[01:15:08:254] 		DevourmentSpell_Retrovore_breastright [0xA49~Devourment.esp] added to 16/11072 NPCs
+[01:15:08:254] 		DevourmentSpell_Retrovore_breastLeft [0xA48~Devourment.esp] added to 16/11072 NPCs
+[01:15:08:254] 		DevourmentSpell_Retrovore_anal [0xA47~Devourment.esp] added to 10/11072 NPCs
+[01:15:08:254] 		AL_SoulTrapDeathAb [0xA67~Afterlife.esp] added to 6600/11072 NPCs
+[01:15:08:254] 		AL_NordDeathAb [0xA66~Afterlife.esp] added to 1994/11072 NPCs
+[01:15:08:254] 		WB_I025_CurseOfTheSilent_Spell_PC [0x17509~Apocalypse - Magic of Skyrim.esp] added to 21/11072 NPCs
+[01:15:08:254] 		WB_C100_Necrowitch_Spell_PC [0x16F95~Apocalypse - Magic of Skyrim.esp] added to 0/11072 NPCs
+[01:15:08:254] 		WB_R050_Ruin_Spell_PC [0x159D8~Apocalypse - Magic of Skyrim.esp] added to 16/11072 NPCs
+[01:15:08:254] 		WB_D100_FingersOfTheMountain_Spell_PC [0x137BE~Apocalypse - Magic of Skyrim.esp] added to 14/11072 NPCs
+[01:15:08:254] 		WB_C100_ConjureNetherLich_Spell_PC [0x128FA~Apocalypse - Magic of Skyrim.esp] added to 4/11072 NPCs
+[01:15:08:254] 		WB_D075_Bombardment_Spell_NPC [0x294D4~Apocalypse - Magic of Skyrim.esp] added to 30/11072 NPCs
+[01:15:08:254] 		WB_D050_Bolide_Spell_NPC [0x294CD~Apocalypse - Magic of Skyrim.esp] added to 40/11072 NPCs
+[01:15:08:254] 		WB_D075_SleetStorm_Spell_NPC [0x27F2E~Apocalypse - Magic of Skyrim.esp] added to 25/11072 NPCs
+[01:15:08:254] 		WB_D025_Fracture_Spell_NPC [0x279C0~Apocalypse - Magic of Skyrim.esp] added to 29/11072 NPCs
+[01:15:08:254] 		WB_D025_CreepingCold_Spell_NPC [0x279BD~Apocalypse - Magic of Skyrim.esp] added to 33/11072 NPCs
+[01:15:08:254] 		WB_C025_ConjureCatTotem_Spell_PC [0x27144~Apocalypse - Magic of Skyrim.esp] added to 54/11072 NPCs
+[01:15:08:254] 		WB_D025_RiftBolt_Spell_NPC [0x253C2~Apocalypse - Magic of Skyrim.esp] added to 56/11072 NPCs
+[01:15:08:254] 		WB_D050_IceShiv_Spell_NPC [0x24B44~Apocalypse - Magic of Skyrim.esp] added to 31/11072 NPCs
+[01:15:08:254] 		WB_D025_DragonsTeeth_Spell_NPC [0x24361~Apocalypse - Magic of Skyrim.esp] added to 45/11072 NPCs
+[01:15:08:254] 		WB_D100_ApocalypseNew_Spell_PC [0x23316~Apocalypse - Magic of Skyrim.esp] added to 1/11072 NPCs
+[01:15:08:254] 		WB_D025_Inferno_Spell_PC [0x22DAB~Apocalypse - Magic of Skyrim.esp] added to 62/11072 NPCs
+[01:15:08:254] 		WB_R025_WellingBlood_Spell_PC [0x1FCD9~Apocalypse - Magic of Skyrim.esp] added to 0/11072 NPCs
+[01:15:08:254] 		WB_R050_SealedResolve_Spell_PC [0x1FCCA~Apocalypse - Magic of Skyrim.esp] added to 20/11072 NPCs
+[01:15:08:254] 		WB_R075_Decompose_Spell_PC [0x1F1FB~Apocalypse - Magic of Skyrim.esp] added to 14/11072 NPCs
+[01:15:08:254] 		WB_R075_Resurgence_Spell_PC [0x1E701~Apocalypse - Magic of Skyrim.esp] added to 12/11072 NPCs
+[01:15:08:254] 		WB_C075_OathboundGuardian_Spell_PC [0x18AE7~Apocalypse - Magic of Skyrim.esp] added to 23/11072 NPCs
+[01:15:08:254] 		WB_C000_ConjureAvengingWraith_Spell_NPC [0x17A8E~Apocalypse - Magic of Skyrim.esp] added to 0/11072 NPCs
+[01:15:08:254] 		WB_I025_IllusoryFlames_Spell_PC [0x3682F~Apocalypse - Magic of Skyrim.esp] added to 60/11072 NPCs
+[01:15:08:254] 		WB_R050_FingerOfDeath_Spell_PC [0x35452~Apocalypse - Magic of Skyrim.esp] added to 0/11072 NPCs
+[01:15:08:254] 		WB_R025_Necroplague_Spell_PC [0x34D12~Apocalypse - Magic of Skyrim.esp] added to 19/11072 NPCs
+[01:15:08:254] 		WB_R100_KingsHeart_Spell_PC [0x33CCA~Apocalypse - Magic of Skyrim.esp] added to 1/11072 NPCs
+[01:15:08:254] 		WB_I050_IllusoryPyre_Spell_PC [0x32C8B~Apocalypse - Magic of Skyrim.esp] added to 37/11072 NPCs
+[01:15:08:254] 		WB_I100_ScreamOfPain_Spell_PC [0x321BA~Apocalypse - Magic of Skyrim.esp] added to 3/11072 NPCs
+[01:15:08:254] 		WB_R100_InfiniteLight_Spell_PC [0x2F66E~Apocalypse - Magic of Skyrim.esp] added to 4/11072 NPCs
+[01:15:08:254] 		WB_D000_Hailstone_Spell_NPC [0x2E634~Apocalypse - Magic of Skyrim.esp] added to 56/11072 NPCs
+[01:15:08:254] 		WB_D100_Flamestrike_Spell_PC [0x2E0C0~Apocalypse - Magic of Skyrim.esp] added to 6/11072 NPCs
+[01:15:08:254] 		WB_D100_Twister_Spell_PC [0x2D5DB~Apocalypse - Magic of Skyrim.esp] added to 6/11072 NPCs
+[01:15:08:254] 		WB_D100_CyclonicRift_Spell_PC [0x2D068~Apocalypse - Magic of Skyrim.esp] added to 13/11072 NPCs
+[01:15:08:254] 		WB_C025_AtronachMark_Spell_PC [0x2CD7E~Apocalypse - Magic of Skyrim.esp] added to 26/11072 NPCs
+[01:15:08:254] 		WB_C100_ConjureBearTotem_Spell_PC [0x4734D~Apocalypse - Magic of Skyrim.esp] added to 5/11072 NPCs
+[01:15:08:254] 		WB_D100_Volcano_Spell_PC [0x4733C~Apocalypse - Magic of Skyrim.esp] added to 5/11072 NPCs
+[01:15:08:254] 		WB_I100_HiddenCobra_Spell_PC [0x46DC4~Apocalypse - Magic of Skyrim.esp] added to 3/11072 NPCs
+[01:15:08:254] 		WB_R075_BloodBoil_Spell_PC [0x44D44~Apocalypse - Magic of Skyrim.esp] added to 0/11072 NPCs
+[01:15:08:254] 		WB_D100_ForbiddenSun_Spell_PC [0x44264~Apocalypse - Magic of Skyrim.esp] added to 3/11072 NPCs
+[01:15:08:254] 		WB_I100_LastWord_Spell_PC [0x416BF~Apocalypse - Magic of Skyrim.esp] added to 32/11072 NPCs
+[01:15:08:254] 		WB_I075_Seidstone_Spell_PC [0x3789F~Apocalypse - Magic of Skyrim.esp] added to 14/11072 NPCs
+[01:15:08:254] 		WB_R025_LambOfMara_Spell_PC [0x36A03~Apocalypse - Magic of Skyrim.esp] added to 0/11072 NPCs
+[01:15:08:254] 		WB_D100_HowlingBlast_Spell_PC [0x83A2C~Apocalypse - Magic of Skyrim.esp] added to 6/11072 NPCs
+[01:15:08:254] 		WB_D100_StaticDome_Spell_PC [0x83A22~Apocalypse - Magic of Skyrim.esp] added to 18/11072 NPCs
+[01:15:08:254] 		WB_R000_WildHealing_Spell_PC [0x82483~Apocalypse - Magic of Skyrim.esp] added to 40/11072 NPCs
+[01:15:08:254] 		WB_A025_PerilousPath_Spell_PC [0x803F2~Apocalypse - Magic of Skyrim.esp] added to 31/11072 NPCs
+[01:15:08:254] 		WB_A100_TalonsOfNirn_Spell_PC [0x7FE79~Apocalypse - Magic of Skyrim.esp] added to 3/11072 NPCs
+[01:15:08:254] 		XWB_A075_Hold_Spell_PC [0x74B84~Apocalypse - Magic of Skyrim.esp] added to 15/11072 NPCs
+[01:15:08:254] 		WB_S_A050_Tremble_Spell_PC [0x6D4B1~Apocalypse - Magic of Skyrim.esp] added to 32/11072 NPCs
+[01:15:08:254] 		XWB_C050_ConjureSpiritCat_Spell_PC [0x62DA4~Apocalypse - Magic of Skyrim.esp] added to 48/11072 NPCs
+[01:15:08:254] 		WB_R075_HealingBlossom_Spell_PC [0x5F74D~Apocalypse - Magic of Skyrim.esp] added to 16/11072 NPCs
+[01:15:08:254] 		WB_A100_Battletide_Spell_PC [0x5ECEE~Apocalypse - Magic of Skyrim.esp] added to 1/11072 NPCs
+[01:15:08:254] 		WB_C000_AzureReconstruction_Spell_PC [0x88694~Apocalypse - Magic of Skyrim.esp] added to 0/11072 NPCs
+[01:15:08:254] 		WB_C100_ConjureBattlemage_Spell_PC [0x8868C~Apocalypse - Magic of Skyrim.esp] added to 3/11072 NPCs
+[01:15:08:254] 		WB_A100_SothasMaelstrom_Spell_PC [0x86B60~Apocalypse - Magic of Skyrim.esp] added to 4/11072 NPCs
+[01:15:08:254] 		WB_D050_IncendiaryFlow_Spell_NPC [0x85910~Apocalypse - Magic of Skyrim.esp] added to 53/11072 NPCs
+[01:15:08:254] 		WB_D000_UnboundFire_Spell_NPC [0x85594~Apocalypse - Magic of Skyrim.esp] added to 68/11072 NPCs
+[01:15:08:254] 		WB_I000_PaleShadow_Spell_PC [0x8558A~Apocalypse - Magic of Skyrim.esp] added to 43/11072 NPCs
+[01:15:08:254] 		WB_I100_SpectralWarband_Spell_PC [0x85579~Apocalypse - Magic of Skyrim.esp] added to 3/11072 NPCs
+[01:15:08:254] 		WB_R100_LifesFinale_Spell_PC [0x83FA8~Apocalypse - Magic of Skyrim.esp] added to 2/11072 NPCs
+[01:15:08:254] 		WB_I075_EmpathicAgony_Spell_PC [0xA4EF7~Apocalypse - Magic of Skyrim.esp] added to 12/11072 NPCs
+[01:15:08:254] 		WB_C100_ConjureWeepingDaedra_Spell_NPC [0x8FDED~Apocalypse - Magic of Skyrim.esp] added to 36/11072 NPCs
+[01:15:08:254] 		XWB_A075_NaturalBarrier_Spell_PC [0xAE5B7~Apocalypse - Magic of Skyrim.esp] added to 16/11072 NPCs
+[01:15:08:254] 		WB_D000_Crackle_Spell_NPC [0x109653~Apocalypse - Magic of Skyrim.esp] added to 38/11072 NPCs
+[01:15:08:254] 		WB_D075_ShatteringCrystal_Spell_PC [0x108627~Apocalypse - Magic of Skyrim.esp] added to 19/11072 NPCs
+[01:15:08:254] 		WB_I100_Shroudwalk_Spell_PC [0xDD94B~Apocalypse - Magic of Skyrim.esp] added to 2/11072 NPCs
+[01:15:08:254] 		XWB_C100_ConjureGatewayWraith_Spell_PC [0xBB983~Apocalypse - Magic of Skyrim.esp] added to 0/11072 NPCs
+[01:15:08:254] 		WB_D050_Electrosphere_Spell_NPC [0x1879~Apocalypse - Magic of Skyrim.esp] added to 57/11072 NPCs
+[01:15:08:254] 		WB_D075_ShockNova_Spell_PC [0x186D~Apocalypse - Magic of Skyrim.esp] added to 42/11072 NPCs
+[01:15:08:254] 		WB_R075_NaturesBalance_Spell_PC [0x12DC~Apocalypse - Magic of Skyrim.esp] added to 18/11072 NPCs
+[01:15:08:254] 		WB_R025_LeechSeed_Spell_PC [0x13E4FD~Apocalypse - Magic of Skyrim.esp] added to 27/11072 NPCs
+[01:15:08:254] 		WB_R050_TreeRings_Spell_PC [0x13DA15~Apocalypse - Magic of Skyrim.esp] added to 34/11072 NPCs
+[01:15:08:254] 		WB_D050_FrostNova_Spell_PC [0x1347EE~Apocalypse - Magic of Skyrim.esp] added to 45/11072 NPCs
+[01:15:08:254] 		WB_R100_WormShroud_Spell_PC [0x12CB8D~Apocalypse - Magic of Skyrim.esp] added to 6/11072 NPCs
+[01:15:08:254] 		WB_R100_BreathOfArkay_Spell_PC [0x12B063~Apocalypse - Magic of Skyrim.esp] added to 0/11072 NPCs
+[01:15:08:254] 		WB_I050_BloodForBlood_Spell_PC [0x127FA7~Apocalypse - Magic of Skyrim.esp] added to 0/11072 NPCs
+[01:15:08:254] 		WB_A025_Wither_Spell_PC [0x12649C~Apocalypse - Magic of Skyrim.esp] added to 28/11072 NPCs
+[01:15:08:254] 		WB_A100_ThrummingStone_Spell_PC [0x124EC7~Apocalypse - Magic of Skyrim.esp] added to 3/11072 NPCs
+[01:15:08:254] 		WB_C050_ConjureXivilaiSorcerer_Spell_NPC [0x1228A8~Apocalypse - Magic of Skyrim.esp] added to 29/11072 NPCs
+[01:15:08:254] 		WB_A025_RaiseWall_Spell_PC [0xCC14~Apocalypse - Magic of Skyrim.esp] added to 28/11072 NPCs
+[01:15:08:254] 		WB_A100_HethothsGrimoire_Spell_PC [0xC13D~Apocalypse - Magic of Skyrim.esp] added to 2/11072 NPCs
+[01:15:08:254] 		WB_I000_DispelMagic_Spell_PC [0xBB25~Apocalypse - Magic of Skyrim.esp] added to 37/11072 NPCs
+[01:15:08:254] 		WB_I100_MagickaVoid_Spell_PC [0xB5B7~Apocalypse - Magic of Skyrim.esp] added to 1/11072 NPCs
+[01:15:08:254] 		WB_S_A075_DancingStones_Spell_EQ_PC [0xAB58~Apocalypse - Magic of Skyrim.esp] added to 8/11072 NPCs
+[01:15:08:254] 		WB_A075_TumbleMagnet_Spell_PC [0xA5EB~Apocalypse - Magic of Skyrim.esp] added to 16/11072 NPCs
+[01:15:08:254] 		WB_R025_SlayLiving_Spell_PC [0x3E0F~Apocalypse - Magic of Skyrim.esp] added to 0/11072 NPCs
+[01:15:08:254] 		WB_A050_Undermine_Spell_PC [0x2E31~Apocalypse - Magic of Skyrim.esp] added to 25/11072 NPCs
+[01:15:08:254] 		WB_A100_MalvisersGauntlet_Spell_PC [0x2E2A~Apocalypse - Magic of Skyrim.esp] added to 6/11072 NPCs
+[01:15:08:254] 		WB_C075_ConjureHerne_Spell_NPC [0x128E8~Apocalypse - Magic of Skyrim.esp] added to 27/11072 NPCs
+[01:15:08:254] 		WB_C075_ConjureDremoraChampion_Spell_NPC [0x128DF~Apocalypse - Magic of Skyrim.esp] added to 25/11072 NPCs
+[01:15:08:254] 		WB_C075_ConjureXivilaiLord_Spell_NPC [0x12370~Apocalypse - Magic of Skyrim.esp] added to 12/11072 NPCs
+[01:15:08:254] 		WB_R050_HorridWilting_Spell_PC [0x12214~Apocalypse - Magic of Skyrim.esp] added to 16/11072 NPCs
+[01:15:08:254] 		HRI_Racial_Spell_Orc_Ab [0xD0286~Growl - Werebeasts of Skyrim.esp] added to 35/11072 NPCs
+[01:15:08:254] 		HRI_Racial_Spell_HighElf_Ab [0xD0280~Growl - Werebeasts of Skyrim.esp] added to 0/11072 NPCs
+[01:15:08:254] 		HRI_Racial_Spell_WoodElf_Ab [0xD027B~Growl - Werebeasts of Skyrim.esp] added to 0/11072 NPCs
+[01:15:08:254] 		HRI_Racial_Spell_Imperial_Ab [0xD0279~Growl - Werebeasts of Skyrim.esp] added to 35/11072 NPCs
+[01:15:08:254] 		HRI_Mortal_Spell_Beastblood_RegenerateHealthAndStamina_Ab_2 [0xC0F4F~Growl - Werebeasts of Skyrim.esp] added to 0/11072 NPCs
+[01:15:08:254] 		HRI_Mortal_Spell_Beastblood_FortifySpeed_Ab [0xC0F49~Growl - Werebeasts of Skyrim.esp] added to 35/11072 NPCs
+[01:15:08:254] 		HRI_Mortal_Spell_Beastblood_RegenerateHealthAndStamina_Ab_1 [0xC0F46~Growl - Werebeasts of Skyrim.esp] added to 35/11072 NPCs
+[01:15:08:254] 		HRI_Mortal_Spell_Beastblood_Drawbacks_Ab [0x4C7A7~Growl - Werebeasts of Skyrim.esp] added to 35/11072 NPCs
+[01:15:08:254] 		HRI_PerkTree_Spell_SetWerebearGlobal_Ab [0x3D47B~Growl - Werebeasts of Skyrim.esp] added to 3/11072 NPCs
+[01:15:08:254] 		HRI_Racial_Spell_Khajiit_Ab [0xD0295~Growl - Werebeasts of Skyrim.esp] added to 35/11072 NPCs
+[01:15:08:254] 		HRI_Racial_Spell_Redguard_Ab [0xD028E~Growl - Werebeasts of Skyrim.esp] added to 35/11072 NPCs
+[01:15:08:254] 		HRI_Racial_Spell_Nord_Ab [0xD028A~Growl - Werebeasts of Skyrim.esp] added to 35/11072 NPCs
+[01:15:08:254] 		zzzUnderwearSpell [0x803~zzzUnderwear.esp] added to 6568/11072 NPCs
+[01:15:08:254] 		po3_RUNE_DetectCastNPCAbility [0x68855~StrangeRunes.esp] added to 6600/11072 NPCs
+[01:15:08:254] 		SCS_VampireSpells_Blood_Spell_100_BloodGuillotine [0x11DAF~Sacrosanct - Vampires of Skyrim.esp] added to 3/11072 NPCs
+[01:15:08:254] 		SCS_VampireSpells_Blood_Spell_075_BloodScourge [0xCE61~Sacrosanct - Vampires of Skyrim.esp] added to 5/11072 NPCs
+[01:15:08:254] 		SCS_VampireSpells_Blood_Spell_050_BloodBrand [0xCE5D~Sacrosanct - Vampires of Skyrim.esp] added to 8/11072 NPCs
+[01:15:08:254] 		SCS_VampireSpells_Blood_Spell_025_BloodSeed [0x7F19~Sacrosanct - Vampires of Skyrim.esp] added to 3/11072 NPCs
+[01:15:08:254] 		SCS_VampireSpells_Reward_Power_Spell_LamaesDescent_Cloak [0x131396~Sacrosanct - Vampires of Skyrim.esp] added to 6/11072 NPCs
+[01:15:08:254] 		SCS_Abilities_Vanilla_Spell_Ab_NewMoonlitWaters [0x124D1B~Sacrosanct - Vampires of Skyrim.esp] added to 203/11072 NPCs
+[01:15:08:254] 	Perks
+[01:15:08:254] 		DLC1BestialStrength75Perk [0x11CFA~Dawnguard.esm] added to 1/11072 NPCs
+[01:15:08:254] 		DLC1BestialStrength100Perk [0x11CFB~Dawnguard.esm] added to 0/11072 NPCs
+[01:15:08:254] 		DLC1BestialStrength25Perk [0x59A4~Dawnguard.esm] added to 35/11072 NPCs
+[01:15:08:254] 		DLC1AnimalVigorPerk [0x59A5~Dawnguard.esm] added to 35/11072 NPCs
+[01:15:08:254] 		DLC1TotemOfTerrorPerk [0x59A8~Dawnguard.esm] added to 10/11072 NPCs
+[01:15:08:254] 		DLC1TotemOfIceBrothersPerk [0x59AA~Dawnguard.esm] added to 9/11072 NPCs
+[01:15:08:254] 		DLC1TotemOfTheMoonPerk [0x59AB~Dawnguard.esm] added to 1/11072 NPCs
+[01:15:08:254] 		DLC1BestialStrength50Perk [0x7A3F~Dawnguard.esm] added to 10/11072 NPCs
+[01:15:08:254] 		DevourmentPerk_Voracious20 [0xB6E~Devourment.esp] added to 805/11072 NPCs
+[01:15:08:254] 		DevourmentPerk_Voracious00 [0xB6D~Devourment.esp] added to 1389/11072 NPCs
+[01:15:08:254] 		DevourmentPerk_DigestionDwemer [0x96D~Devourment.esp] added to 67/11072 NPCs
+[01:15:08:254] 		DevourmentPerk_DigestionUndead [0x96C~Devourment.esp] added to 2589/11072 NPCs
+[01:15:08:254] 		DevourmentPerk_DigestionDaedric [0x96B~Devourment.esp] added to 545/11072 NPCs
+[01:15:08:254] 		DevourmentPerk_Cordyceps [0xCCF~Devourment.esp] added to 8/11072 NPCs
+[01:15:08:254] 		DevourmentPerk_PartingGift [0xCCE~Devourment.esp] added to 235/11072 NPCs
+[01:15:08:254] 		DevourmentPerk_StickTheLanding [0xC22~Devourment.esp] added to 532/11072 NPCs
+[01:15:08:254] 		DevourmentPerk_RaiseDead [0xC08~Devourment.esp] added to 48/11072 NPCs
+[01:15:08:254] 		DevourmentPerk_Slippery30 [0xBF6~Devourment.esp] added to 34/11072 NPCs
+[01:15:08:254] 		DevourmentPerk_Slippery20 [0xBF5~Devourment.esp] added to 324/11072 NPCs
+[01:15:08:254] 		DevourmentPerk_Slippery10 [0xBF2~Devourment.esp] added to 1330/11072 NPCs
+[01:15:08:254] 		DevourmentPerk_Resilience30 [0xBE7~Devourment.esp] added to 65/11072 NPCs
+[01:15:08:254] 		DevourmentPerk_Resilience20 [0xBE6~Devourment.esp] added to 251/11072 NPCs
+[01:15:08:254] 		DevourmentPerk_Resilience10 [0xBE5~Devourment.esp] added to 908/11072 NPCs
+[01:15:08:254] 		DevourmentPerk_Struggling80 [0xBE4~Devourment.esp] added to 82/11072 NPCs
+[01:15:08:254] 		DevourmentPerk_Struggling40 [0xBE0~Devourment.esp] added to 421/11072 NPCs
+[01:15:08:254] 		DevourmentPerk_Struggling20 [0xBDE~Devourment.esp] added to 483/11072 NPCs
+[01:15:08:254] 		DevourmentPerk_Struggling00 [0xBDC~Devourment.esp] added to 961/11072 NPCs
+[01:15:08:254] 		DevourmentPerk_StrongBack [0xB7C~Devourment.esp] added to 430/11072 NPCs
+[01:15:08:254] 		DevourmentPerk_Acid90 [0xB77~Devourment.esp] added to 114/11072 NPCs
+[01:15:08:254] 		DevourmentPerk_Acid60 [0xB76~Devourment.esp] added to 305/11072 NPCs
+[01:15:08:254] 		DevourmentPerk_Acid30 [0xB75~Devourment.esp] added to 1603/11072 NPCs
+[01:15:08:255] 		DevourmentPerk_IronStomach75 [0xB74~Devourment.esp] added to 82/11072 NPCs
+[01:15:08:255] 		DevourmentPerk_IronStomach50 [0xB73~Devourment.esp] added to 391/11072 NPCs
+[01:15:08:255] 		DevourmentPerk_IronStomach25 [0xB72~Devourment.esp] added to 908/11072 NPCs
+[01:15:08:255] 		DevourmentPerk_Voracious60 [0xB70~Devourment.esp] added to 16/11072 NPCs
+[01:15:08:255] 		DevourmentPerk_Voracious40 [0xB6F~Devourment.esp] added to 861/11072 NPCs
+[01:15:08:255] 		HRI_PerkTree_4_Perk_TotemOfTerror_2 [0x5BADE~Growl - Werebeasts of Skyrim.esp] added to 0/11072 NPCs
+[01:15:08:255] 		HRI_PerkTree_2_Perk_Roadkill [0x5BACF~Growl - Werebeasts of Skyrim.esp] added to 35/11072 NPCs
+[01:15:08:255] 		HRI_PerkTree_3_Perk_Swipe [0x5BACE~Growl - Werebeasts of Skyrim.esp] added to 35/11072 NPCs
+[01:15:08:255] 		HRI_PerkTree_2_Perk_ImprovedBloodthirst_2 [0x5BACD~Growl - Werebeasts of Skyrim.esp] added to 0/11072 NPCs
+[01:15:08:255] 		HRI_PerkTree_2_Perk_InfiniteDuress [0x5BACC~Growl - Werebeasts of Skyrim.esp] added to 35/11072 NPCs
+[01:15:08:255] 		HRI_PerkTree_3_Perk_Rampage [0x4769E~Growl - Werebeasts of Skyrim.esp] added to 35/11072 NPCs
+[01:15:08:255] 		HRI_PerkTree_2_Perk_ImprovedBloodthirst_1 [0x3D489~Growl - Werebeasts of Skyrim.esp] added to 35/11072 NPCs
+[01:15:08:255] 		HRI_Werewolf_Perk_NoFallDamage [0x3D487~Growl - Werebeasts of Skyrim.esp] added to 35/11072 NPCs
+[01:15:08:255] 		HRI_PerkTree_1_Perk_FeralInstincts [0x2E16D~Growl - Werebeasts of Skyrim.esp] added to 35/11072 NPCs
+[01:15:08:255] 		HRI_PerkTree_1_Perk_LycanthropicSpeed [0x19D2F~Growl - Werebeasts of Skyrim.esp] added to 35/11072 NPCs
+[01:15:08:255] 		HRI_PerkTree_2_Perk_SupernaturalStrength [0x60BE7~Growl - Werebeasts of Skyrim.esp] added to 35/11072 NPCs
+[01:15:08:255] 		SCS_PerkTree_240_Perk_VampireLord_LionAmongSheep [0x4FD01~Sacrosanct - Vampires of Skyrim.esp] added to 203/11072 NPCs
+[01:15:08:255] 		SCS_PerkTree_410_Perk_VampireLord_Mortal_Exsanguinate [0xBF4A6~Sacrosanct - Vampires of Skyrim.esp] added to 203/11072 NPCs
+[01:15:08:255] 		SCS_PerkTree_350_Perk_VampireLord_LeftHandPath [0x70090~Sacrosanct - Vampires of Skyrim.esp] added to 203/11072 NPCs
+[01:15:08:255] 		SCS_PerkTree_310_Perk_VampireLord_Mortal_LamaesPyre [0x5EB05~Sacrosanct - Vampires of Skyrim.esp] added to 203/11072 NPCs
+[01:15:08:255] 		SCS_PerkTree_340_Perk_VampireLord_Celerity [0x8B4A5~Sacrosanct - Vampires of Skyrim.esp] added to 203/11072 NPCs
+[01:15:08:255] 		SCS_PerkTree_390_Perk_VampireLord_Mortal_MakeThemBeautiful [0x524A2~Sacrosanct - Vampires of Skyrim.esp] added to 203/11072 NPCs
+[01:15:08:255] 		SCS_PerkTree_260_Perk_VampireLord_Slasher [0x524A5~Sacrosanct - Vampires of Skyrim.esp] added to 203/11072 NPCs
+[01:15:08:255] 	Items
+[01:15:08:255] 		ForswornAxe [0xCC829~Skyrim.esm] added to 9/11072 NPCs
+[01:15:08:255] 	Shouts
+[01:15:08:255] 		MQ206AlduinFirestormShout [0x101CEC~Skyrim.esm] added to 0/11072 NPCs
+[01:15:08:255] 		BecomeEtherealShout [0x32920~Skyrim.esm] added to 0/11072 NPCs
+[01:15:08:255] 		ElementalFuryShout [0x32921~Skyrim.esm] added to 0/11072 NPCs
+[01:15:08:255] 		FireBreathShout [0x3F9EA~Skyrim.esm] added to 0/11072 NPCs
+[01:15:08:255] 		CallDragonShout [0x46B8C~Skyrim.esm] added to 0/11072 NPCs
+[01:15:08:255] 		SlowTimeShout [0x48AC9~Skyrim.esm] added to 0/11072 NPCs
+[01:15:08:255] 		CallofValorShout [0x5196A~Skyrim.esm] added to 0/11072 NPCs
+[01:15:08:255] 		DragonFireBallShout01 [0x4DBA5~Skyrim.esm] added to 0/11072 NPCs
+[01:15:08:255] 		FrostBreathShout [0x5D16B~Skyrim.esm] added to 0/11072 NPCs
+[01:15:08:255] 		animalAllegianceShout [0x5FC77~Skyrim.esm] added to 0/11072 NPCs
+[01:15:08:255] 		MarkedforDeathShout [0x7097C~Skyrim.esm] added to 0/11072 NPCs
+[01:15:08:255] 		StormCallShout [0x7097D~Skyrim.esm] added to 0/11072 NPCs
+[01:15:08:255] 		IceFormShout [0x70980~Skyrim.esm] added to 0/11072 NPCs
+[01:15:08:255] 		DragonUnrelentingForceShout [0x16CF0~Skyrim.esm] added to 0/11072 NPCs
+[01:15:08:255] 		AlduinFirestormShout [0x4C40B~Skyrim.esm] added to 0/11072 NPCs
+[01:15:08:255] 		DragonFrostIceStormShout03 [0xF8101~Skyrim.esm] added to 0/11072 NPCs
+[01:15:08:255] **********************EVENTS**********************
+[01:15:08:255] 	Registered class PCLevelMult::Manager
+[01:15:08:255] **********************SAVES***********************
