@@ -1,0 +1,498 @@
+[info] Reading translation from Data\Interface\Translations\AddItemMenuSE_ENGLISH.txt
+[info] [0] Skyrim.esm. Picked 7,129 forms.
+[info] [1] Update.esm. Picked 6 forms.
+[info] [2] Dawnguard.esm. Picked 359 forms.
+[info] [3] HearthFires.esm. Picked 561 forms.
+[info] [4] Dragonborn.esm. Picked 1,628 forms.
+[info] [5] ccasvsse001-almsivi.esm. Picked 66 forms.
+[info] [6] ccBGSSSE001-Fish.esm. Picked 197 forms.
+[info] [FE000] ccbgssse002-exoticarrows.esl. Picked 15 forms.
+[info] [FE001] ccbgssse003-zombies.esl. Picked 15 forms.
+[info] [FE002] ccbgssse004-ruinsedge.esl. Picked 1 forms.
+[info] [FE003] ccbgssse005-goldbrand.esl. Picked 7 forms.
+[info] [FE004] ccbgssse006-stendarshammer.esl. Picked 1 forms.
+[info] [FE005] ccbgssse007-chrysamere.esl. Picked 1 forms.
+[info] [FE006] ccbgssse010-petdwarvenarmoredmudcrab.esl. Picked 3 forms.
+[info] [FE007] ccbgssse011-hrsarmrelvn.esl. Picked 0 forms.
+[info] [FE008] ccbgssse012-hrsarmrstl.esl. Picked 0 forms.
+[info] [FE009] ccbgssse014-spellpack01.esl. Picked 28 forms.
+[info] [FE00A] ccbgssse019-staffofsheogorath.esl. Picked 7 forms.
+[info] [FE00B] ccbgssse020-graycowl.esl. Picked 16 forms.
+[info] [FE00C] ccbgssse021-lordsmail.esl. Picked 10 forms.
+[info] [FE00D] ccmtysse001-knightsofthenine.esl. Picked 13 forms.
+[info] [FE00E] ccQDRSSE001-SurvivalMode.esl. Picked 12 forms.
+[info] [7] cctwbsse001-puzzledungeon.esm. Picked 55 forms.
+[info] [8] cceejsse001-hstead.esm. Picked 9 forms.
+[info] [FE00F] ccqdrsse002-firewood.esl. Picked 1 forms.
+[info] [FE010] ccbgssse018-shadowrend.esl. Picked 2 forms.
+[info] [FE011] ccbgssse035-petnhound.esl. Picked 5 forms.
+[info] [FE012] ccfsvsse001-backpacks.esl. Picked 16 forms.
+[info] [FE013] cceejsse002-tower.esl. Picked 21 forms.
+[info] [FE014] ccedhsse001-norjewel.esl. Picked 23 forms.
+[info] [FE015] ccvsvsse002-pets.esl. Picked 13 forms.
+[info] [FE016] ccBGSSSE037-Curios.esl. Picked 61 forms.
+[info] [FE017] ccbgssse034-mntuni.esl. Picked 3 forms.
+[info] [FE018] ccbgssse045-hasedoki.esl. Picked 7 forms.
+[info] [FE019] ccbgssse008-wraithguard.esl. Picked 9 forms.
+[info] [FE01A] ccbgssse036-petbwolf.esl. Picked 4 forms.
+[info] [FE01B] ccffbsse001-imperialdragon.esl. Picked 29 forms.
+[info] [FE01C] ccmtysse002-ve.esl. Picked 29 forms.
+[info] [FE01D] ccbgssse043-crosselv.esl. Picked 6 forms.
+[info] [FE01E] ccvsvsse001-winter.esl. Picked 5 forms.
+[info] [FE01F] cceejsse003-hollow.esl. Picked 23 forms.
+[info] [9] ccbgssse016-umbra.esm. Picked 5 forms.
+[info] [A] ccbgssse031-advcyrus.esm. Picked 25 forms.
+[info] [FE020] ccbgssse038-bowofshadows.esl. Picked 7 forms.
+[info] [FE021] ccbgssse040-advobgobs.esl. Picked 12 forms.
+[info] [FE022] ccbgssse050-ba_daedric.esl. Picked 9 forms.
+[info] [FE023] ccbgssse052-ba_iron.esl. Picked 11 forms.
+[info] [FE024] ccbgssse054-ba_orcish.esl. Picked 11 forms.
+[info] [FE025] ccbgssse058-ba_steel.esl. Picked 12 forms.
+[info] [FE026] ccbgssse059-ba_dragonplate.esl. Picked 17 forms.
+[info] [FE027] ccbgssse061-ba_dwarven.esl. Picked 5 forms.
+[info] [FE028] ccpewsse002-armsofchaos.esl. Picked 19 forms.
+[info] [FE029] ccbgssse041-netchleather.esl. Picked 30 forms.
+[info] [FE02A] ccedhsse002-splkntset.esl. Picked 27 forms.
+[info] [FE02B] ccbgssse064-ba_elven.esl. Picked 9 forms.
+[info] [FE02C] ccbgssse063-ba_ebony.esl. Picked 17 forms.
+[info] [FE02D] ccbgssse062-ba_dwarvenmail.esl. Picked 6 forms.
+[info] [FE02E] ccbgssse060-ba_dragonscale.esl. Picked 7 forms.
+[info] [FE02F] ccbgssse056-ba_silver.esl. Picked 8 forms.
+[info] [FE030] ccbgssse055-ba_orcishscaled.esl. Picked 8 forms.
+[info] [FE031] ccbgssse053-ba_leather.esl. Picked 12 forms.
+[info] [FE032] ccbgssse051-ba_daedricmail.esl. Picked 8 forms.
+[info] [FE033] ccbgssse057-ba_stalhrim.esl. Picked 5 forms.
+[info] [FE034] ccbgssse066-staves.esl. Picked 400 forms.
+[info] [B] ccbgssse067-daedinv.esm. Picked 31 forms.
+[info] [FE035] ccbgssse068-bloodfall.esl. Picked 4 forms.
+[info] [FE036] ccbgssse069-contest.esl. Picked 5 forms.
+[info] [FE037] ccvsvsse003-necroarts.esl. Picked 41 forms.
+[info] [FE038] ccvsvsse004-beafarmer.esl. Picked 15 forms.
+[info] [C] ccBGSSSE025-AdvDSGS.esm. Picked 139 forms.
+[info] [FE039] ccffbsse002-crossbowpack.esl. Picked 16 forms.
+[info] [FE03A] ccbgssse013-dawnfang.esl. Picked 17 forms.
+[info] [FE03B] ccrmssse001-necrohouse.esl. Picked 21 forms.
+[info] [FE03C] ccedhsse003-redguard.esl. Picked 26 forms.
+[info] [FE03D] cceejsse004-hall.esl. Picked 19 forms.
+[info] [D] cceejsse005-cave.esm. Picked 33 forms.
+[info] [FE03E] cckrtsse001_altar.esl. Picked 42 forms.
+[info] [FE03F] cccbhsse001-gaunt.esl. Picked 30 forms.
+[info] [E] ccafdsse001-dwesanctuary.esm. Picked 5 forms.
+[info] [F] Unofficial Skyrim Special Edition Patch.esp. Picked 7 forms.
+[info] [10] Lanterns Of Skyrim - All In One - Main.esm. Picked 0 forms.
+[info] [11] MajesticMountains_Landscape.esm. Picked 0 forms.
+[info] [12] LegacyoftheDragonborn.esm. Picked 1,732 forms.
+[info] [13] RealisticWaterTwo - Resources.esm. Picked 1 forms.
+[info] [FE040] MajesticMountains_Moss.esp. Picked 0 forms.
+[info] [14] Penitus_Oculatus.esp. Picked 6 forms.
+[info] [15] Better Dynamic Snow SE - DisableRefs.esm. Picked 0 forms.
+[info] [16] FlowerGirls SE.esm. Picked 3 forms.
+[info] [FE041] FlowerGirls SE Threesome Fix.esl. Picked 0 forms.
+[info] [FE042] Expressive Facegen Morphs.esl. Picked 0 forms.
+[info] [17] FISS.esp. Picked 0 forms.
+[info] [FE043] HSResources.esl. Picked 0 forms.
+[info] [18] OSA.esm. Picked 0 forms.
+[info] [FE044] RASS - Visual Effects.esl. Picked 1 forms.
+[info] [FE045] Devourment.esp. Picked 19 forms.
+[info] [19] RaceCompatibility.esm. Picked 0 forms.
+[info] [1A] playable sun elves.esm. Picked 0 forms.
+[info] [1B] Schlongs of Skyrim - Core.esm. Picked 0 forms.
+[info] [FE046] TrueHUD.esl. Picked 0 forms.
+[info] [1C] Wyrmstooth.esp. Picked 185 forms.
+[info] [FE047] iWant Widgets.esl. Picked 0 forms.
+[info] [FE048] AHZmoreHUD.esl. Picked 0 forms.
+[info] [FE049] AHZmoreHUDInventory.esl. Picked 0 forms.
+[info] [1D] SkyUI_SE.esp. Picked 0 forms.
+[info] [1E] TrueStormsSE.esp. Picked 0 forms.
+[info] [1F] Obsidian Weathers.esp. Picked 0 forms.
+[info] [20] SMIM-SE-Merged-All.esp. Picked 0 forms.
+[info] [21] Better Dynamic Snow SE.esp. Picked 0 forms.
+[info] [22] Immersive Wenches.esp. Picked 81 forms.
+[info] [23] Mortal Enemies - No RunWalk Changes.esp. Picked 0 forms.
+[info] [24] olorosodahviing.esp. Picked 0 forms.
+[info] [25] IcePenguinWorldMap.esp. Picked 0 forms.
+[info] [26] Artful Dodger - Dynamic Pickpocket Cap.esp. Picked 0 forms.
+[info] [27] AcquisitiveSoulGemMultithreaded.esp. Picked 1 forms.
+[info] [28] UIExtensions.esp. Picked 0 forms.
+[info] [2A] AllThievesGuildJobsConcurrently.esp. Picked 0 forms.
+[info] [2B] EnhancedLightsandFX.esp. Picked 0 forms.
+[info] [2C] Landscape Fixes For Grass Mods.esp. Picked 0 forms.
+[info] [2D] JKs Skyrim.esp. Picked 23 forms.
+[info] [FE04A] HSWhiterun - Jorrvaskr.esp. Picked 0 forms.
+[info] [2E] Summermyst - Enchantments of Skyrim.esp. Picked 11,371 forms.
+[info] [2F] Cutting Room Floor.esp. Picked 16 forms.
+[info] [FE04B] JK's Understone Keep.esp. Picked 0 forms.
+[info] [30] BardsRebornStudentofSong.esp. Picked 139 forms.
+[info] [FE04C] HSSolitude - Temple of the Divines.esp. Picked 1 forms.
+[info] [31] Civil War Aftermath.esp. Picked 25 forms.
+[info] [32] BlackthornManor.esp. Picked 517 forms.
+[info] [FE04D] HSMarkarth - Silver-Blood Inn.esp. Picked 0 forms.
+[info] [33] JK's Blue Palace.esp. Picked 3 forms.
+[info] [FE04E] JK's High Hrothgar.esp. Picked 0 forms.
+[info] [FE04F] JK's Sky Haven Temple.esp. Picked 1 forms.
+[info] [34] Immersive Encounters.esp. Picked 47 forms.
+[info] [35] SeranaDialogAddon.esp. Picked 1 forms.
+[info] [FE050] Ryn's Standing Stones.esp. Picked 3 forms.
+[info] [36] ReformationDialogue.esp. Picked 1 forms.
+[info] [FE051] ReformationDialogueStranger.esp. Picked 0 forms.
+[info] [37] Draugr Upgrades and Improvements.esp. Picked 141 forms.
+[info] [38] DBM_RelicNotifications.esp. Picked 20 forms.
+[info] [39] T'Skyrim Riverwood with Leaf Rest.esp. Picked 17 forms.
+[info] [3A] OwnCivilWar.esp. Picked 14 forms.
+[info] [FE052] Afterlife.esp. Picked 0 forms.
+[info] [3B] CWB.esp. Picked 1 forms.
+[info] [3C] LC_BuildYourNobleHouse.esp. Picked 39 forms.
+[info] [3D] OpulentThievesGuild.esp. Picked 0 forms.
+[info] [FE053] JK's Arnleif and Sons Trading Company.esp. Picked 1 forms.
+[info] [3E] Odin - Skyrim Magic Overhaul.esp. Picked 237 forms.
+[info] [FE054] JK's Mistveil Keep.esp. Picked 0 forms.
+[info] [FE055] JK's Haelga's Bunkhouse.esp. Picked 2 forms.
+[info] [FE056] JK's Temple of Mara.esp. Picked 0 forms.
+[info] [FE057] JK's Palace of the Kings.esp. Picked 6 forms.
+[info] [FE058] JK's Temple of Dibella.esp. Picked 0 forms.
+[info] [FE059] JK's The Hag's Cure.esp. Picked 3 forms.
+[info] [FE05A] HSWhiterun - Arcadia's Cauldron.esp. Picked 0 forms.
+[info] [FE05B] HSDragonBridge - Four Shields Tavern.esp. Picked 0 forms.
+[info] [FE05C] Sex Scene Framework.esp. Picked 0 forms.
+[info] [FE05D] HSRiverwood - Hod and Gerdur's House.esp. Picked 0 forms.
+[info] [FE05E] JK's Dragonsreach.esp. Picked 0 forms.
+[info] [FE05F] JK's Elgrims Elixirs.esp. Picked 0 forms.
+[info] [3F] ReformationAI.esp. Picked 7 forms.
+[info] [40] Immersive Music.esp. Picked 0 forms.
+[info] [41] Lore Weapon Expansion.esp. Picked 391 forms.
+[info] [42] SSETweaks.esp. Picked 7 forms.
+[info] [43] ScopedBows.esp. Picked 22 forms.
+[info] [44] Bijin AIO.esp. Picked 10 forms.
+[info] [45] Bijin AIO - YBMT.esp. Picked 0 forms.
+[info] [FE060] FGAnimationSelector.esp. Picked 0 forms.
+[info] [FE061] JK's Bee and Barb.esp. Picked 0 forms.
+[info] [46] Clockwork.esp. Picked 43 forms.
+[info] [FE062] JK's New Gnisis Cornerclub.esp. Picked 2 forms.
+[info] [FE063] JK's The Pawned Prawn.esp. Picked 0 forms.
+[info] [47] SkyrimsUniqueTreasures.esp. Picked 169 forms.
+[info] [48] Wintersun - Faiths of Skyrim.esp. Picked 43 forms.
+[info] [49] TheScarlett.esp. Picked 210 forms.
+[info] [FE064] JK's Riverwood Trader.esp. Picked 0 forms.
+[info] [FE065] HSWhiterun - The Drunken Huntsman.esp. Picked 0 forms.
+[info] [FE066] JK's Radiant Raiment.esp. Picked 1 forms.
+[info] [FE067] JK's The Bannered Mare.esp. Picked 2 forms.
+[info] [FE068] JK's White Phial.esp. Picked 5 forms.
+[info] [4A] Bandit Economy.esp. Picked 0 forms.
+[info] [FE069] JKs Blue Palace - ELFX Patch.esp. Picked 0 forms.
+[info] [FE06A] Flower Girls NPC Relationships.esp. Picked 4 forms.
+[info] [FE06B] JK's Sleeping Giant Inn.esp. Picked 0 forms.
+[info] [FE06C] JK's Angelines Aromatics.esp. Picked 0 forms.
+[info] [FE06D] JK's Temple of Talos.esp. Picked 1 forms.
+[info] [FE06E] JK's Candlehearth Hall.esp. Picked 0 forms.
+[info] [FE06F] JK's Bits and Pieces.esp. Picked 0 forms.
+[info] [FE070] JKs Skyrim Leafrest Patch.esp. Picked 0 forms.
+[info] [FE071] TKAA.esp. Picked 11 forms.
+[info] [FE072] Landscape For Grass Mods JK'S Skyrim.esp. Picked 0 forms.
+[info] [4B] SexLab-AmorousAdventures.esp. Picked 43 forms.
+[info] [FE073] JK's Sadris Used Wares.esp. Picked 0 forms.
+[info] [FE074] JK's Temple of Kynareth.esp. Picked 0 forms.
+[info] [FE075] JKs Temple of Talos - ELFX Patch.esp. Picked 0 forms.
+[info] [4C] Missives.esp. Picked 27 forms.
+[info] [4D] Missives - JK Skyrim.esp. Picked 0 forms.
+[info] [4E] Scarlett - JK's Skyrim Patch.esp. Picked 0 forms.
+[info] [4F] DealingwithBackstories.esp. Picked 443 forms.
+[info] [50] SkyrimIsWindy.esp. Picked 0 forms.
+[info] [51] Skyrim Flora Overhaul.esp. Picked 0 forms.
+[info] [FE076] MajesticMountains.esp. Picked 0 forms.
+[info] [52] TradeRoutes.esp. Picked 15 forms.
+[info] [53] quest_pitfighter.esp. Picked 29 forms.
+[info] [FE077] JKs Skyrim - Fishing patch.esp. Picked 0 forms.
+[info] [FE078] DBM_JKSkyrim_Patch.esp. Picked 0 forms.
+[info] [FE079] CWRepairs.esp. Picked 2 forms.
+[info] [FE07A] JKs Skyrim_Clockwork_Patch.esp. Picked 0 forms.
+[info] [54] Triumvirate - Mage Archetypes.esp. Picked 107 forms.
+[info] [55] Immersive Patrols II.esp. Picked 0 forms.
+[info] [FE07B] JKs Blue Palace - USSEP Patch.esp. Picked 0 forms.
+[info] [FE07C] DBM_CRF_Patch.esp. Picked 0 forms.
+[info] [FE07D] DBMCollectors.esp. Picked 1 forms.
+[info] [56] Schlongs of Skyrim.esp. Picked 6 forms.
+[info] [57] ForgottenCity.esp. Picked 109 forms.
+[info] [58] pse hirelings.esp. Picked 0 forms.
+[info] [59] SOS - Shop.esp. Picked 1 forms.
+[info] [FE07E] Jaffa's Fellburg & Civil War Battlefields Patch.esp. Picked 0 forms.
+[info] [FE07F] CWB_USSEP Patch.esp. Picked 0 forms.
+[info] [FE080] JK's Belethor's General Goods.esp. Picked 1 forms.
+[info] [FE081] JKs Belethors General Goods - ELFX Patch.esp. Picked 0 forms.
+[info] [FE082] JKs Haelgas Bunkhouse - ELFX Patch.esp. Picked 0 forms.
+[info] [5A] Sabretooth.esp. Picked 0 forms.
+[info] [5B] woodcutter friendly markath.esp. Picked 0 forms.
+[info] [FE083] Sex Scene Framework - Flower Girls.esp. Picked 0 forms.
+[info] [FE084] Leaf Rest - Fishing patch.esp. Picked 0 forms.
+[info] [FE085] JKs Skyrim_RWT_Patch.esp. Picked 0 forms.
+[info] [FE086] Khajiit Caravan Mules.esp. Picked 5 forms.
+[info] [FE087] DBM_Wyrmstooth_Patch.esp. Picked 3 forms.
+[info] [FE088] DBM_JKBluePalace_Patch.esp. Picked 0 forms.
+[info] [FE089] JKs Blue Palace - JKs Skyrim - LOTD Patch.esp. Picked 0 forms.
+[info] [5C] PrvtIRoyalArmory.esp. Picked 54 forms.
+[info] [FE08A] DBM_RoyalArmory_Patch.esp. Picked 0 forms.
+[info] [FE08B] DBM_SUT_Patch.esp. Picked 23 forms.
+[info] [FE08C] DBM_Clockwork_Patch.esp. Picked 3 forms.
+[info] [FE08D] DBM_Missives_Patch.esp. Picked 0 forms.
+[info] [5D] LevelersTower.esp. Picked 147 forms.
+[info] [FE08E] IntuitiveDragonRideControl.esp. Picked 0 forms.
+[info] [FE08F] IA-IW patch.esp. Picked 0 forms.
+[info] [FE090] Shadow of Skyrim.esp. Picked 0 forms.
+[info] [FE091] JKs Elgrims Elixirs - Bee and Barb Patch.esp. Picked 0 forms.
+[info] [5E] Apocalypse - Magic of Skyrim.esp. Picked 507 forms.
+[info] [5F] Growl - Werebeasts of Skyrim.esp. Picked 7 forms.
+[info] [60] Ars Metallica.esp. Picked 6 forms.
+[info] [FE092] Tiwa44_Minidresses.esp. Picked 0 forms.
+[info] [FE093] BA_BardSongs_AIO.esp. Picked 0 forms.
+[info] [FE094] Bandit Lines Expansion.esp. Picked 0 forms.
+[info] [FE095] BetterThirdPersonSelection.esp. Picked 0 forms.
+[info] [FE096] Better Dynamic Snow SE - No Glacier Snow.esp. Picked 0 forms.
+[info] [FE097] Blackthorn - Clay and Stone Deposits.esp. Picked 0 forms.
+[info] [61] BlendedRoads.esp. Picked 0 forms.
+[info] [FE098] BuildWithGold.esp. Picked 0 forms.
+[info] [FE099] JKs Sleeping Giant Inn - ELFX Patch.esp. Picked 0 forms.
+[info] [62] Guard Dialogue Overhaul.esp. Picked 0 forms.
+[info] [63] Canliberk Follower.esp. Picked 0 forms.
+[info] [64] Cloaks&Capes SMP.esp. Picked 25 forms.
+[info] [65] CompanionsTweaks.esp. Picked 0 forms.
+[info] [66] Devourment Approach Refactor.esp. Picked 0 forms.
+[info] [FE09A] Disable Turn Animation.esp. Picked 0 forms.
+[info] [67] shockselsweyrimports.esp. Picked 24 forms.
+[info] [68] Conduit.esp. Picked 1 forms.
+[info] [FE09B] DynamicWait.esp. Picked 0 forms.
+[info] [FE09C] ExcitableSubsOStim.esp. Picked 0 forms.
+[info] [FE09D] zzzUnderwear.esp. Picked 4 forms.
+[info] [69] Extended Encounters.esp. Picked 4 forms.
+[info] [6A] FNIS.esp. Picked 0 forms.
+[info] [6B] FlowerGirls SE - IW Patch.esp. Picked 0 forms.
+[info] [6C] Footprints.esp. Picked 0 forms.
+[info] [FE09E] FootprintsSand-patch.esp. Picked 0 forms.
+[info] [FE09F] GDOS - Glorious Solitude Door - Rotation Fix.esp. Picked 0 forms.
+[info] [FE0A0] GDOS - Splendid Mechanized Dwemer Door.esp. Picked 0 forms.
+[info] [FE0A1] Growl-MortalEnemies Patch.esp. Picked 0 forms.
+[info] [6D] HearthfireMultiKid.esp. Picked 0 forms.
+[info] [6E] HearthFires Display Case Fix SE.esp. Picked 0 forms.
+[info] [6F] HearthfireMultiKid_LastName.esp. Picked 0 forms.
+[info] [70] halfdragonrace.esp. Picked 1 forms.
+[info] [FE0A2] SkyRem - Eve.esp. Picked 0 forms.
+[info] [FE0A3] Headhunter - Bounties Redone.esp. Picked 7 forms.
+[info] [FE0A4] BountiesRedone_MissivesExtension.esp. Picked 0 forms.
+[info] [FE0A5] HPP - Vaermina's Torpor.esp. Picked 0 forms.
+[info] [71] HonedMetal.esp. Picked 12 forms.
+[info] [72] LokiHorses.esp. Picked 0 forms.
+[info] [73] Brows.esp. Picked 0 forms.
+[info] [74] PAN_NPCs.esp. Picked 0 forms.
+[info] [FE0A6] IA Collection Patch - Bards College.esp. Picked 0 forms.
+[info] [FE0A7] GLZ-InformedMailDelivery.esp. Picked 0 forms.
+[info] [75] KS Hairdo's.esp. Picked 0 forms.
+[info] [76] Immersive Wenches -KS hairs- Patch.esp. Picked 0 forms.
+[info] [FE0A8] Immersive Wenches OStim.esp. Picked 0 forms.
+[info] [FE0A9] JKs Mistveil Keep - ELFX Patch.esp. Picked 0 forms.
+[info] [FE0AA] JK Mistveil Keep sexframeworks Patch.esp. Picked 0 forms.
+[info] [FE0AB] JK's Warmaiden's.esp. Picked 1 forms.
+[info] [77] Jaffa's Baklava Mod.esp. Picked 3 forms.
+[info] [FE0AC] KSHairdosSMP.esp. Picked 0 forms.
+[info] [FE0AD] KSWigsSMP.esp. Picked 100 forms.
+[info] [78] KatanaCrafting.esp. Picked 40 forms.
+[info] [FE0AE] LC_BuildYourNobleHouseV1_4 - Build with Gold Patch.esp. Picked 0 forms.
+[info] [79] KhajiitsStealToo.esp. Picked 0 forms.
+[info] [7A] zzLSAR.esp. Picked 25 forms.
+[info] [FE0AF] JKs Angelines Aromatics - ELFX patch.esp. Picked 0 forms.
+[info] [FE0B0] JKs Angelines Aromatics - USSEP Patch.esp. Picked 0 forms.
+[info] [FE0B1] JKs Arnleif and Sons - ELFX Patch.esp. Picked 0 forms.
+[info] [FE0B2] JKs Arnleif and Sons - LOTD Patch.esp. Picked 0 forms.
+[info] [FE0B3] JKs Arnleif and Sons - SUT Patch.esp. Picked 0 forms.
+[info] [FE0B4] JKs Bannered Mare - ELFX patch.esp. Picked 0 forms.
+[info] [FE0B5] JKs Bee and Barb - ELFX Patch.esp. Picked 0 forms.
+[info] [FE0B6] JKs Bee and Barb - Immersive Wenches Patch.esp. Picked 0 forms.
+[info] [FE0B7] JKs Bits and Pieces - ELFX Patch.esp. Picked 0 forms.
+[info] [FE0B8] JKs Bits and Pieces - LOTD Patch.esp. Picked 0 forms.
+[info] [FE0B9] JKs Bits and Pieces - USSEP Patch.esp. Picked 0 forms.
+[info] [FE0BA] JKs Blue Palace - Royal Armory Patch.esp. Picked 0 forms.
+[info] [FE0BB] JKs Blue Palace - DBMCollectors Patch.esp. Picked 0 forms.
+[info] [FE0BC] JKs Blue Palace - SUT Patch.esp. Picked 0 forms.
+[info] [FE0BD] JKs Candlehearth Hall - ELFX Patch.esp. Picked 0 forms.
+[info] [7B] VisualAnimatedEnchants.esp. Picked 14 forms.
+[info] [FE0BE] JKs Dragonsreach - ELFX Patch.esp. Picked 0 forms.
+[info] [FE0BF] JKs Elgrims Elixirs - ELFX Patch.esp. Picked 0 forms.
+[info] [FE0C0] JKs Elgrims Elixirs - CRF Patch.esp. Picked 0 forms.
+[info] [FE0C1] JKs Haelgas Bunkhouse - SDA Patch.esp. Picked 0 forms.
+[info] [FE0C2] JKs Hags Cure - ELFX Patch.esp. Picked 0 forms.
+[info] [FE0C3] JKs Hags Cure - SUT Patch.esp. Picked 0 forms.
+[info] [FE0C4] JKs Mistveil Keep - Immersive Wenches Patch.esp. Picked 0 forms.
+[info] [FE0C5] JKs New Gnisis Cornerclub - ELFX Patch.esp. Picked 0 forms.
+[info] [FE0C6] JKs Palace of the Kings - ELFX Patch.esp. Picked 0 forms.
+[info] [FE0C7] JKs Palace of the Kings - SUT Patch.esp. Picked 0 forms.
+[info] [FE0C8] JKs Palace of the Kings - USSEP Patch.esp. Picked 0 forms.
+[info] [FE0C9] JKs Pawned Prawn - ELFX Patch.esp. Picked 0 forms.
+[info] [FE0CA] JKs Pawned Prawn - LOTD Patch.esp. Picked 0 forms.
+[info] [FE0CB] JKs Radiant Raiment - ELFX Patch.esp. Picked 0 forms.
+[info] [FE0CC] JKs Radiant Raiment - USSEP Patch.esp. Picked 0 forms.
+[info] [FE0CD] JKs Riverwood Trader - ELFX patch.esp. Picked 0 forms.
+[info] [FE0CE] JKs Sadris Used Wares - ELFX patch.esp. Picked 0 forms.
+[info] [FE0CF] JKs Sadris Used Wares - LOTD Patch.esp. Picked 0 forms.
+[info] [FE0D0] JKs Sadris Used Wares - SUT Patch.esp. Picked 0 forms.
+[info] [FE0D1] JKs Temple of Dibella - ELFX Patch.esp. Picked 0 forms.
+[info] [FE0D2] JKs Temple of Dibella - SUT Patch.esp. Picked 0 forms.
+[info] [FE0D3] JKs Temple of Kynareth - ELFX Patch.esp. Picked 0 forms.
+[info] [FE0D4] JKs Temple of Kynareth - SUT patch.esp. Picked 0 forms.
+[info] [FE0D5] JKs Temple of Mara - ELFX Patch.esp. Picked 0 forms.
+[info] [FE0D6] JKs Understone Keep - ELFX patch.esp. Picked 0 forms.
+[info] [FE0D7] TrustyHPFollowerPack.esp. Picked 24 forms.
+[info] [7C] MBW Dragon Souls to Perk Points.esp. Picked 1 forms.
+[info] [FE0D8] JKs Temple of Mara - SUT Patch.esp. Picked 0 forms.
+[info] [FE0D9] JKs Temple of Talos - USSEP patch.esp. Picked 0 forms.
+[info] [FE0DA] JKs Understone Keep - USSEP patch.esp. Picked 0 forms.
+[info] [FE0DB] JKs Understone Keep - Immersive Wenches Patch.esp. Picked 0 forms.
+[info] [FE0DC] JKs Warmaidens - ELFX patch.esp. Picked 0 forms.
+[info] [FE0DD] JKs White Phial - ELFX Patch.esp. Picked 0 forms.
+[info] [FE0DE] DBM_ArsMetallica_Patch.esp. Picked 0 forms.
+[info] [FE0DF] DBM_ELFX_Patch.esp. Picked 0 forms.
+[info] [FE0E0] DBM_ForgottenCity_Patch.esp. Picked 0 forms.
+[info] [FE0E1] DBM_JKBannered_Patch.esp. Picked 0 forms.
+[info] [FE0E2] DBM_JKBelethor_Patch.esp. Picked 0 forms.
+[info] [FE0E3] JKs Belethors General Goods - SUT Patch.esp. Picked 0 forms.
+[info] [FE0E4] DBM_JKDragonsreach_Patch.esp. Picked 0 forms.
+[info] [FE0E5] JKs Dragonsreach - Immersive Wenches Patch.esp. Picked 0 forms.
+[info] [FE0E6] JKs Dragonsreach - SUT Patch.esp. Picked 0 forms.
+[info] [FE0E7] DBM_JKWarmaidens_Patch.esp. Picked 0 forms.
+[info] [FE0E8] DBM_SMIM_Patch.esp. Picked 0 forms.
+[info] [7D] UnreadBooksGlow.esp. Picked 0 forms.
+[info] [FE0E9] DBM_UnreadBooksGlow_Patch.esp. Picked 0 forms.
+[info] [7E] WadeInWater.esp. Picked 0 forms.
+[info] [FE0EA] McmRecorder.esp. Picked 1 forms.
+[info] [FE0EB] MCMHelper.esp. Picked 0 forms.
+[info] [FE0EC] HT More NPC Pocket Money.esp. Picked 0 forms.
+[info] [FE0ED] Mod Manager Menu Disabled.esp. Picked 0 forms.
+[info] [7F] MorrowindImports.esp. Picked 0 forms.
+[info] [80] Realistic Natural Skin Tones.esp. Picked 0 forms.
+[info] [FE0EE] NoGrassias Ultimate.esp. Picked 0 forms.
+[info] [81] noCamColl_2_SE.esp. Picked 0 forms.
+[info] [FE0EF] OBody.esp. Picked 0 forms.
+[info] [FE0F0] OStim.esp. Picked 0 forms.
+[info] [FE0F1] OSound.esp. Picked 0 forms.
+[info] [FE0F2] OStrap.esp. Picked 3 forms.
+[info] [FE0F3] WD03OTrainers.esp. Picked 0 forms.
+[info] [FE0F4] OVirginity.esp. Picked 0 forms.
+[info] [FE0F5] PCCombatLipsync.esp. Picked 0 forms.
+[info] [82] OCum.esp. Picked 4 forms.
+[info] [83] Origins Of Forest - 3D Forest Grass.esp. Picked 0 forms.
+[info] [FE0F6] Origins Of Forest - 3D Forest Grass Smaller.esp. Picked 0 forms.
+[info] [FE0F7] Paper UI Sounds.esp. Picked 0 forms.
+[info] [84] True Storms - Obsidian Weathers - Patch .esp. Picked 0 forms.
+[info] [FE0F8] PickpocketEveryone.esp. Picked 0 forms.
+[info] [FE0F9] Project Cougar-BergritteBattleBorn.esp. Picked 0 forms.
+[info] [FE0FA] Project Cougars - Fralia.esp. Picked 0 forms.
+[info] [FE0FB] Precision.esp. Picked 0 forms.
+[info] [FE0FC] Project Cougar - Grelod the Kind.esp. Picked 0 forms.
+[info] [FE0FD] Project Cougar - Hafjorg.esp. Picked 0 forms.
+[info] [FE0FE] Project Cougar - IngeSixFingers.esp. Picked 0 forms.
+[info] [85] pse npcs.esp. Picked 0 forms.
+[info] [FE0FF] Project Cougar - LillithMaidenLoom.esp. Picked 0 forms.
+[info] [FE100] Project Cougars - Olava.esp. Picked 0 forms.
+[info] [FE101] Project Cougar - Tilma.esp. Picked 0 forms.
+[info] [FE102] QuickLootEE.esp. Picked 0 forms.
+[info] [FE103] Project Cougar - Hilde.esp. Picked 0 forms.
+[info] [86] RaceMenu.esp. Picked 0 forms.
+[info] [87] RaceMenuPlugin.esp. Picked 0 forms.
+[info] [88] Realistic-Voice.esp. Picked 0 forms.
+[info] [89] RLO - Effects.esp. Picked 0 forms.
+[info] [8A] RLO - Illuminated Spells.esp. Picked 0 forms.
+[info] [FE104] RelationshipRankNotificationsDialogue.esp. Picked 0 forms.
+[info] [8B] NaughtyVoices.esp. Picked 0 forms.
+[info] [8C] Ryder Dog Follower.esp. Picked 0 forms.
+[info] [8D] RaceCompatibilityUSKPOverride.esp. Picked 0 forms.
+[info] [8E] ScopedBows_Bijin Patch.esp. Picked 0 forms.
+[info] [FE105] LOTD_TCC_Clockwork.esp. Picked 0 forms.
+[info] [FE106] LOTD_TCC_Royal.esp. Picked 0 forms.
+[info] [FE107] LOTD_TCC_SUT.esp. Picked 0 forms.
+[info] [FE108] LOTD_TCC_TFC.esp. Picked 0 forms.
+[info] [FE109] LOTD_TCC_Wyrmstooth.esp. Picked 0 forms.
+[info] [8F] SOS - Smurf Average Addon.esp. Picked 2 forms.
+[info] [90] SOS - VectorPlexus Muscular Addon.esp. Picked 2 forms.
+[info] [91] SOS - VectorPlexus Regular Addon.esp. Picked 2 forms.
+[info] [FE10A] Sex Scene Framework - JK's Dragonsreach Patch.esp. Picked 0 forms.
+[info] [92] SimplyKnock.esp. Picked 0 forms.
+[info] [93] Maux Follower.esp. Picked 0 forms.
+[info] [94] SFO_SkinFeatureOverlays.esp. Picked 0 forms.
+[info] [95] SkyrimsGotTalent-Bards.esp. Picked 13 forms.
+[info] [96] SkyrimsGotTalentBardStudentPatch.esp. Picked 220 forms.
+[info] [FE10B] ShocksSolstheimCaravan.esp. Picked 0 forms.
+[info] [97] ScopedBows_ArrowTweaks.esp. Picked 0 forms.
+[info] [98] StavesGiveXp.esp. Picked 0 forms.
+[info] [FE10C] Starting Outfit Suppressed.esp. Picked 0 forms.
+[info] [99] Serana.esp. Picked 0 forms.
+[info] [9A] StrangeRunes.esp. Picked 0 forms.
+[info] [9B] Stretch Nord Follower.esp. Picked 0 forms.
+[info] [FE10D] SDA Wintersun Patch.esp. Picked 0 forms.
+[info] [FE10E] SDA-AA Patch.esp. Picked 0 forms.
+[info] [FE10F] Cutting Room Floor TKAA Patch.esp. Picked 0 forms.
+[info] [9C] ForgottenCity TKAA Patch.esp. Picked 0 forms.
+[info] [FE110] Immersive Encounters TKAA Patch.esp. Picked 0 forms.
+[info] [FE111] LegacyoftheDragonborn TKAA Patch.esp. Picked 0 forms.
+[info] [FE112] Wyrmstooth TKAA Patch.esp. Picked 0 forms.
+[info] [9D] TheEyesOfBeauty.esp. Picked 0 forms.
+[info] [FE113] Thundering Shouts (normal pitch).esp. Picked 0 forms.
+[info] [FE114] TrueDirectionalMovement.esp. Picked 0 forms.
+[info] [FE115] CK_TwoBears_Sacrifice.esp. Picked 0 forms.
+[info] [9E] True Scholar.esp. Picked 0 forms.
+[info] [9F] TKDodge.esp. Picked 0 forms.
+[info] [A0] SGEyebrows.esp. Picked 0 forms.
+[info] [A1] ValhallaCombat.esp. Picked 0 forms.
+[info] [FE116] CK_Violet_Follower.esp. Picked 0 forms.
+[info] [A2] Vanilla hair remake NPCs.esp. Picked 0 forms.
+[info] [FE117] WadeInWaterRedone.esp. Picked 0 forms.
+[info] [FE118] wintersun - custom race support.esp. Picked 0 forms.
+[info] [A3] SOSRaceMenu.esp. Picked 0 forms.
+[info] [A4] XPMSE.esp. Picked 0 forms.
+[info] [A5] Zoro One Piece Follower.esp. Picked 0 forms.
+[info] [A6] DisarmorShout.esp. Picked 1 forms.
+[info] [FE119] BHUNP3BBB.esp. Picked 0 forms.
+[info] [A7] RaceMenuMorphsBHUNP.esp. Picked 0 forms.
+[info] [FE11A] oComfort.esp. Picked 0 forms.
+[info] [A8] VioLens SE.esp. Picked 0 forms.
+[info] [FE11B] TradeRoutes-Patch-ImmersivePatrols.esp. Picked 0 forms.
+[info] [FE11C] TradeRoutes-Patch-LegacyoftheDragonborn.esp. Picked 0 forms.
+[info] [A9] Ordinator - Perks of Skyrim.esp. Picked 44 forms.
+[info] [AA] Apocalypse - Ordinator Compatibility Patch.esp. Picked 0 forms.
+[info] [AB] Odin - Ordinator Compatibility Patch.esp. Picked 0 forms.
+[info] [FE11D] Ordinator- Honed Metal Perks.esp. Picked 0 forms.
+[info] [FE11E] Ordinator - No Timed Block.esp. Picked 0 forms.
+[info] [AC] Sacrosanct - Vampires of Skyrim.esp. Picked 9 forms.
+[info] [AD] Immersive Citizens - AI Overhaul.esp. Picked 1 forms.
+[info] [FE11F] CWR_IC_Patch.esp. Picked 0 forms.
+[info] [AE] Relationship Dialogue Overhaul.esp. Picked 16 forms.
+[info] [AF] Convenient Horses.esp. Picked 88 forms.
+[info] [FE120] JK's The Winking Skeever.esp. Picked 3 forms.
+[info] [FE121] HSRiverwood - Hod and Gerdur's House - IC.esp. Picked 0 forms.
+[info] [FE122] ICAO - CRF Bloated Mans Grotto patch.esp. Picked 0 forms.
+[info] [FE123] Immersive Wenches -Immersive Citizens AI Overhaul Patch-.esp. Picked 0 forms.
+[info] [FE124] JK's Skyrim - IC Dawnstar Patch.esp. Picked 0 forms.
+[info] [B0] Landscape For Grass Mods -Immersive Citizens PATCH.esp. Picked 0 forms.
+[info] [FE125] JKs Candlehearth Hall - Immersive Citizens Patch.esp. Picked 0 forms.
+[info] [FE126] JKs Winking Skeever - ELFX patch.esp. Picked 0 forms.
+[info] [FE127] JKs Winking Skeever - USSEP Patch.esp. Picked 0 forms.
+[info] [FE128] JKs Winking Skeever - Fishing Patch.esp. Picked 0 forms.
+[info] [FE129] JKs Winking Skeever - Immersive Citizens patch.esp. Picked 0 forms.
+[info] [FE12A] JKs Bannered Mare - Immersive Citizens Patch.esp. Picked 0 forms.
+[info] [FE12B] JKs Belethors General Goods - Immersive Citizens Patch.esp. Picked 0 forms.
+[info] [FE12C] JKs Dragonsreach - Immersive Citizens Patch.esp. Picked 0 forms.
+[info] [FE12D] JKs Dragonsreach - Relationship Dialogue Overhaul Patch.esp. Picked 0 forms.
+[info] [FE12E] JKs Temple of Kynareth - Immersive Citizens patch.esp. Picked 0 forms.
+[info] [FE12F] JKs Sleeping Giant Inn - Immersive Citizens Patch.esp. Picked 0 forms.
+[info] [FE130] JKs New Gnisis Cornerclub - Immersive Citizens Patch.esp. Picked 0 forms.
+[info] [FE131] JKs Palace of the Kings - Immersive Citizens Patch.esp. Picked 0 forms.
+[info] [FE132] JKs Riverwood Trader - Immersive Citizens patch.esp. Picked 0 forms.
+[info] [FE133] JKs Temple of Talos - Immersive Citizens patch.esp. Picked 0 forms.
+[info] [FE134] JKs Understone Keep - Immersive Citizens patch.esp. Picked 0 forms.
+[info] [FE135] JKs Warmaidens - Immersive Citizens Patch.esp. Picked 0 forms.
+[info] [FE136] JKs Winking Skeever - SUT patch.esp. Picked 0 forms.
+[info] [B1] RDO - CRF + USSEP Patch.esp. Picked 0 forms.
+[info] [B2] SDA Convenient Horses Patch.esp. Picked 0 forms.
+[info] [FE137] SDA RDO Patch.esp. Picked 0 forms.
+[info] [B3] nwsFollowerFramework.esp. Picked 7 forms.
+[info] [FE138] SDA NFF Patch.esp. Picked 0 forms.
+[info] [B4] RealisticWaterTwo.esp. Picked 0 forms.
+[info] [B5] Realm of Lorkhan - Custom Alternate Start - Choose your own adventure.esp. Picked 25 forms.
+[info] [FE139] Realm of Lorkhan - Dragonstone.esp. Picked 2 forms.
+[info] [B6] Realm of Lorkhan Unbound Fix.esp. Picked 0 forms.
+[info] [B7] LessIntrusiveHUD.esp. Picked 0 forms.

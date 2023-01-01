@@ -1,0 +1,11 @@
+[2023-01-01 01:14:18.704] [global log] [info] [main.cpp:82] moreHUDIE loading
+[2023-01-01 01:14:18.704] [global log] [info] [main.cpp:83] moreHUDIE v2.1.0.0
+[2023-01-01 01:14:18.705] [global log] [info] [main.cpp:98] registered listener
+[2023-01-01 01:14:18.705] [global log] [info] [main.cpp:100] Registering Inventory Extension
+[2023-01-01 01:14:18.705] [global log] [info] [Papyrus.cpp:13] registered papyrus PapyrusMoreHud funcs
+[2023-01-01 01:14:18.705] [global log] [info] [main.cpp:109] Registering Callbacks
+[2023-01-01 01:14:18.705] [global log] [info] [Scaleform.cpp:193] Registered all scaleform callbacks
+[2023-01-01 01:14:18.705] [global log] [info] [main.cpp:112] moreHUDIE loaded
+[2023-01-01 01:15:07.184] [global log] [info] [main.cpp:27] Registering Events
+[2023-01-01 01:15:07.184] [global log] [info] [Events.cpp:69] registered menu event
+[2023-01-01 01:15:07.184] [global log] [info] [Events.cpp:71] Installed all event sinks

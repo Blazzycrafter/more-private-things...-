@@ -1,0 +1,168 @@
+main.cpp(178): [info] ValhallaCombat v1-0-0-0
+Papyrus.cpp(24): [info] Registered papyrus functions
+main.cpp(54): [info] Initializing API fetch...
+main.cpp(17): [info] Obtained TruehudAPI - 7ff9d8d6a878
+main.cpp(29): [info] Obtained PrecisionAPI - 7ff9d95cd8d0
+main.cpp(33): [info] Collision prehit callback successfully registered.
+main.cpp(57): [info] ...done
+Papyrus.cpp(16): [info] Registered ValhallaCombat MCM class
+Hooks.h(240): [info] Installing hooks...
+Hooks.h(20): [info] hook:OnGetAttackStaminaCost
+Hooks.h(53): [info] hook:OnRestoresActorValue
+Hooks.h(69): [info] hook:OnMeleeHit
+Hooks.h(169): [info] hook:OnPlayerUpdate
+Hooks.h(191): [info] hook:OnProjectileCollision
+Hooks.h(212): [info] hook:OnMeleeCollision
+Hooks.h(228): [info] hook:OnAttackAction
+Hooks.h(152): [info] hook:AttackBlockHandler_OnProcessButton
+Hooks.h(251): [info] ...done
+settings.cpp(63): [info] Initilize settings...
+Utils.h(517): [info] Loading from plugin ValhallaCombat.esp...
+Utils.h(522): [info] Loaded 4 forms from ValhallaCombat.esp
+settings.cpp(70): [info] ...done
+settings.cpp(98): [info] Read ini settings...
+Utils.h(551): [info] Warning: Data\MCM\Settings\ValhallaCombat.ini is empty.
+Utils.h(598): [info] Loaded 0 settings from Data\MCM\Settings\ValhallaCombat.ini
+settings.cpp(177): [info] ...done
+settings.cpp(179): [info] Apply game settings...
+ValhallaCombat.hpp(82): [info] Requesting trueHUD API special bar control...
+ValhallaCombat.hpp(94): [info] ...Success
+settings.cpp(73): [info] Update globals...
+settings.cpp(91): [info] ...done
+settings.cpp(194): [info] ...done
+events.h(9): [info] Installing animation event hook...
+data.cpp(7): [info] Loading data from game...
+data.cpp(55): [info] Loading block FX...
+Utils.h(517): [info] Loading from plugin ValhallaCombat.esp...
+Utils.h(522): [info] Loaded 4 forms from ValhallaCombat.esp
+data.cpp(62): [info] ...done
+data.cpp(32): [info] Loading sound descriptors...
+Utils.h(517): [info] Loading from plugin ValhallaCombat.esp...
+Utils.h(522): [info] Loaded 8 forms from ValhallaCombat.esp
+data.cpp(43): [info] ...done
+data.cpp(47): [info] Loading perk...
+Utils.h(517): [info] Loading from plugin ValhallaCombat.esp...
+Utils.h(522): [info] Loaded 1 forms from ValhallaCombat.esp
+data.cpp(51): [info] ...done
+data.cpp(111): [info] Loading idle...
+data.cpp(105): [info] Loaded 4 idles from section Humanoid-Unarmed.
+data.cpp(105): [info] Loaded 15 idles from section Humanoid-Dagger.
+data.cpp(105): [info] Loaded 14 idles from section Humanoid-Sword.
+data.cpp(105): [info] Loaded 10 idles from section Humanoid-Axe.
+data.cpp(105): [info] Loaded 10 idles from section Humanoid-Mace.
+data.cpp(105): [info] Loaded 6 idles from section Humanoid-GreatSword.
+data.cpp(105): [info] Loaded 5 idles from section Humanoid-2HW.
+data.cpp(105): [info] Loaded 5 idles from section Humanoid-DW.
+data.cpp(105): [info] Loaded 1 idles from section Humanoid-1HM-Back.
+data.cpp(105): [info] Loaded 1 idles from section Humanoid-2HM-Back.
+data.cpp(105): [info] Loaded 1 idles from section Humanoid-2HW-Back.
+data.cpp(105): [info] Loaded 1 idles from section Humanoid-Unarmed-Back.
+data.cpp(105): [info] Loaded 4 idles from section Undead-1HM.
+data.cpp(105): [info] Loaded 1 idles from section Undead-2HM.
+data.cpp(105): [info] Loaded 1 idles from section Undead-2HW.
+data.cpp(105): [info] Loaded 3 idles from section Falmer-1HM.
+data.cpp(105): [info] Loaded 2 idles from section Falmer-2HM.
+data.cpp(105): [info] Loaded 1 idles from section Falmer-2HW.
+data.cpp(105): [info] Loaded 2 idles from section Spider-1HM.
+data.cpp(105): [info] Loaded 1 idles from section Spider-2HM.
+data.cpp(105): [info] Loaded 1 idles from section Spider-2HW.
+data.cpp(105): [info] Loaded 2 idles from section Gargoyle-1HM.
+data.cpp(105): [info] Loaded 1 idles from section Gargoyle-2HM.
+data.cpp(105): [info] Loaded 1 idles from section Gargoyle-2HW.
+data.cpp(105): [info] Loaded 3 idles from section Giant-1HM.
+data.cpp(105): [info] Loaded 1 idles from section Giant-2HM.
+data.cpp(105): [info] Loaded 1 idles from section Ginat-2HW.
+data.cpp(105): [info] Loaded 2 idles from section Bear-1HM.
+data.cpp(105): [info] Loaded 2 idles from section Bear-2HM.
+data.cpp(105): [info] Loaded 1 idles from section Bear-2HW.
+data.cpp(105): [info] Loaded 3 idles from section SabreCat-1HM.
+data.cpp(105): [info] Loaded 2 idles from section SabreCat-2HM.
+data.cpp(105): [info] Loaded 1 idles from section SabreCat-2HW.
+data.cpp(105): [info] Loaded 2 idles from section Wolf-1HM.
+data.cpp(105): [info] Loaded 2 idles from section Wolf-2HM.
+data.cpp(105): [info] Loaded 1 idles from section Wolf-2HW.
+data.cpp(105): [info] Loaded 2 idles from section Troll-1HM.
+data.cpp(105): [info] Loaded 2 idles from section Troll-2HM.
+data.cpp(105): [info] Loaded 1 idles from section Troll-2HW.
+data.cpp(105): [info] Loaded 2 idles from section Hagraven-1HM.
+data.cpp(105): [info] Loaded 1 idles from section Hagraven-2HM.
+data.cpp(105): [info] Loaded 1 idles from section Hagraven-2HW.
+data.cpp(105): [info] Loaded 2 idles from section Spriggan-1HM.
+data.cpp(105): [info] Loaded 1 idles from section Spriggan-2HM.
+data.cpp(105): [info] Loaded 1 idles from section Spriggan-2HW.
+data.cpp(105): [info] Loaded 2 idles from section Boar-1HM.
+data.cpp(105): [info] Loaded 1 idles from section Boar-2HM.
+data.cpp(105): [info] Loaded 1 idles from section Boar-2HW.
+data.cpp(105): [info] Loaded 2 idles from section Riekling-1HM.
+data.cpp(105): [info] Loaded 1 idles from section Riekling-2HM.
+data.cpp(105): [info] Loaded 1 idles from section Riekling-2HW.
+data.cpp(105): [info] Loaded 2 idles from section AshHopper-1HM.
+data.cpp(105): [info] Loaded 1 idles from section AshHopper-2HM.
+data.cpp(105): [info] Loaded 1 idles from section AshHopper-2HW.
+data.cpp(105): [info] Loaded 1 idles from section DwarvenBallista-1HM.
+data.cpp(105): [info] Loaded 1 idles from section DwarvenBallista-2HM.
+data.cpp(105): [info] Loaded 1 idles from section DwarvenBallista-2HW.
+data.cpp(105): [info] Loaded 2 idles from section SteamCenturion-1HM.
+data.cpp(105): [info] Loaded 1 idles from section SteamCenturion-2HM.
+data.cpp(105): [info] Loaded 1 idles from section SteamCenturion-2HW.
+data.cpp(105): [info] Loaded 2 idles from section ChaurusFlyer-1HM.
+data.cpp(105): [info] Loaded 1 idles from section ChaurusFlyer-2HM.
+data.cpp(105): [info] Loaded 1 idles from section ChaurusFlyer-2HW.
+data.cpp(105): [info] Loaded 1 idles from section Lurker-1HM.
+data.cpp(105): [info] Loaded 1 idles from section Lurker-2HM.
+data.cpp(105): [info] Loaded 1 idles from section Lurker-2HW.
+data.cpp(105): [info] Loaded 2 idles from section Dragon-1HM.
+data.cpp(105): [info] Loaded 1 idles from section Dragon-2HM.
+data.cpp(105): [info] Loaded 2 idles from section Dragon-2HW.
+data.cpp(207): [info] Idle loaded.
+data.cpp(279): [info] Reading race config from Data/SKSE/Plugins/ValhallaCombat/RaceMapping\Vanilla.ini
+data.cpp(248): [info] Loaded 33 races from section Humanoid.
+data.cpp(248): [info] Loaded 14 races from section Undead.
+data.cpp(248): [info] Loaded 1 races from section Falmer.
+data.cpp(248): [info] Loaded 5 races from section Spider.
+data.cpp(248): [info] Loaded 3 races from section Gargoyle.
+data.cpp(248): [info] Loaded 3 races from section Giant.
+data.cpp(248): [info] Loaded 3 races from section Bear.
+data.cpp(248): [info] Loaded 3 races from section SabreCat.
+data.cpp(248): [info] Loaded 3 races from section Wolf.
+data.cpp(248): [info] Loaded 4 races from section Troll.
+data.cpp(248): [info] Loaded 1 races from section Hagraven.
+data.cpp(248): [info] Loaded 4 races from section Spriggan.
+data.cpp(248): [info] Loaded 2 races from section Boar.
+data.cpp(248): [info] Loaded 2 races from section Riekling.
+data.cpp(248): [info] Loaded 1 races from section AshHopper.
+data.cpp(248): [info] Loaded 2 races from section SteamCenturion.
+data.cpp(248): [info] Loaded 1 races from section DwarvenBallista.
+data.cpp(248): [info] Loaded 1 races from section ChaurusFlyer.
+data.cpp(248): [info] Loaded 1 races from section Lurker.
+data.cpp(248): [info] Loaded 6 races from section Dragon.
+data.cpp(279): [info] Reading race config from Data/SKSE/Plugins/ValhallaCombat/RaceMapping\__folder_managed_by_vortex
+data.cpp(248): [info] Loaded 0 races from section Humanoid.
+data.cpp(248): [info] Loaded 0 races from section Undead.
+data.cpp(248): [info] Loaded 0 races from section Falmer.
+data.cpp(248): [info] Loaded 0 races from section Spider.
+data.cpp(248): [info] Loaded 0 races from section Gargoyle.
+data.cpp(248): [info] Loaded 0 races from section Giant.
+data.cpp(248): [info] Loaded 0 races from section Bear.
+data.cpp(248): [info] Loaded 0 races from section SabreCat.
+data.cpp(248): [info] Loaded 0 races from section Wolf.
+data.cpp(248): [info] Loaded 0 races from section Troll.
+data.cpp(248): [info] Loaded 0 races from section Hagraven.
+data.cpp(248): [info] Loaded 0 races from section Spriggan.
+data.cpp(248): [info] Loaded 0 races from section Boar.
+data.cpp(248): [info] Loaded 0 races from section Riekling.
+data.cpp(248): [info] Loaded 0 races from section AshHopper.
+data.cpp(248): [info] Loaded 0 races from section SteamCenturion.
+data.cpp(248): [info] Loaded 0 races from section DwarvenBallista.
+data.cpp(248): [info] Loaded 0 races from section ChaurusFlyer.
+data.cpp(248): [info] Loaded 0 races from section Lurker.
+data.cpp(248): [info] Loaded 0 races from section Dragon.
+data.cpp(288): [info] Loading difficulty settings...
+data.cpp(304): [info] ...done
+data.cpp(27): [info] Data fetched.
+blockHandler.cpp(657): [info] Initializing Elden Counter compatibility
+blockHandler.cpp(660): [info] EldenCounter.esp not found
+Utils.h(515): [critical] Error: Valgrind.esp not found.
+Utils.h(517): [info] Loading from plugin Valgrind.esp...
+Utils.h(531): [critical] Error: null formID or wrong form type when loading 3435 from Valgrind.esp
+blockHandler.cpp(704): [info] Valgrind.esp not found

@@ -1,0 +1,15 @@
+D:\GitClones\QuickLootEE\src\main.cpp(154): [info] QuickLootEE v1-1-0-0
+D:\GitClones\QuickLootEE\src\HUDManager.h(38): [info] Installed class HUDManager::Handler<195816>
+D:\GitClones\QuickLootEE\src\HUDManager.h(38): [info] Installed class HUDManager::Handler<189485>
+D:\GitClones\QuickLootEE\src\HUDManager.h(38): [info] Installed class HUDManager::Handler<189633>
+D:\GitClones\QuickLootEE\src\HUDManager.h(23): [info] Installed class HUDManager
+D:\GitClones\QuickLootEE\src\Hooks.cpp(12): [info] Installed all hooks
+D:\GitClones\QuickLootEE\src\Animation/Animation.h(93): [info] Installed class Animation::AnimationManager
+D:\GitClones\QuickLootEE\src\Events/Events.h(21): [info] Registered struct SKSE::CrosshairRefEvent
+D:\GitClones\QuickLootEE\src\Events/Events.h(27): [info] Registered struct RE::TESLockChangedEvent
+D:\GitClones\QuickLootEE\src\Events\Events.cpp(137): [info] Registered class Events::LifeStateManager
+D:\GitClones\QuickLootEE\src\Events/Events.h(193): [info] Registered class Events::LockedContainerManager
+D:\GitClones\QuickLootEE\src\Events/Events.h(132): [info] Registered class Events::CombatManager
+D:\GitClones\QuickLootEE\src\Events/Events.h(249): [info] Registered all event handlers
+D:\GitClones\QuickLootEE\src\Scaleform/LootMenu.h(31): [info] Registered LootMenu
+D:\GitClones\QuickLootEE\src\Scaleform\Scaleform.cpp(10): [info] Registered all movies

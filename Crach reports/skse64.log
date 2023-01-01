@@ -1,0 +1,530 @@
+SKSE64 runtime: initialize (version = 2.2.3 01062800 01D91D75FD874583, os = 6.2 (9200))
+imagebase = 00007FF642600000
+reloc mgr imagebase = 00007FF642600000
+config path = D:\SteamLibrary\steamapps\common\Skyrim Special Edition\Data\SKSE\skse.ini
+plugin directory = D:\SteamLibrary\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\
+scanning plugin directory D:\SteamLibrary\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\
+checking plugin ActorLimitFix.dll
+checking plugin AddItemMenuSE.dll
+checking plugin AHZmoreHUDInventory.dll
+checking plugin AHZmoreHUDPlugin.dll
+checking plugin AlternateConversationCamera.dll
+checking plugin AnimationMotionRevolution.dll
+checking plugin BarterLimitFix.dll
+checking plugin BetterJumpingSE.dll
+checking plugin BetterThirdPersonSelection.dll
+checking plugin BugFixesSSE.dll
+checking plugin CameraShake.dll
+checking plugin cbp.dll
+checking plugin CompassNavigationOverhaul.dll
+checking plugin ConsoleUtilSSE.dll
+checking plugin CrashLogger.dll
+checking plugin EngineFixes.dll
+checking plugin FaceGenFixes.dll
+checking plugin fiss.dll
+checking plugin Fuz Ro D'oh.dll
+checking plugin hdtSMP64.dll
+checking plugin HonedMetal.dll
+checking plugin ImWalkinHere.dll
+checking plugin InfinityUI.dll
+checking plugin JContainers64.dll
+checking plugin MaxsuDetectionMeter.dll
+checking plugin MCMHelper.dll
+checking plugin mfgfix.dll
+checking plugin MoreInformativeConsole.dll
+checking plugin msdia140.dll
+plugin msdia140.dll (00000000  00000000) no version data 0 (handle 0)
+checking plugin OBody.dll
+checking plugin OSA.dll
+checking plugin PapyrusTweaks.dll
+checking plugin PapyrusUtil.dll
+checking plugin po3_Afterlife.dll
+checking plugin po3_LockVariations.dll
+checking plugin po3_PapyrusExtender.dll
+checking plugin po3_ReadOrTakeBooks.dll
+checking plugin po3_SpellPerkItemDistributor.dll
+checking plugin po3_SplashesOfSkyrim.dll
+checking plugin po3_Tweaks.dll
+checking plugin Precision.dll
+checking plugin QuickLootEE.dll
+checking plugin RecursionFPSFix.dll
+checking plugin ScaleformTranslationPP.dll
+checking plugin SchlongsOfSkyrim.dll
+checking plugin SimplyKnock.dll
+checking plugin skee64.dll
+checking plugin SSEDisplayTweaks.dll
+checking plugin TargetFocus.dll
+checking plugin TKPlugin.dll
+plugin TKPlugin.dll (00000000  00000000) no version data 0 (handle 0)
+checking plugin TrueDirectionalMovement.dll
+checking plugin TrueHUD.dll
+checking plugin valhallaCombat.dll
+checking plugin WadeInWater.dll
+checking plugin WhoseQuestIsItAnyway.dll
+checking plugin YesImSure.dll
+checking plugin zzLSARUtil.dll
+loading plugin "Actor Limit Fix"
+plugin ActorLimitFix.dll (00000001 Actor Limit Fix 00000007) loaded correctly (handle 1)
+loading plugin "AddItemMenuNG"
+registering plugin listener for SKSE at 2 of 57
+plugin AddItemMenuSE.dll (00000001 AddItemMenuNG 01040000) loaded correctly (handle 2)
+loading plugin "Ahzaab's moreHUD Inventory Plugin"
+plugin 3 allocated 64 bytes from branch pool
+registering plugin listener for SKSE at 3 of 57
+plugin AHZmoreHUDInventory.dll (00000001 Ahzaab's moreHUD Inventory Plugin 001EAB90) loaded correctly (handle 3)
+loading plugin "Ahzaab's moreHUD Plugin"
+plugin 4 allocated 64 bytes from branch pool
+registering plugin listener for SKSE at 4 of 57
+plugin AHZmoreHUDPlugin.dll (00000001 Ahzaab's moreHUD Plugin 004C9960) loaded correctly (handle 4)
+loading plugin "Alternate Conversation Camera"
+plugin AlternateConversationCamera.dll (00000001 Alternate Conversation Camera 00000001) loaded correctly (handle 5)
+loading plugin "AnimationMotionRevolution"
+plugin 6 allocated 45 bytes from branch pool
+plugin 6 allocated 45 bytes from branch pool
+plugin 6 allocated 49 bytes from branch pool
+plugin 6 allocated 49 bytes from branch pool
+plugin 6 allocated 49 bytes from branch pool
+plugin 6 allocated 49 bytes from branch pool
+plugin AnimationMotionRevolution.dll (00000001 AnimationMotionRevolution 01050030) loaded correctly (handle 6)
+loading plugin "Barter Limit Fix"
+plugin BarterLimitFix.dll (00000001 Barter Limit Fix 00000001) loaded correctly (handle 7)
+loading plugin "BetterJumpingSE"
+plugin BetterJumpingSE.dll (00000001 BetterJumpingSE 00000001) loaded correctly (handle 8)
+loading plugin "BetterThirdPersonSelection"
+plugin 9 allocated 256 bytes from branch pool
+registering plugin listener for SKSE at 9 of 57
+plugin BetterThirdPersonSelection.dll (00000001 BetterThirdPersonSelection 01000000) loaded correctly (handle 9)
+loading plugin "Bug Fixes SSE"
+plugin BugFixesSSE.dll (00000001 Bug Fixes SSE 00000008) loaded correctly (handle 10)
+loading plugin "PluginName"
+registering plugin listener for SKSE at 11 of 57
+plugin 11 allocated 14 bytes from branch pool
+plugin CameraShake.dll (00000001 PluginName 01000000) loaded correctly (handle 11)
+loading plugin "CBPC"
+registering plugin listener for SKSE at 12 of 57
+plugin cbp.dll (00000001 CBPC 00010505) loaded correctly (handle 12)
+loading plugin "CompassNavigationOverhaul"
+registering plugin listener for SKSE at 13 of 57
+plugin 13 allocated 47 bytes from branch pool
+plugin 13 allocated 42 bytes from branch pool
+plugin 13 allocated 42 bytes from branch pool
+plugin 13 allocated 42 bytes from branch pool
+plugin 13 allocated 42 bytes from branch pool
+plugin 13 allocated 42 bytes from branch pool
+plugin 13 allocated 42 bytes from branch pool
+plugin 13 allocated 42 bytes from branch pool
+plugin 13 allocated 42 bytes from branch pool
+plugin CompassNavigationOverhaul.dll (00000001 CompassNavigationOverhaul 01020010) loaded correctly (handle 13)
+loading plugin "ConsoleUtilSSE"
+registering plugin listener for SKSE at 14 of 57
+plugin ConsoleUtilSSE.dll (00000001 ConsoleUtilSSE 01040000) loaded correctly (handle 14)
+loading plugin "CrashLogger"
+plugin CrashLogger.dll (00000001 CrashLogger 01030010) loaded correctly (handle 15)
+loading plugin "6.1.1"
+registering plugin listener for SKSE at 16 of 57
+plugin EngineFixes.dll (00000001 6.1.1 00000006) loaded correctly (handle 16)
+loading plugin "FaceGenFixes"
+plugin FaceGenFixes.dll (00000001 FaceGenFixes 01000030) loaded correctly (handle 17)
+loading plugin "fisses"
+plugin fiss.dll (00000001 fisses 0000008D) loaded correctly (handle 18)
+loading plugin "Fuz Ro D'oh"
+registering plugin listener for SKSE at 19 of 57
+plugin Fuz Ro D'oh.dll (00000001 Fuz Ro D'oh 02034066) loaded correctly (handle 19)
+loading plugin "hdtSMP64"
+registering plugin listener for SKSE at 20 of 57
+plugin hdtSMP64.dll (00000001 hdtSMP64 000199C4) loaded correctly (handle 20)
+loading plugin "HonedMetal"
+plugin HonedMetal.dll (00000001 HonedMetal 00000005) loaded correctly (handle 21)
+loading plugin "ImWalkinHere"
+plugin 22 allocated 16 bytes from branch pool
+registering plugin listener for SKSE at 22 of 57
+plugin ImWalkinHere.dll (00000001 ImWalkinHere 01070000) loaded correctly (handle 22)
+loading plugin "InfinityUI"
+plugin 23 allocated 36 bytes from branch pool
+plugin 23 allocated 42 bytes from branch pool
+plugin InfinityUI.dll (00000001 InfinityUI 01010010) loaded correctly (handle 23)
+loading plugin "JContainers64"
+registering plugin listener for SKSE at 24 of 57
+plugin JContainers64.dll (00000001 JContainers64 00000004) loaded correctly (handle 24)
+loading plugin "MaxsuDetectionMeter"
+registering plugin listener for SKSE at 25 of 57
+plugin MaxsuDetectionMeter.dll (00000001 MaxsuDetectionMeter 01000060) loaded correctly (handle 25)
+loading plugin "MCMHelper"
+registering plugin listener for SKSE at 26 of 57
+plugin MCMHelper.dll (00000001 MCMHelper 01040000) loaded correctly (handle 26)
+loading plugin "mfgfix"
+plugin mfgfix.dll (00000001 mfgfix 01060010) loaded correctly (handle 27)
+loading plugin "More Informative Console"
+registering plugin listener for SKSE at 28 of 57
+plugin MoreInformativeConsole.dll (00000001 More Informative Console 01000000) loaded correctly (handle 28)
+loading plugin "OBody"
+registering plugin listener for SKSE at 29 of 57
+plugin OBody.dll (00000001 OBody 01000000) loaded correctly (handle 29)
+loading plugin "OSA"
+registering plugin listener for SKSE at 30 of 57
+plugin OSA.dll (00000001 OSA 00030000) loaded correctly (handle 30)
+loading plugin "PapyrusTweaks"
+registering plugin listener for SKSE at 31 of 57
+plugin 31 allocated 36 bytes from branch pool
+plugin 31 allocated 14 bytes from branch pool
+plugin 31 allocated 14 bytes from branch pool
+plugin 31 allocated 14 bytes from branch pool
+plugin 31 allocated 14 bytes from branch pool
+plugin 31 allocated 14 bytes from branch pool
+plugin 31 allocated 14 bytes from branch pool
+plugin PapyrusTweaks.dll (00000001 PapyrusTweaks 00000000) loaded correctly (handle 31)
+loading plugin "PapyrusUtil"
+plugin PapyrusUtil.dll (00000001 PapyrusUtil 00000002) loaded correctly (handle 32)
+loading plugin "Afterlife"
+registering plugin listener for SKSE at 33 of 57
+plugin po3_Afterlife.dll (00000001 Afterlife 01000000) loaded correctly (handle 33)
+loading plugin "Lock Variations"
+registering plugin listener for SKSE at 34 of 57
+plugin po3_LockVariations.dll (00000001 Lock Variations 03000000) loaded correctly (handle 34)
+loading plugin "powerofthree's Papyrus Extender"
+registering plugin listener for SKSE at 35 of 57
+plugin po3_PapyrusExtender.dll (00000001 powerofthree's Papyrus Extender 05000000) loaded correctly (handle 35)
+loading plugin "Read Or Take Books"
+registering plugin listener for SKSE at 36 of 57
+plugin po3_ReadOrTakeBooks.dll (00000001 Read Or Take Books 01000000) loaded correctly (handle 36)
+loading plugin "Spell Perk Item Distributor"
+registering plugin listener for SKSE at 37 of 57
+plugin po3_SpellPerkItemDistributor.dll (00000001 Spell Perk Item Distributor 06000000) loaded correctly (handle 37)
+loading plugin "Splashes of Skyrim"
+registering plugin listener for SKSE at 38 of 57
+plugin po3_SplashesOfSkyrim.dll (00000001 Splashes of Skyrim 01000000) loaded correctly (handle 38)
+loading plugin "po3_Tweaks"
+registering plugin listener for SKSE at 39 of 57
+plugin po3_Tweaks.dll (00000001 po3_Tweaks 01000000) loaded correctly (handle 39)
+loading plugin "Precision"
+plugin 40 allocated 1024 bytes from branch pool
+registering plugin listener for SKSE at 40 of 57
+plugin Precision.dll (00000001 Precision 02000000) loaded correctly (handle 40)
+loading plugin "QuickLootEE"
+plugin 41 allocated 64 bytes from branch pool
+registering plugin listener for SKSE at 41 of 57
+plugin QuickLootEE.dll (00000001 QuickLootEE 01010000) loaded correctly (handle 41)
+loading plugin "Recursion FPS Fix"
+plugin 42 allocated 14 bytes from branch pool
+plugin 42 allocated 14 bytes from branch pool
+plugin RecursionFPSFix.dll (00000001 Recursion FPS Fix 01000000) loaded correctly (handle 42)
+loading plugin "ScaleformTranslationPP"
+plugin 43 allocated 16 bytes from branch pool
+registering plugin listener for SKSE at 43 of 57
+plugin ScaleformTranslationPP.dll (00000001 ScaleformTranslationPP 01060000) loaded correctly (handle 43)
+loading plugin "SchlongsOfSkyrim"
+plugin SchlongsOfSkyrim.dll (00000001 SchlongsOfSkyrim 000493E4) loaded correctly (handle 44)
+loading plugin "SimplyKnock (by Chesko)"
+plugin SimplyKnock.dll (00000001 SimplyKnock (by Chesko) 00000001) loaded correctly (handle 45)
+loading plugin "skee"
+registering plugin listener for SKSE at 46 of 57
+plugin 46 allocated 512 bytes from branch pool
+plugin 46 allocated 512 bytes from local pool
+plugin skee64.dll (00000001 skee 00000001) loaded correctly (handle 46)
+loading plugin "SSEDisplayTweaks"
+plugin 47 allocated 512 bytes from branch pool
+plugin 47 allocated 1536 bytes from local pool
+registering plugin listener for SKSE at 47 of 57
+plugin SSEDisplayTweaks.dll (00000001 SSEDisplayTweaks 0000050C) loaded correctly (handle 47)
+loading plugin "TargetFocus"
+registering plugin listener for SKSE at 48 of 57
+plugin TargetFocus.dll (00000001 TargetFocus 01020000) loaded correctly (handle 48)
+loading plugin "TrueDirectionalMovement"
+plugin 49 allocated 512 bytes from branch pool
+registering plugin listener for SKSE at 49 of 57
+plugin TrueDirectionalMovement.dll (00000001 TrueDirectionalMovement 02020030) loaded correctly (handle 49)
+loading plugin "TrueHUD"
+plugin 50 allocated 256 bytes from branch pool
+registering plugin listener for SKSE at 50 of 57
+plugin TrueHUD.dll (00000001 TrueHUD 01010080) loaded correctly (handle 50)
+loading plugin "ValhallaCombat"
+registering plugin listener for SKSE at 51 of 57
+plugin valhallaCombat.dll (00000001 ValhallaCombat 01000000) loaded correctly (handle 51)
+loading plugin "WadeInWater"
+plugin 52 allocated 14 bytes from branch pool
+plugin WadeInWater.dll (00000001 WadeInWater 01000000) loaded correctly (handle 52)
+loading plugin "WhoseQuestIsItAnyway"
+plugin 53 allocated 64 bytes from branch pool
+plugin WhoseQuestIsItAnyway.dll (00000001 WhoseQuestIsItAnyway 01050000) loaded correctly (handle 53)
+loading plugin "YesImSure"
+plugin 54 allocated 16 bytes from branch pool
+plugin YesImSure.dll (00000001 YesImSure 01070000) loaded correctly (handle 54)
+loading plugin "zzLSARUtil"
+registering plugin listener for SKSE at 55 of 57
+plugin zzLSARUtil.dll (00000001 zzLSARUtil 00000004) loaded correctly (handle 55)
+dispatch message (0) to plugin listeners
+sending message type 0 to plugin 2
+sending message type 0 to plugin 3
+sending message type 0 to plugin 4
+sending message type 0 to plugin 9
+sending message type 0 to plugin 11
+sending message type 0 to plugin 12
+sending message type 0 to plugin 13
+registering plugin listener for InfinityUI at 13 of 56
+sending message type 0 to plugin 14
+sending message type 0 to plugin 16
+sending message type 0 to plugin 19
+sending message type 0 to plugin 20
+sending message type 0 to plugin 22
+sending message type 0 to plugin 24
+sending message type 0 to plugin 25
+sending message type 0 to plugin 26
+sending message type 0 to plugin 28
+sending message type 0 to plugin 29
+sending message type 0 to plugin 30
+registering plugin listener for (null) at 30 of 56
+sending message type 0 to plugin 31
+sending message type 0 to plugin 33
+sending message type 0 to plugin 34
+plugin 34 allocated 14 bytes from branch pool
+plugin 34 allocated 14 bytes from branch pool
+plugin 34 allocated 14 bytes from branch pool
+plugin 34 allocated 14 bytes from branch pool
+plugin 34 allocated 14 bytes from branch pool
+plugin 34 allocated 14 bytes from branch pool
+plugin 34 allocated 14 bytes from branch pool
+sending message type 0 to plugin 35
+sending message type 0 to plugin 36
+sending message type 0 to plugin 37
+plugin 37 allocated 14 bytes from branch pool
+sending message type 0 to plugin 38
+plugin 38 allocated 14 bytes from branch pool
+sending message type 0 to plugin 39
+plugin 39 allocated 14 bytes from branch pool
+plugin 39 allocated 14 bytes from branch pool
+plugin 39 allocated 14 bytes from branch pool
+plugin 39 allocated 14 bytes from branch pool
+plugin 39 allocated 14 bytes from branch pool
+plugin 39 allocated 14 bytes from branch pool
+plugin 39 allocated 14 bytes from branch pool
+plugin 39 allocated 14 bytes from branch pool
+plugin 39 allocated 14 bytes from branch pool
+plugin 39 allocated 31 bytes from branch pool
+plugin 39 allocated 14 bytes from branch pool
+sending message type 0 to plugin 40
+sending message type 0 to plugin 41
+sending message type 0 to plugin 43
+sending message type 0 to plugin 46
+registering plugin listener for (null) at 46 of 56
+sending message type 0 to plugin 47
+sending message type 0 to plugin 48
+sending message type 0 to plugin 49
+registering plugin listener for SmoothCam at 49 of 56
+dispatch message (0) to plugin listeners
+sending message type 0 to plugin 50
+sending message type 0 to plugin 51
+sending message type 0 to plugin 55
+dispatched message.
+dispatch message (1) to plugin listeners
+sending message type 1 to plugin 2
+sending message type 1 to plugin 3
+sending message type 1 to plugin 4
+sending message type 1 to plugin 9
+sending message type 1 to plugin 11
+sending message type 1 to plugin 12
+sending message type 1 to plugin 13
+sending message type 1 to plugin 14
+sending message type 1 to plugin 16
+sending message type 1 to plugin 19
+sending message type 1 to plugin 20
+dispatch message (0) to plugin listeners
+sending message type 0 to plugin 30
+sending message type 0 to plugin 46
+dispatched message.
+sending message type 1 to plugin 22
+sending message type 1 to plugin 24
+dispatch message (1) to plugin listeners
+sending message type 1 to plugin 30
+sending message type 1 to plugin 46
+dispatched message.
+sending message type 1 to plugin 25
+sending message type 1 to plugin 26
+sending message type 1 to plugin 28
+sending message type 1 to plugin 29
+dispatch message (-1640531527) to plugin listeners
+sending message type 1 to plugin 30
+dispatch message (-1640531527) to plugin listeners
+sending message type 1 to plugin 31
+sending message type 1 to plugin 33
+sending message type 1 to plugin 34
+sending message type 1 to plugin 35
+sending message type 1 to plugin 36
+sending message type 1 to plugin 37
+sending message type 1 to plugin 38
+sending message type 1 to plugin 39
+sending message type 1 to plugin 40
+sending message type 1 to plugin 41
+sending message type 1 to plugin 43
+sending message type 1 to plugin 46
+sending message type 1 to plugin 47
+sending message type 1 to plugin 48
+sending message type 1 to plugin 49
+registering plugin listener for SmoothCam at 49 of 56
+dispatch message (0) to plugin listeners
+sending message type 1 to plugin 50
+sending message type 1 to plugin 51
+sending message type 1 to plugin 55
+dispatched message.
+init complete
+hooked dinput
+dispatch message (6) to plugin listeners
+sending message type 6 to plugin 2
+sending message type 6 to plugin 3
+sending message type 6 to plugin 4
+sending message type 6 to plugin 9
+sending message type 6 to plugin 11
+sending message type 6 to plugin 12
+sending message type 6 to plugin 13
+sending message type 6 to plugin 14
+sending message type 6 to plugin 16
+sending message type 6 to plugin 19
+sending message type 6 to plugin 20
+sending message type 6 to plugin 22
+sending message type 6 to plugin 24
+sending message type 6 to plugin 25
+sending message type 6 to plugin 26
+sending message type 6 to plugin 28
+sending message type 6 to plugin 29
+sending message type 6 to plugin 30
+sending message type 6 to plugin 31
+sending message type 6 to plugin 33
+sending message type 6 to plugin 34
+sending message type 6 to plugin 35
+sending message type 6 to plugin 36
+sending message type 6 to plugin 37
+sending message type 6 to plugin 38
+sending message type 6 to plugin 39
+sending message type 6 to plugin 40
+sending message type 6 to plugin 41
+sending message type 6 to plugin 43
+sending message type 6 to plugin 46
+sending message type 6 to plugin 47
+sending message type 6 to plugin 48
+sending message type 6 to plugin 49
+sending message type 6 to plugin 50
+sending message type 6 to plugin 51
+sending message type 6 to plugin 55
+dispatched message.
+Reading translations from Interface\Translations\LegacyoftheDragonborn_ENGLISH.txt...
+Reading translations from Interface\Translations\FlowerGirls SE_ENGLISH.txt...
+Reading translations from Interface\Translations\Expressive Facegen Morphs_ENGLISH.txt...
+Reading translations from Interface\Translations\Devourment_ENGLISH.txt...
+Reading translations from Interface\Translations\Schlongs of Skyrim - Core_ENGLISH.txt...
+Reading translations from Interface\Translations\TrueHUD_ENGLISH.txt...
+Reading translations from Interface\Translations\Wyrmstooth_ENGLISH.txt...
+Reading translations from Interface\Translations\AHZmoreHUD_ENGLISH.txt...
+Reading translations from Interface\Translations\SkyUI_SE_ENGLISH.txt...
+Reading translations from Interface\Translations\AcquisitiveSoulGemMultithreaded_ENGLISH.txt...
+Reading translations from Interface\Translations\UIExtensions_ENGLISH.txt...
+Reading translations from Interface\Translations\AddItemMenuSE_ENGLISH.txt...
+Reading translations from Interface\Translations\BetterThirdPersonSelection_ENGLISH.txt...
+Reading translations from Interface\Translations\HonedMetal_ENGLISH.txt...
+Reading translations from Interface\Translations\zzLSAR_ENGLISH.txt...
+Reading translations from Interface\Translations\MCMHelper_ENGLISH.txt...
+Reading translations from Interface\Translations\OBody_ENGLISH.txt...
+Reading translations from Interface\Translations\OStim_ENGLISH.txt...
+Reading translations from Interface\Translations\OVirginity_ENGLISH.txt...
+Reading translations from Interface\Translations\OCum_ENGLISH.txt...
+Reading translations from Interface\Translations\Precision_ENGLISH.txt...
+Reading translations from Interface\Translations\RaceMenu_ENGLISH.txt...
+Reading translations from Interface\Translations\RaceMenuPlugin_ENGLISH.txt...
+Reading translations from Interface\Translations\RelationshipRankNotificationsDialogue_ENGLISH.txt...
+Reading translations from Interface\Translations\SimplyKnock_ENGLISH.txt...
+Reading translations from Interface\Translations\TrueDirectionalMovement_ENGLISH.txt...
+Reading translations from Interface\Translations\TKDodge_ENGLISH.txt...
+Reading translations from Interface\Translations\ValhallaCombat_ENGLISH.txt...
+Reading translations from Interface\Translations\XPMSE_ENGLISH.txt...
+Reading translations from Interface\Translations\BHUNP3BBB_ENGLISH.txt...
+Reading translations from Interface\Translations\VioLens SE_ENGLISH.txt...
+Reading translations from Interface\Translations\nwsFollowerFramework_ENGLISH.txt...
+dispatch message (5) to plugin listeners
+sending message type 5 to plugin 13
+sending message type 5 to plugin 30
+sending message type 5 to plugin 46
+dispatched message.
+dispatch message (5) to plugin listeners
+sending message type 5 to plugin 13
+sending message type 5 to plugin 30
+sending message type 5 to plugin 46
+dispatched message.
+dispatch message (5) to plugin listeners
+sending message type 5 to plugin 13
+sending message type 5 to plugin 30
+sending message type 5 to plugin 46
+dispatched message.
+dispatch message (5) to plugin listeners
+sending message type 5 to plugin 13
+sending message type 5 to plugin 30
+sending message type 5 to plugin 46
+dispatched message.
+dispatch message (8) to plugin listeners
+sending message type 8 to plugin 2
+sending message type 8 to plugin 3
+sending message type 8 to plugin 4
+sending message type 8 to plugin 9
+sending message type 8 to plugin 11
+sending message type 8 to plugin 12
+sending message type 8 to plugin 13
+sending message type 8 to plugin 14
+sending message type 8 to plugin 16
+sending message type 8 to plugin 19
+sending message type 8 to plugin 20
+sending message type 8 to plugin 22
+sending message type 8 to plugin 24
+sending message type 8 to plugin 25
+sending message type 8 to plugin 26
+sending message type 8 to plugin 28
+sending message type 8 to plugin 29
+sending message type 8 to plugin 30
+sending message type 8 to plugin 31
+sending message type 8 to plugin 33
+sending message type 8 to plugin 34
+sending message type 8 to plugin 35
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+plugin 35 allocated 14 bytes from branch pool
+sending message type 8 to plugin 36
+sending message type 8 to plugin 37
+sending message type 8 to plugin 38
+sending message type 8 to plugin 39
+sending message type 8 to plugin 40
+sending message type 8 to plugin 41
+sending message type 8 to plugin 43
+sending message type 8 to plugin 46
+sending message type 8 to plugin 47
+sending message type 8 to plugin 48
+sending message type 8 to plugin 49
+registering plugin listener for SmoothCam at 49 of 56
+dispatch message (0) to plugin listeners
+sending message type 8 to plugin 50
+sending message type 8 to plugin 51
+plugin 51 allocated 256 bytes from branch pool
+sending message type 8 to plugin 55
+dispatched message.
+dispatch message (5) to plugin listeners
+sending message type 5 to plugin 13
+sending message type 5 to plugin 30
+sending message type 5 to plugin 46
+dispatched message.
+dispatch message (5) to plugin listeners
+sending message type 5 to plugin 13
+sending message type 5 to plugin 30
+sending message type 5 to plugin 46
+dispatched message.
+dispatch message (5) to plugin listeners
+sending message type 5 to plugin 13
+sending message type 5 to plugin 30
+sending message type 5 to plugin 46
+dispatched message.

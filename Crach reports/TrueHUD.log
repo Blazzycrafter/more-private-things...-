@@ -1,0 +1,24 @@
+E:\Repos\TrueHUD\src\main.cpp(99): [info] TrueHUD v1-1-8-0
+E:\Repos\TrueHUD\src\Papyrus.cpp(24): [info] Registered papyrus functions
+E:\Repos\TrueHUD\src\main.cpp(119): [info] TrueHUD::RequestPluginAPI called, InterfaceVersion 2
+E:\Repos\TrueHUD\src\main.cpp(129): [info] TrueHUD::RequestPluginAPI returned the API singleton
+E:\Repos\TrueHUD\src\main.cpp(119): [info] TrueHUD::RequestPluginAPI called, InterfaceVersion 2
+E:\Repos\TrueHUD\src\main.cpp(129): [info] TrueHUD::RequestPluginAPI returned the API singleton
+E:\Repos\TrueHUD\src\Papyrus.cpp(16): [info] Registered TrueHUD_MCM class
+E:\Repos\TrueHUD\src\main.cpp(119): [info] TrueHUD::RequestPluginAPI called, InterfaceVersion 2
+E:\Repos\TrueHUD\src\main.cpp(129): [info] TrueHUD::RequestPluginAPI returned the API singleton
+E:\Repos\TrueHUD\src\Scaleform\TrueHUDMenu.cpp(17): [info] Registered TrueHUD
+E:\Repos\TrueHUD\src\Scaleform\Scaleform.cpp(65): [info] Registered all movies
+E:\Repos\TrueHUD\src\HUDHandler.cpp(11): [info] Registered struct RE::TESCombatEvent
+E:\Repos\TrueHUD\src\HUDHandler.cpp(13): [info] Registered struct RE::TESDeathEvent
+E:\Repos\TrueHUD\src\HUDHandler.cpp(15): [info] Registered struct RE::TESEnterBleedoutEvent
+E:\Repos\TrueHUD\src\HUDHandler.cpp(17): [info] Registered struct RE::TESHitEvent
+E:\Repos\TrueHUD\src\HUDHandler.cpp(20): [info] Registered class RE::MenuOpenCloseEvent
+E:\Repos\TrueHUD\src\Settings.cpp(8): [info] Initializing...
+E:\Repos\TrueHUD\src\Settings.cpp(34): [info] ...success
+E:\Repos\TrueHUD\src\Settings.cpp(39): [info] Reading boss .inis...
+E:\Repos\TrueHUD\src\Settings.cpp(54): [info]   Reading Data/SKSE/Plugins/TrueDirectionalMovement/TrueDirectionalMovement_base.ini...
+E:\Repos\TrueHUD\src\Settings.cpp(54): [info]   Reading Data/SKSE/Plugins/TrueHUD/TrueHUD_base.ini...
+E:\Repos\TrueHUD\src\Settings.cpp(226): [info] ...success
+E:\Repos\TrueHUD\src\Settings.cpp(397): [info] Reading MCM .ini...
+E:\Repos\TrueHUD\src\Settings.cpp(402): [info] ...success
