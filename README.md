@@ -6,6 +6,6 @@ if you want to use something, clone the appropriate folder...
 
 and specify my name...
 
-everything here is under "GNU GPL 3" license
+everything here is under "MIT" license
 
 (unless i say otherwise)
